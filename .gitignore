@@ -1,0 +1,16 @@
+# Secrets / local env
+.venv/
+__pycache__/
+*.pyc
+.mplcache/
+.DS_Store
+
+# Proposal docs and paper (local only)
+*.md
+*.pdf
+
+# Editor
+.idea/
+.vscode/
+*.egg-info/
+.pytest_cache/

@@ -1,0 +1,17 @@
+agent,lambda_so,net_value
+Dyn-BATNA,0.0,0.5462
+Dyn-tau-nohedge,0.0,0.607
+Static-tau,0.0,0.555
+Surplus,0.0,0.4729
+Dyn-BATNA,0.5,0.543
+Dyn-tau-nohedge,0.5,0.5583
+Static-tau,0.5,0.5161
+Surplus,0.5,0.4478
+Dyn-BATNA,1.0,0.5398
+Dyn-tau-nohedge,1.0,0.5095
+Static-tau,1.0,0.4772
+Surplus,1.0,0.4228
+Dyn-BATNA,2.0,0.5334
+Dyn-tau-nohedge,2.0,0.4119
+Static-tau,2.0,0.3994
+Surplus,2.0,0.3727
