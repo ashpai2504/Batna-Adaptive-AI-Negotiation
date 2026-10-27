@@ -1,0 +1,2066 @@
+portid,portname,country,ISO3,continent,lat,lon,vessel_count_total,vessel_count_container,LOCODE
+port1325,Tsuruga,Japan,JPN,Asia & Pacific,35.66719379,136.0706107,529,77,JP TRG
+port1198,Sibolga,Indonesia,IDN,Asia & Pacific,1.734969159,98.78171534,81,28,ID SLG
+port339,Fangcheng,China,CHN,Asia & Pacific,21.61420534,108.3643393,1968,34,CN FAN
+port1335,Ube,Japan,JPN,Asia & Pacific,33.94487467,131.2131838,4799,13,JP UBJ
+port153,Bluff Harbor,New Zealand,NZL,Asia & Pacific,-46.59012995,168.360216,240,43,
+port1334,Tynemouth,United Kingdom,GBR,Europe,54.98616295,-1.475073161,440,75,GB TYM
+port897,Penglai,China,CHN,Asia & Pacific,37.79885005,120.7289755,180,3,
+port750,Misrata,Libya,LBY,Africa,32.34398379,15.21512828,930,400,
+port563,Khorramshahr,Iran,IRN,Asia & Pacific,30.44360334,48.15439964,154,21,IR KHO
+port1343,Uno,Japan,JPN,Asia & Pacific,34.56607811,133.9734693,270,0,JP UNO
+port1224,Stagen,Indonesia,IDN,Asia & Pacific,-3.279758294,116.1224426,399,32,
+port834,Nowshahr Port,Iran,IRN,Asia & Pacific,36.65505162,51.50857211,174,1,
+port1069,Qingdao Port,China,CHN,Asia & Pacific,36.02677905,120.2226181,11381,7270,CN QDG
+port1345,Uwajima,Japan,JPN,Asia & Pacific,33.2210061,132.5502829,107,0,JP UWA
+port23,Alexandria,Egypt,EGY,Africa,31.15536502,29.83759053,3206,976,EG ALY
+port743,Mina Al Ahmadi,Kuwait,KWT,Asia & Pacific,29.0455478,48.14514574,509,0,
+port1400,Wisbech,United Kingdom,GBR,Europe,52.66901607,0.154648333,71,7,GB WIS
+port1378,Kitakyushu (Wakamatsu),Japan,JPN,Asia & Pacific,33.91060335,130.8126336,6205,3,
+port1070,Dongjiakou,China,CHN,Asia & Pacific,35.60931763,119.763278,2103,46,
+port71,As Suways,Egypt,EGY,Africa,29.95100833,32.53063921,194,2,
+port45,Amsterdam,The Netherlands,NLD,Europe,52.41036165,4.819634112,8246,371,NL AMS
+port1237,Surabaya,Indonesia,IDN,Asia & Pacific,-7.200873409,112.7216675,6104,2701,ID SUB
+port1379,Wakayama-Shimotsu,Japan,JPN,Asia & Pacific,34.18417973,135.1334894,4517,22,JP WAK
+port458,Hay Point,Australia,AUS,Asia & Pacific,-21.28124079,149.287454,1091,1,AU HPT
+port1402,Workington,United Kingdom,GBR,Europe,54.65091454,-3.56319396,90,5,GB WOR
+port1071,Qinzhou,China,CHN,Asia & Pacific,21.67876784,108.6383226,3588,1184,CN QZH
+port396,Gisborne,New Zealand,NZL,Asia & Pacific,-38.67590403,178.0277769,120,0,NZ GIS
+port1072,Qinhuangdao,China,CHN,Asia & Pacific,39.92645539,119.6500066,3049,105,CN SHP
+port1262,Tanah Merah,Indonesia,IDN,Asia & Pacific,-1.820176741,116.1567239,102,0,ID TAL
+port1142,San Giorgio,Italy,ITA,Europe,45.78711073,13.22900917,254,9,
+port1073,Qiwei,China,CHN,Asia & Pacific,31.99831756,120.6176242,5837,194,
+port1411,Yatsushiro,Japan,JPN,Asia & Pacific,32.52343634,130.5536759,897,90,JP YAT
+port767,Morehead City,United States,USA,North America,34.71782416,-76.69601781,127,5,US MRH
+port191,Safaga,Egypt,EGY,Africa,26.72555551,33.9422311,221,1,EG SGA
+port1412,Yawatahama,Japan,JPN,Asia & Pacific,33.45700083,132.4170745,101,0,JP YWH
+port370,Fuzhou,China,CHN,Asia & Pacific,25.77760491,119.4743241,2718,1071,CN FZG
+port1416,Yokkaichi,Japan,JPN,Asia & Pacific,34.97134904,136.6563083,7678,666,JP YKK
+port1074,Quanzhou,China,CHN,Asia & Pacific,24.84610329,118.7030793,710,342,CN QZL
+port1267,Tanjung Benete,Indonesia,IDN,Asia & Pacific,-8.901785947,116.7448775,177,26,
+port285,Delfzijl,The Netherlands,NLD,Europe,53.31497835,6.964153498,733,31,NL DZL
+port4,Abidjan,Côte d'Ivoire,CIV,Africa,5.283956223,-4.010908317,1508,615,CI ABJ
+port192,Port Said,Egypt,EGY,Africa,31.24958629,32.30771942,857,471,EG PSD
+port1105,Rizhao,China,CHN,Asia & Pacific,35.34890965,119.5325575,3069,620,CN RZH
+port469,Hobart,Australia,AUS,Asia & Pacific,-42.84702725,147.3220197,157,0,AU HBA
+port1417,Yokohama,Japan,JPN,Asia & Pacific,35.42755553,139.6688123,14372,4822,JP YOK
+port1268,Tanjung Geren,Indonesia,IDN,Asia & Pacific,-5.963722374,105.9991515,888,0,
+port1418,Yokosuka,Japan,JPN,Asia & Pacific,35.32099664,139.6535592,696,0,JP YOS
+port274,Damietta,Egypt,EGY,Africa,31.46213686,31.75947248,2238,729,EG DAM
+port16,Aktau Port,Kazakhstan,KAZ,Europe,43.60236745,51.22857007,1030,1,KZ AAU
+port1146,San Pedro,Côte d'Ivoire,CIV,Africa,4.744742838,-6.618654452,391,232,CI SPY
+port129,Bautino,Kazakhstan,KAZ,Europe,44.55577479,50.25897914,36,0,KZ BTN
+port321,Al Adabiyah,Egypt,EGY,Africa,29.90416291,32.46211563,475,41,EG ADA
+port5,Abu Dhabi,United Arab Emirates,ARE,Asia & Pacific,24.61243288,54.563683,1103,4,AE AUH
+port17,Akureyri,Iceland,ISL,Europe,65.69501582,-18.09587949,128,35,IS AKU
+port13,Ajman,United Arab Emirates,ARE,Asia & Pacific,25.41978684,55.45367849,363,259,AE AJM
+port295,Djúpivogur,Iceland,ISL,Europe,64.66058562,-14.28688965,7,0,IS DJU
+port22,Al Hamriyah LPG Terminal,United Arab Emirates,ARE,Asia & Pacific,25.46752849,55.49501172,1194,10,AE HAM
+port329,Eskifjordhur,Iceland,ISL,Europe,65.04291822,-14.08675648,188,56,
+port72,Sharjah,United Arab Emirates,ARE,Asia & Pacific,25.36312735,55.37623329,1364,375,AE SHJ
+port1098,Reykjavík,Iceland,ISL,Europe,64.16372639,-21.84320935,568,377,IS REY
+port306,Dubai,United Arab Emirates,ARE,Asia & Pacific,25.27337362,55.290821,1752,123,AE DXB
+port19,Aqaba,Jordan,JOR,Asia & Pacific,29.45171189,34.95864074,952,279,JO AQB
+port808,New Bedford,United States,USA,North America,41.62842538,-70.91210615,10,0,US NBD
+port1151,Sanshandaocun,China,CHN,Asia & Pacific,37.41485613,119.9564727,411,4,CN SSD
+port362,Fujairah,United Arab Emirates,ARE,Asia & Pacific,25.20017278,56.35942059,3462,8,
+port1187,Shantou,China,CHN,Asia & Pacific,23.39769643,116.6032633,552,90,CN STG
+port512,Jabal Az Zannah-Ruways,United Arab Emirates,ARE,Asia & Pacific,24.12697586,52.71021364,1379,263,AE JED
+port1188,Shanghai,China,CHN,Asia & Pacific,31.19179536,121.6441968,41093,12110,CN SGH
+port561,Khor Fakkan,United Arab Emirates,ARE,Asia & Pacific,25.35368858,56.36875484,293,70,AE KLF
+port1189,Shekou (Shenzhen),China,CHN,Asia & Pacific,22.58146762,113.8103377,3509,3236,
+port744,Jebel Ali,United Arab Emirates,ARE,Asia & Pacific,24.99941947,55.07781687,7734,4495,AE JEA
+port1191,Shidao Newport,China,CHN,Asia & Pacific,36.88099953,122.4025344,1110,166,
+port747,Mina Saqr,United Arab Emirates,ARE,Asia & Pacific,25.96728647,56.06305892,1467,174,AE MSA
+port1192,Shijing Longxiang,China,CHN,Asia & Pacific,24.6609656,118.4382757,185,2,
+port1340,Umm al Qaiwain,United Arab Emirates,ARE,Asia & Pacific,25.58810902,55.58024004,127,44,AE QIW
+port1195,Shougang Jingtang,China,CHN,Asia & Pacific,39.00686524,118.4754927,4800,45,
+port794,Napier,New Zealand,NZL,Asia & Pacific,-39.47534995,176.9179294,539,252,NZ NPE
+port20,Al Basrah,Iraq,IRQ,Asia & Pacific,30.55796288,47.79778641,5,1,IQ BSR
+port1167,Sarroch Oil Terminal,Italy,ITA,Europe,39.08586095,9.013000658,649,0,IT PFX
+port1341,Umm Qasr,Iraq,IRQ,Asia & Pacific,30.1137845,47.90182168,1943,459,IQ UQR
+port375,Gaogang,China,CHN,Asia & Pacific,32.31346734,119.8111009,1010,16,CN GAO
+port21,Ras Lanuf (Al Burayqah),Libya,LBY,Africa,30.40706634,19.59836261,67,3,
+port85,Az Zawiyah,Libya,LBY,Africa,32.78550356,12.70000845,182,0,LY ZAW
+port26,Latakia,Syria,SYR,Asia & Pacific,35.52359965,35.77044914,189,115,SY LTK
+port110,Benghazi,Libya,LBY,Africa,32.1115254,20.04737392,526,162,LY BEN
+port334,Ez Zueitina,Libya,LBY,Africa,30.89542737,20.08311579,37,0,LY ZUE
+port316,Eemshaven,The Netherlands,NLD,Europe,53.44141225,6.841979621,617,52,NL EEM
+port562,Khoms,Libya,LBY,Africa,32.67784227,14.24506823,249,120,LY KHO
+port710,Mellitah,Libya,LBY,Africa,32.85456191,12.23806372,55,0,LY MEL
+port809,New Haven,United States,USA,North America,41.27574662,-72.89315049,169,1,US HVN
+port734,Marsa Tobruk,Libya,LBY,Africa,32.06112409,23.98421662,114,4,LY TOB
+port748,Tripoli,Libya,LBY,Africa,32.90465619,13.20058361,364,116,LY TIP
+port804,Nelson,New Zealand,NZL,Asia & Pacific,-41.26122281,173.2760081,324,136,NZ NSN
+port1431,Palma de Mallorca,Spain,ESP,Europe,39.55412038,2.632705972,234,2,ES PMI
+port6,Acajutla,El Salvador,SLV,North America,13.57544007,-89.82967226,661,178,SV AQJ
+port1196,Shui Dong,China,CHN,Asia & Pacific,21.47648316,111.0730326,623,0,
+port1171,Savona,Italy,ITA,Europe,44.31020779,8.493827276,704,54,
+port7,Acapulco,Mexico,MEX,North America,16.84281811,-99.8724081,90,0,MX ACA
+port591,Koolan,Australia,AUS,Asia & Pacific,-16.14294107,123.7504541,31,0,
+port1233,Sundaomen Wuz,China,CHN,Asia & Pacific,38.05634359,118.0393478,117,0,
+port30,Ålesund,Norway,NOR,Europe,62.4728339,6.154027256,929,288,NO AES
+port1249,Taganrog,Russian Federation,RUS,Europe,47.20266132,38.95006857,431,1,RU TAG
+port410,Gourd Shanzui,China,CHN,Asia & Pacific,39.53469957,121.2982468,2148,3,
+port1253,Suzhou (Taicang),China,CHN,Asia & Pacific,31.68751575,121.137616,8374,1516,
+port454,Harlingen,The Netherlands,NLD,Europe,53.1828773,5.428138301,248,24,NL HAR
+port0,Abbot Point,Australia,AUS,Asia & Pacific,-19.89375525,148.0776204,366,0,AU ABP
+port39,Alvika,Norway,NOR,Europe,62.47917202,6.371692045,302,21,NO ALV
+port1266,Tangshan (Jingtang),China,CHN,Asia & Pacific,39.23528919,119.0212469,3492,294,
+port675,Mackay,Australia,AUS,Asia & Pacific,-21.10734084,149.222819,195,0,AU MKY
+port1270,Tanjung Sangata,Indonesia,IDN,Asia & Pacific,0.534994857,117.6428356,396,0,
+port1297,Tianjin Xin Gang,China,CHN,Asia & Pacific,38.9397259,117.7336149,11678,3747,
+port812,New Orleans,United States,USA,North America,29.93003343,-90.13086772,5783,430,US MSY
+port38,Altamira,Mexico,MEX,North America,22.48409602,-97.88500212,1692,600,MX ATM
+port1385,Weifang Port,China,CHN,Asia & Pacific,37.26008605,119.0414526,982,133,
+port1281,Teluk Bayur,Indonesia,IDN,Asia & Pacific,-1.021178175,100.3880034,1138,138,ID TBR
+port252,Coatzacoalcos,Mexico,MEX,North America,18.12075961,-94.40048653,1148,48,MX COA
+port423,Guangdong Yangjiang Port,China,CHN,Asia & Pacific,21.69554902,111.8415794,576,2,
+port32,Alger,Algeria,DZA,Africa,36.76668624,3.06628765,1075,483,
+port298,Dos Bocas Terminal,Mexico,MEX,North America,18.4321946,-93.18303296,108,0,MX DBT
+port813,New Plymouth,New Zealand,NZL,Asia & Pacific,-39.0583807,174.0315698,264,0,NZ NPL
+port326,Ensenada,Mexico,MEX,North America,31.84956467,-116.6245993,365,233,MX ESE
+port1369,Vladivostok,Russian Federation,RUS,Europe,43.09088665,131.8967883,4051,970,RU VVO
+port1386,Weihai,China,CHN,Asia & Pacific,37.45036229,122.2123773,868,429,CN WEI
+port1275,Taranto,Italy,ITA,Europe,40.50043567,17.19039046,766,49,IT TAR
+port487,IJmuiden,The Netherlands,NLD,Europe,52.47671569,4.617278256,3079,310,NL IJM
+port427,Guaymas,Mexico,MEX,North America,27.92331318,-110.8673642,400,5,MX GYM
+port64,Årdalstangen,Norway,NOR,Europe,61.2355915,7.709705946,202,34,NO ARD
+port1390,Wenzhou,China,CHN,Asia & Pacific,28.0006769,120.9135209,583,35,CN WNZ
+port815,New York-New Jersey,United States,USA,North America,40.63298387,-74.17942126,3883,2190,
+port637,Lazaro Cardenas,Mexico,MEX,North America,17.94425213,-102.1843711,1620,824,MX LZC
+port1403,Xiagong,China,CHN,Asia & Pacific,26.56552028,119.7215338,1613,52,
+port729,Melbourne,Australia,AUS,Asia & Pacific,-37.82817816,144.9175597,1962,980,AU MEL
+port1287,Tg. Sorong,Indonesia,IDN,Asia & Pacific,-0.876728719,131.2494015,254,85,
+port699,Manzanillo,Mexico,MEX,North America,19.05626745,-104.2876609,1875,1166,MX ZLO
+port1404,Xiamen,China,CHN,Asia & Pacific,24.46593394,118.0205536,7761,5339,CN XAM
+port1114,Rotterdam,The Netherlands,NLD,Europe,51.92228121,4.215144967,32584,7045,NL RTM
+port176,Broome,Australia,AUS,Asia & Pacific,-18.0005002,122.2067394,56,0,AU BME
+port1405,Xiuyu,China,CHN,Asia & Pacific,25.16527891,118.9870449,2353,4,
+port424,Guangxi Beibu Gulf Port,China,CHN,Asia & Pacific,21.51087873,109.5385338,603,7,CN XGG
+port53,Annaba,Algeria,DZA,Africa,36.89622629,7.76762179,435,131,DZ AAE
+port723,Mazatlan,Mexico,MEX,North America,23.19306025,-106.41681,543,49,MX MZT
+port65,Ardal,Norway,NOR,Europe,59.14645139,6.170705035,139,13,
+port70,Arzew,Algeria,DZA,Africa,35.81923502,-0.267622305,1147,26,DZ AZW
+port1409,Yangpu,China,CHN,Asia & Pacific,19.7673758,109.1758947,1801,304,CN YPG
+port905,Pichilingue,Mexico,MEX,North America,24.27059407,-110.3307462,424,0,MX PIC
+port1318,Trieste,Italy,ITA,Europe,45.62262646,13.7898372,1915,626,IT TRS
+port305,Duba Bulk Plant Tanker Terminal,Saudi Arabia,SAU,Asia & Pacific,27.32760527,35.73491023,77,0,SA DHB
+port1410,Yantai,China,CHN,Asia & Pacific,37.55733184,121.4106202,1925,686,CN YAT
+port1023,Progreso,Mexico,MEX,North America,21.34384604,-89.67539375,587,182,MX PGO
+port1374,Vostochnyy,Russian Federation,RUS,Europe,42.73190378,133.0528358,1365,350,
+port1109,Rosarito,Mexico,MEX,North America,32.37533608,-117.0700294,134,0,MX ZRO
+port1284,Terneuzen,The Netherlands,NLD,Europe,51.31267679,3.813210078,5581,589,NL TNZ
+port190,Bunbury,Australia,AUS,Asia & Pacific,-33.32230005,115.6645375,436,0,AU BUY
+port1414,Yantian,China,CHN,Asia & Pacific,22.58487742,114.2935158,3421,3156,CN YTN
+port1136,Salina Cruz,Mexico,MEX,North America,16.19017688,-95.18846509,262,6,MX SCX
+port741,Milner Bay,Australia,AUS,Asia & Pacific,-13.85877777,136.4230736,144,0,AU MIB
+port1415,Yingkou,China,CHN,Asia & Pacific,40.72688954,122.0429706,1134,29,CN YIK
+port1327,Tuban,Indonesia,IDN,Asia & Pacific,-6.80448666,111.9012587,1000,0,ID TBN
+port1144,San Miguel De Cozumel,Mexico,MEX,North America,20.57479256,-87.13206904,113,1,MX CZM
+port425,Guangzhou (Nansha),China,CHN,Asia & Pacific,23.02754052,113.4836,9654,5528,CN GGZ
+port1425,Suzhou (Zhangjiagang),China,CHN,Asia & Pacific,31.97462356,120.4288102,2849,345,
+port138,Bejaia,Algeria,DZA,Africa,36.74560772,5.082295103,567,132,DZ BJA
+port1260,Tampico,Mexico,MEX,North America,22.24980975,-97.82483356,680,64,MX TAM
+port50,Andoany,Madagascar,MDG,Africa,-13.40261812,48.21470202,21,0,
+port1426,Zhanjiang,China,CHN,Asia & Pacific,21.21212795,110.4084103,2532,215,CH ZHA
+port1310,Topolobampo,Mexico,MEX,North America,25.58916703,-109.055862,302,0,MX TPB
+port818,Newport News,United States,USA,North America,36.9838661,-76.43537098,407,5,US NNS
+port1427,Zhapu,China,CHN,Asia & Pacific,30.63688515,121.1568835,2196,534,
+port518,Jeddah,Saudi Arabia,SAU,Asia & Pacific,21.46079659,39.16640594,3555,1851,SA JED
+port906,Picton,New Zealand,NZL,Asia & Pacific,-41.28305426,174.0027603,54,0,NZ PCN
+port1376,Vyborg,Russian Federation,RUS,Europe,60.70438213,28.73659691,207,36,RU VYG
+port194,Burnie,Australia,AUS,Asia & Pacific,-41.05338929,145.9106378,165,0,AU BWT
+port147,Bergen,Norway,NOR,Europe,60.4016113,5.227007273,1077,255,NO BGO
+port1336,Makassar,Indonesia,IDN,Asia & Pacific,-5.11187581,119.4168045,2101,833,ID MAK
+port1428,Zhouliwang,China,CHN,Asia & Pacific,37.70154909,121.0829932,1930,2,
+port1370,Vlissingen,The Netherlands,NLD,Europe,51.4561153,3.695779737,4257,329,NL VLI
+port293,Djen Djen,Algeria,DZA,Africa,36.82059245,5.886895265,385,46,DZ DJE
+port1429,Zhoushan,China,CHN,Asia & Pacific,30.05635032,122.1008368,6370,450,CN ZOS
+port46,Amuay (Bahia De Amuay),Venezuela,VEN,South America,11.74458594,-70.20535531,231,4,
+port436,Haifeng power,China,CHN,Asia & Pacific,22.75341512,115.0438556,77,0,
+port392,Ghazaouet,Algeria,DZA,Africa,35.1021977,-1.862537591,118,48,DZ GHZ
+port1332,Tuxpan,Mexico,MEX,North America,20.95612428,-97.33341544,403,64,MX TUX
+port124,Bata,Equatorial Guinea,GNQ,Africa,1.825625916,9.739146968,184,72,GQ BSG
+port1358,Veracruz,Mexico,MEX,North America,19.22121795,-96.15433676,2061,674,MX VER
+port9,Aden,Yemen,YEM,Asia & Pacific,12.78186553,44.95494325,420,145,YE ADE
+port666,Luba,Equatorial Guinea,GNQ,Africa,3.463105583,8.546939103,48,0,GQ LUB
+port18,Hudaydah (Hodeidah),Yemen,YEM,Asia & Pacific,14.8331155,42.94343741,283,47,
+port685,Malabo,Equatorial Guinea,GNQ,Africa,3.769523972,8.734459388,336,78,GQ SSG
+port27,Mukalla,Yemen,YEM,Asia & Pacific,14.52061091,49.15123019,149,37,YE MKX
+port125,Batangas City,Philippines,PHL,Asia & Pacific,13.74477092,121.0239173,2021,355,
+port10,Agadir,Morocco,MAR,Africa,30.43857835,-9.649161718,640,227,MA AGA
+port182,Buco,Philippines,PHL,Asia & Pacific,8.517492767,124.752947,763,329,
+port220,Casablanca,Morocco,MAR,Africa,33.6066001,-7.578850396,2427,1142,MA CAS
+port198,Butuan City,Philippines,PHL,Asia & Pacific,9.276185803,125.5093629,37,0,PH BTC
+port319,Jorf Lasfar,Morocco,MAR,Africa,33.11351891,-8.609401598,1414,51,MA JFL
+port202,Cagayan de Oro,Philippines,PHL,Asia & Pacific,8.486794083,124.7083013,981,217,PH CGY
+port224,Cebu,Philippines,PHL,Asia & Pacific,10.31413032,123.9369534,2061,635,PH CEB
+port281,Davao,Philippines,PHL,Asia & Pacific,7.17898108,125.6594664,1790,754,PH DVO
+port386,General Santos,Philippines,PHL,Asia & Pacific,6.060167101,125.1478439,739,294,PH GES
+port756,Mohammedia,Morocco,MAR,Africa,33.719245,-7.395453829,438,0,MA MOH
+port55,Antsiranana (Diego Suarez),Madagascar,MDG,Africa,-12.26905591,49.28869019,58,13,
+port488,Iligan,Philippines,PHL,Asia & Pacific,8.232619905,124.2274677,259,0,
+port771,Mostaganem,Algeria,DZA,Africa,35.93460181,0.076892121,251,65,DZ MOS
+port856,Oran,Algeria,DZA,Africa,35.71085451,-0.638375154,695,190,DZ ORN
+port969,Skikda (Port Methanier),Algeria,DZA,Africa,36.87271664,6.950761304,596,115,
+port33,Aliaga,Türkiye,TUR,Europe,38.80383336,26.93499829,795,0,TR ALI
+port54,Port Akdeniz,Türkiye,TUR,Europe,36.83889937,30.60620066,589,107,TR AYT
+port109,Bandirma,Türkiye,TUR,Europe,40.35306462,27.95774334,1025,37,TR BDM
+port162,Botas,Türkiye,TUR,Europe,36.87671576,35.91857273,528,12,TR BOT
+port163,Botas Natural Gas Terminal,Türkiye,TUR,Europe,40.9957964,27.96150412,826,7,TR BOT
+port286,Delta Terminal,Türkiye,TUR,Europe,36.86084344,36.15048769,313,0,TR DYL
+port287,Derince (Izmit-Kocaeli),Türkiye,TUR,Europe,40.75824677,29.77991916,1678,255,
+port327,Eregli,Türkiye,TUR,Europe,41.26435669,31.41680907,707,11,TR ERE
+port816,Newcastle,Australia,AUS,Asia & Pacific,-32.89445588,151.7577471,2196,12,AU NTL
+port971,Port Nador,Morocco,MAR,Africa,35.28304917,-2.923755551,274,34,MA NDR
+port338,Famagusta,Cyprus,CYP,Europe,35.23242113,33.96802252,585,46,CY FMG
+port520,"Jimenez, Ozamis",Philippines,PHL,Asia & Pacific,8.260336175,123.8533364,80,0,PH JNZ
+port1118,Safi,Morocco,MAR,Africa,32.308167,-9.246595804,430,22,MA SFI
+port694,Manila,Philippines,PHL,Asia & Pacific,14.59160879,120.8723998,8297,2689,PH MNL
+port1265,Tangier-Mediterranean,Morocco,MAR,Africa,35.87985242,-5.511023901,4177,3015,
+port716,Masao,Philippines,PHL,Asia & Pacific,9.527274017,125.8400651,91,0,PH MAS
+port11,Åhus,Sweden,SWE,Europe,55.92880026,14.31794342,210,70,SE AHU
+port797,Nasipit Port,Philippines,PHL,Asia & Pacific,8.981512096,125.3368598,133,16,
+port175,Brofjorden,Sweden,SWE,Europe,58.34819267,11.42568914,896,0,SE BRO
+port858,Ormoc,Philippines,PHL,Asia & Pacific,11.00605657,124.6025404,96,0,PH ORC
+port335,Falkenberg,Sweden,SWE,Europe,56.89932293,12.46702899,236,17,SE FAG
+port1056,Puerto Princesa,Philippines,PHL,Asia & Pacific,9.736639064,118.7327548,86,6,PH PPS
+port379,Gävle,Sweden,SWE,Europe,60.68762643,17.24581526,522,202,SE GVX
+port1232,Subic Bay,Philippines,PHL,Asia & Pacific,14.80314981,120.2913574,868,316,PH SFS
+port408,Göteborg,Sweden,SWE,Europe,57.70859887,11.88959944,3679,573,SE GOT
+port1238,Surigao City,Philippines,PHL,Asia & Pacific,9.815652287,125.4545559,23,1,
+port444,Halmstad,Sweden,SWE,Europe,56.65646298,12.86634913,603,172,SE HAD
+port826,Norfolk,United States,USA,North America,36.84962748,-76.33049228,1162,671,US ORF
+port1366,Villanueva,Philippines,PHL,Asia & Pacific,8.607068203,124.7600253,259,3,PH VNV
+port459,Helsingborg,Sweden,SWE,Europe,55.98575725,12.73910204,879,503,SE HEL
+port385,Gemlik,Türkiye,TUR,Europe,40.41272035,29.10348004,1305,822,TR GEM
+port966,Lyttelton,New Zealand,NZL,Asia & Pacific,-43.60674767,172.7240293,668,348,NZ LYT
+port486,Husum,Sweden,SWE,Europe,63.32298859,19.16519768,316,22,SE HUS
+port401,Golcuk,Türkiye,TUR,Europe,40.71919647,29.86667264,1128,60,
+port169,Brevik,Norway,NOR,Europe,59.06385806,9.692281148,512,214,NO BVK
+port531,Kalmar,Sweden,SWE,Europe,56.65789386,16.36932542,317,14,SE KLR
+port429,Güllük,Türkiye,TUR,Europe,37.25373921,27.60607436,192,4,TR GUL
+port437,Haikou,China,CHN,Asia & Pacific,20.03232283,110.2808268,361,94,CN HKO
+port546,Karlshamn,Sweden,SWE,Europe,56.16106721,14.79940067,801,39,SE KAN
+port457,Haydarpasa,Türkiye,TUR,Europe,41.00022011,29.01540042,382,80,TR HAY
+port1420,Zamboanga,Philippines,PHL,Asia & Pacific,6.908366515,122.0605671,189,39,PH ZAM
+port340,Ehoala,Madagascar,MDG,Africa,-25.06680991,46.96379773,74,1,MG EHL
+port359,Frederiksvaerk,Denmark,DNK,Europe,55.96279548,12.01281698,412,25,
+port670,Luleå,Sweden,SWE,Europe,65.55560307,22.25011654,401,14,SE LLA
+port477,Hopa,Türkiye,TUR,Europe,41.41066171,41.43080033,86,0,TR HOP
+port854,Onslow,Australia,AUS,Asia & Pacific,-21.69639497,115.0017981,227,0,AU ONS
+port690,Malmö,Sweden,SWE,Europe,55.62686072,13.02682828,786,16,SE MMA
+port503,Iskenderun,Türkiye,TUR,Europe,36.60077591,36.19312026,1113,558,TR ISK
+port127,Batumi,Georgia,GEO,Europe,41.64860022,41.66863523,489,67,GE BUS
+port1290,Thamshamm,Norway,NOR,Europe,63.31399096,9.852052612,276,115,
+port504,Istanbul,Türkiye,TUR,Europe,40.96999344,28.73553234,9107,267,TR IST
+port839,Oakland,United States,USA,North America,37.80816366,-122.3088942,1060,1018,US OAK
+port770,Moss,Sweden,SWE,Europe,59.44422932,10.66562711,397,192,
+port606,Kulevi Oil Terminal,Georgia,GEO,Europe,42.26971683,41.63981523,116,0,GE KUL
+port1064,Punta Lobitos,Peru,PER,South America,-10.10231349,-78.17935366,89,0,PE PLO
+port510,Izmir,Türkiye,TUR,Europe,38.4431577,27.15610909,1434,531,TR IZM
+port1278,Tauranga,New Zealand,NZL,Asia & Pacific,-37.66048847,176.1846333,1293,707,NZ TRG
+port827,Norrköping,Sweden,SWE,Europe,58.61788863,16.22569715,881,239,SE NRK
+port1016,Poti,Georgia,GEO,Europe,42.15927035,41.65710885,820,230,GE PTI
+port1399,"Wilmington, NC",United States,USA,North America,34.20514713,-77.95014843,619,316,
+port98,Bajo Grande,Venezuela,VEN,South America,10.45828887,-71.58177702,129,0,VE BJV
+port527,Gebze,Türkiye,TUR,Europe,40.76656465,29.54451527,807,15,TR GEB
+port838,Nynäshamn,Sweden,SWE,Europe,58.91643073,17.96255364,207,1,SE NYN
+port49,Ancona,Italy,ITA,Europe,43.62166393,13.50209791,451,320,IT AOI
+port131,Bayonne,France,FRA,Europe,43.52825322,-1.497927789,404,30,FR BAY
+port296,Djupviken,Norway,NOR,Europe,63.75286522,11.30506543,412,94,
+port863,Oskarshamn,Sweden,SWE,Europe,57.26745879,16.4672202,135,9,SE OSK
+port1321,Tromsø,Norway,NOR,Europe,69.67410683,18.99273463,631,44,NO TOS
+port158,Bordeaux,France,FRA,Europe,44.90197412,-0.533966695,531,48,FR BOD
+port542,Karabiga,Türkiye,TUR,Europe,40.43477315,27.17613452,420,5,TR KRB
+port438,Haimen,China,CHN,Asia & Pacific,28.83311121,121.5625881,399,8,CN CYH
+port868,Oxelösund,Sweden,SWE,Europe,58.67437856,17.12574089,515,70,SE OXE
+port419,Grenaa,Denmark,DNK,Europe,56.41625529,10.92704029,244,20,DK GRE
+port206,Calais,France,FRA,Europe,50.96799703,1.876083662,206,4,FR CQF
+port735,Mersin,Türkiye,TUR,Europe,36.80918666,34.65352386,3334,1510,TR MER
+port680,Majunga,Madagascar,MDG,Africa,-15.72612557,46.31131115,77,14,MG MJN
+port909,Piteå,Sweden,SWE,Europe,65.25667411,21.56056745,294,51,SE PIT
+port3,Aberdeen,United Kingdom,GBR,Europe,57.13992912,-2.076616768,766,13,GB ABD
+port310,Dunkirk,France,FRA,Europe,51.020683,2.266776649,2127,536,FR DKK
+port805,Nemrut Bay,Türkiye,TUR,Europe,38.75643773,26.93150481,4928,1675,TR NEM
+port1205,Skelleftehamn,Sweden,SWE,Europe,64.67469283,21.26605932,293,28,SE SKE
+port1301,Toamasina,Madagascar,MDG,Africa,-18.15789697,49.4263411,398,139,MG TOA
+port1139,Samsun,Türkiye,TUR,Europe,41.26087063,36.41526479,2492,137,TR SSX
+port351,Fos,France,FRA,Europe,43.4375649,4.887000029,1281,37,FR FOS
+port1207,Skutskär,Sweden,SWE,Europe,60.64852582,17.39737787,112,6,SE SSR
+port1307,Tulear (Toliara),Madagascar,MDG,Africa,-23.37321861,43.66993419,61,0,
+port1280,Tekirdag,Türkiye,TUR,Europe,40.93188863,27.48687073,1646,878,TR TEK
+port1132,Salaverry,Peru,PER,South America,-8.22602573,-78.98129178,201,9,PE SVY
+port620,La Pallice,France,FRA,Europe,46.16013916,-1.213359172,734,39,FR LPE
+port1209,Södertälje,Sweden,SWE,Europe,59.24029018,17.61919114,653,102,SE SOE
+port638,Saint-Brieuc,France,FRA,Europe,48.52821971,-2.725249362,109,6,FR SBK
+port51,Caucedo,Dominican Republic,DOM,North America,18.41885296,-69.63329978,1059,937,DO CAU
+port898,Pepillo Salcedo (Manzanillo),Dominican Republic,DOM,North America,19.70628311,-71.74342548,22,0,
+port1042,Haina,Dominican Republic,DOM,North America,18.41384253,-70.02213412,1322,638,DO INA
+port642,Les Sables D' Olonne,France,FRA,Europe,46.49899037,-1.791610533,172,11,
+port1313,Toros Gubre,Türkiye,TUR,Europe,36.92590404,35.99101068,370,3,TR TGT
+port663,Lorient,France,FRA,Europe,47.73876259,-3.357400125,209,29,FR LRT
+port1055,Puerto Plata,Dominican Republic,DOM,North America,19.79999101,-70.69821992,226,52,DO POP
+port1210,Sölvesborg,Sweden,SWE,Europe,56.03921167,14.57945022,273,34,SE SOL
+port80,Augusta,Italy,ITA,Europe,37.19392264,15.1839322,1398,37,IT AUG
+port1227,Stenungsund,Sweden,SWE,Europe,58.08521924,11.82042199,361,0,SE STE
+port1147,San Pedro De Macoris,Dominican Republic,DOM,North America,18.44604634,-69.31037894,273,1,DO SPM
+port1322,Trondheim,Norway,NOR,Europe,63.43889993,10.38391213,536,77,NO TRD
+port1228,Stockholm,Sweden,SWE,Europe,59.32920519,18.10598896,350,43,SE STO
+port1096,Rethymnon,Greece,GRC,Europe,35.37005169,24.48015039,136,2,
+port712,Marseille,France,FRA,Europe,43.33147923,5.347777517,711,236,FR MRS
+port1212,Souda (Chania),Greece,GRC,Europe,35.5125421,24.06744474,226,2,
+port1158,Santo Domingo,Dominican Republic,DOM,North America,18.47043993,-69.88004306,256,6,DO SDQ
+port467,Hirtshals,Denmark,DNK,Europe,57.59160796,9.978419259,236,48,DK HIR
+port1293,Thessaloníki,Greece,GRC,Europe,40.64127027,22.90726579,1705,496,GR SKG
+port765,Montoir,France,FRA,Europe,47.30270073,-2.128279076,1472,241,FR MTX
+port1230,Stora Jatterson,Sweden,SWE,Europe,57.09271571,16.54645435,297,33,
+port1316,Trabzon,Türkiye,TUR,Europe,41.00369412,39.74137416,470,9,TR TZX
+port1235,Sundsvall,Sweden,SWE,Europe,62.39638003,17.3748299,303,62,SE SDL
+port1406,Yakacik,Türkiye,TUR,Europe,36.71363081,36.20476888,2707,285,TR YAK
+port1317,Trelleborg,Sweden,SWE,Europe,55.37010002,13.15260406,108,2,SE TRG
+port1407,Yalova,Türkiye,TUR,Europe,40.70423723,29.45337059,416,2,TR YAL
+port1339,Umea Hamn,Sweden,SWE,Europe,63.69509074,20.33709393,284,33,
+port1323,Tsingéli,Greece,GRC,Europe,39.16431643,22.85294808,256,4,GR TSI
+port1353,Varberg,Sweden,SWE,Europe,57.11530681,12.24396958,497,58,SE VAG
+port1430,Zonguldak,Türkiye,TUR,Europe,41.50089364,31.87063822,521,7,TR ZON
+port52,Anguilla,Anguilla,AIA,North America,18.19750881,-63.09072719,98,0,AI AXA
+port918,Point Murat,Australia,AUS,Asia & Pacific,-21.95777415,114.1385188,0,0,AU PTM
+port84,Bristol,United Kingdom,GBR,Europe,51.49812082,-2.708767368,1070,169,GB BRS
+port1257,Talara,Peru,PER,South America,-4.581080585,-81.28140118,134,0,PE TYL
+port47,Anacortes,United States,USA,North America,48.486777,-122.5688457,200,0,US OTS
+port924,Ponta Delgada,Portugal,PRT,Europe,37.73642531,-25.66554762,478,192,PT PDL
+port119,Bari,Italy,ITA,Europe,41.13754542,16.86739093,564,84,IT BRI
+port967,Port Manatee,United States,USA,North America,27.63344969,-82.55715768,311,130,US PME
+port1364,Vikanes,Norway,NOR,Europe,60.70621174,5.549629791,268,12,NO VSM
+port479,Horten,Norway,NOR,Europe,59.41280583,10.4900465,115,11,NO HOR
+port470,Hobro,Denmark,DNK,Europe,56.63960347,9.801145659,36,3,DK HBO
+port31,Algeciras,Spain,ESP,Europe,36.16592191,-5.414266528,5899,2934,ES ALG
+port173,Brindisi,Italy,ITA,Europe,40.64050446,17.98109688,415,4,IT BDS
+port121,Barry,United Kingdom,GBR,Europe,51.40467255,-3.247119292,39,0,GB BYG
+port532,Kalundborg,Denmark,DNK,Europe,55.66586747,11.10060398,813,97,DK KAL
+port94,Baie De Kouaoua,New Caledonia,NCL,Asia & Pacific,-21.4003154,165.8330009,12,0,
+port34,Alicante,Spain,ESP,Europe,38.33230794,-0.491278006,521,335,ES ALC
+port141,Belfast,United Kingdom,GBR,Europe,54.62301838,-5.892479602,1691,360,GB BEL
+port203,Cagliari,Italy,ITA,Europe,39.23143383,9.084687019,899,253,IT CAG
+port582,København,Denmark,DNK,Europe,55.69510322,12.61533352,1341,261,DK CPH
+port97,Baie Ugué,New Caledonia,NCL,Asia & Pacific,-21.1475174,165.5568822,11,0,NC BUG
+port35,Almeria,Spain,ESP,Europe,36.83346066,-2.473846781,302,121,ES LEI
+port160,Boston,United Kingdom,GBR,Europe,52.96306208,-0.014253256,366,7,GB BOS
+port222,Catania,Italy,ITA,Europe,37.49462808,15.09248239,550,63,IT CTA
+port585,Køge,Denmark,DNK,Europe,55.46040403,12.19832421,485,31,DK KOG
+port56,Antofagasta,Chile,CHL,South America,-23.65094409,-70.40489792,322,81,CL ANF
+port1356,Västerås,Sweden,SWE,Europe,59.59426145,16.51549534,464,87,SE VST
+port1373,Volos,Greece,GRC,Europe,39.35448209,22.95374679,505,27,GR VOL
+port37,Alotau,Papua New Guinea,PNG,Asia & Pacific,-10.31565513,150.4560247,87,35,PG GUR
+port247,Civitavecchia,Italy,ITA,Europe,42.10236806,11.77923168,428,149,IT CVV
+port403,Gomen,New Caledonia,NCL,Asia & Pacific,-20.75973976,164.4042797,20,0,NC GMO
+port384,Gela,Italy,ITA,Europe,37.05185811,14.28098405,116,0,IT GEA
+port69,Arrecife,Spain,ESP,Europe,28.9693625,-13.52807182,378,212,
+port588,Kolding,Denmark,DNK,Europe,55.49132293,9.491712357,420,49,DK KOL
+port217,Cardiff,United Kingdom,GBR,Europe,51.46428975,-3.154129894,197,11,GB CDF
+port387,Genova,Italy,ITA,Europe,44.41310049,8.858680068,3399,1640,IT GOA
+port837,Nyborg,Denmark,DNK,Europe,55.30151728,10.78688682,245,14,DK NBG
+port83,Aviles,Spain,ESP,Europe,43.5642594,-5.894390535,586,30,ES AVS
+port806,Népoui,New Caledonia,NCL,Asia & Pacific,-21.33362493,164.988589,52,0,NC NEP
+port234,Chatham,United Kingdom,GBR,Europe,51.4009573,0.546949486,92,4,GB CTM
+port395,Gioia Tauro,Italy,ITA,Europe,38.46339878,15.91363921,1692,1307,IT GIT
+port842,Odense,Denmark,DNK,Europe,55.44129887,10.4587983,556,31,DK ODE
+port118,Barcelona,Spain,ESP,Europe,41.33797839,2.146489899,4557,2189,ES BCN
+port832,Noumea,New Caledonia,NCL,Asia & Pacific,-22.25280878,166.4275632,535,230,NC NOU
+port870,Paagoumène,New Caledonia,NCL,Asia & Pacific,-20.49254527,164.1813198,48,0,NC PAA
+port301,Dover,United Kingdom,GBR,Europe,51.12045226,1.324304804,95,4,GB DVR
+port622,La Spezia,Italy,ITA,Europe,44.09958063,9.845731126,846,672,IT SPE
+port201,Cadiz,Spain,ESP,Europe,36.52041019,-6.263758649,753,413,ES CAD
+port1085,Randers,Denmark,DNK,Europe,56.45831688,10.05302321,436,52,DK RAN
+port1372,Voh,New Caledonia,NCL,Asia & Pacific,-21.01103527,164.6829908,34,9,NC VOH
+port219,Cartagena,Spain,ESP,Europe,37.57548974,-0.945398357,1675,151,ES CAR
+port337,Falmouth Harbour,United Kingdom,GBR,Europe,50.15300321,-5.054148128,92,1,GB FAL
+port655,Livorno,Italy,ITA,Europe,43.57138602,10.31567022,2828,791,IT LIV
+port1204,Skagen,Denmark,DNK,Europe,57.71782148,10.59426563,328,41,DK SKA
+port95,Marigot,Saint Martin,MAF,North America,18.08221302,-63.08309292,175,21,
+port267,Ceuta,Spain,ESP,Europe,35.89549311,-5.316014758,1271,67,ES CEU
+port342,Fawley,United Kingdom,GBR,Europe,50.83981228,-1.355244911,1669,277,GB FAW
+port706,Marina Di Carrara,Italy,ITA,Europe,44.03290973,10.0428152,521,88,IT MDC
+port1296,Thyboron,Denmark,DNK,Europe,56.689866,8.222266954,275,11,
+port99,Bakar,Croatia,HRV,Europe,45.28954046,14.54213224,155,0,HR BAK
+port2,Aberdeen,United States,USA,North America,46.96598223,-123.8477525,86,0,US AEK
+port343,Felixstowe,United Kingdom,GBR,Europe,51.95411087,1.29314837,1449,899,GB FXT
+port739,Milazzo,Italy,ITA,Europe,38.2063901,15.26293427,648,0,IT MLZ
+port849,Omisalj,Croatia,HRV,Europe,45.21979684,14.53428637,70,0,HR OMI
+port48,Anchorage,United States,USA,North America,61.23279292,-149.8743286,244,151,US ANC
+port317,El Grao,Spain,ESP,Europe,39.95923639,0.008932348,1086,290,ES GCS
+port758,Monfalcone,Italy,ITA,Europe,45.79262537,13.55137535,345,23,IT MNF
+port912,Ploce,Croatia,HRV,Europe,43.04161041,17.43011303,191,50,HR PLE
+port346,Finnart Oil Terminal,United Kingdom,GBR,Europe,56.1138324,-4.833893636,75,0,GB FNT
+port103,Baltimore,United States,USA,North America,39.25976037,-76.5569733,1792,501,US BAL
+port344,Ferrol,Spain,ESP,Europe,43.47534572,-8.235886284,382,38,ES FRO
+port761,Monopoli,Italy,ITA,Europe,40.95763673,17.30506483,66,0,IT MNP
+port1101,Rijeka,Croatia,HRV,Europe,45.32801535,14.4314315,441,273,HR RJK
+port376,Garston,United Kingdom,GBR,Europe,53.29145841,-2.893067214,1007,44,GB GTN
+port399,Glasgow,United Kingdom,GBR,Europe,55.87832297,-4.367557997,149,10,GB GLW
+port117,Barbor's Point,United States,USA,North America,21.3105197,-158.1040287,128,0,
+port394,Gijon,Spain,ESP,Europe,43.56033387,-5.694793057,1060,219,ES GIJ
+port795,Napoli,Italy,ITA,Europe,40.83924659,14.27890855,1453,518,IT NAP
+port1218,Split,Croatia,HRV,Europe,43.53156754,16.45697144,425,27,HR SPU
+port404,Goole,United Kingdom,GBR,Europe,53.70030449,-0.884905633,413,41,GB GOO
+port126,Baton Rouge,United States,USA,North America,30.43704677,-91.20632261,331,0,US BTR
+port848,Olbia,Italy,ITA,Europe,40.92711908,9.528682131,171,44,IT OLB
+port483,Huelva,Spain,ESP,Europe,37.19312891,-6.914657869,1724,163,ES HUV
+port100,Baku Port,Azerbaijan,AZE,Europe,40.28461052,49.73252397,1455,2,
+port415,Grangemouth,United Kingdom,GBR,Europe,56.02124608,-3.689615924,800,266,GB GRG
+port130,Bay City,United States,USA,North America,43.62580592,-83.85025342,82,0,US YBZ
+port861,Ortona,Italy,ITA,Europe,42.35331653,14.41338054,169,4,IT OTN
+port617,La Coruna,Spain,ESP,Europe,43.34262513,-8.453196365,834,27,
+port111,Bangkok,Thailand,THA,Asia & Pacific,13.68350932,100.5725844,6579,2297,TH BKK
+port701,Map Ta Phut,Thailand,THA,Asia & Pacific,12.68571375,101.1421513,4039,1,TH MAT
+port416,Gravesend,United Kingdom,GBR,Europe,51.4505275,0.348941363,1189,159,GB GVS
+port134,Beaumont,United States,USA,North America,30.02582322,-94.03028275,1204,8,US BPT
+port1003,Chioggia,Italy,ITA,Europe,45.21278514,12.26985918,268,10,IT CHI
+port635,Las Palmas (de Gran Canaria),Spain,ESP,Europe,28.14804985,-15.41136132,4905,1333,
+port417,Great Yarmouth,United Kingdom,GBR,Europe,52.58819977,1.732218299,174,8,GB GTY
+port904,Phuket,Thailand,THA,Asia & Pacific,7.823681372,98.40475093,77,3,TH HKT
+port143,Bellingham,United States,USA,North America,48.75638842,-122.500255,4,0,US BLI
+port1004,Ravenna,Italy,ITA,Europe,44.45944499,12.25275668,2275,419,IT RAN
+port953,Port Giles,Australia,AUS,Asia & Pacific,-35.0215595,137.7600461,19,0,AU PGI
+port186,Buka,Papua New Guinea,PNG,Asia & Pacific,-5.432204414,154.6717326,42,28,PG BUA
+port279,Daru,Papua New Guinea,PNG,Asia & Pacific,-9.065995282,143.2094952,30,0,PG DAU
+port553,Kavieng Harbor,Papua New Guinea,PNG,Asia & Pacific,-2.587475462,150.7887674,86,23,
+port565,Kieta,Papua New Guinea,PNG,Asia & Pacific,-6.218768247,155.638399,23,20,PG KIE
+port569,Kimbe,Papua New Guinea,PNG,Asia & Pacific,-5.550273176,150.1472487,190,58,PG KIM
+port624,Lae,Papua New Guinea,PNG,Asia & Pacific,-6.736625768,146.9873906,657,365,PG LAE
+port676,Madang,Papua New Guinea,PNG,Asia & Pacific,-5.208767409,145.8016793,121,59,PG MAG
+port860,Oro Bay,Papua New Guinea,PNG,Asia & Pacific,-8.897889322,148.4939832,74,30,PG ROR
+port970,Port Moresby,Papua New Guinea,PNG,Asia & Pacific,-9.400125206,147.0845337,767,247,PG POM
+port1066,Put Put,Papua New Guinea,PNG,Asia & Pacific,-3.121438197,152.6509937,95,28,
+port1080,Rabaul,Papua New Guinea,PNG,Asia & Pacific,-4.203391372,152.1653674,220,98,PG RAB
+port1352,Vanimo,Papua New Guinea,PNG,Asia & Pacific,-2.68011134,141.2970327,51,1,PG VAI
+port1392,Wewak Harbor,Papua New Guinea,PNG,Asia & Pacific,-3.570755554,143.6447385,99,31,PG WWK
+port41,Amamapare,Indonesia,IDN,Asia & Pacific,-4.806828832,136.8030903,563,125,ID AMA
+port42,"Ambon, Molucas",Indonesia,IDN,Asia & Pacific,-3.677535195,128.1755216,844,172,ID AMQ
+port44,Ampenan,Indonesia,IDN,Asia & Pacific,-8.664698797,116.0732049,439,32,
+port77,Atapupu,Indonesia,IDN,Asia & Pacific,-8.995671716,124.8626215,63,2,ID ATA
+port102,Balikpapan,Indonesia,IDN,Asia & Pacific,-1.202534486,116.79598,2349,278,ID BPN
+port112,Banjarmasin,Indonesia,IDN,Asia & Pacific,-3.288021408,114.562927,3747,382,ID BDJ
+port114,Banten,Indonesia,IDN,Asia & Pacific,-6.016931808,105.9675676,1482,4,ID BTN
+port128,Baubau,Indonesia,IDN,Asia & Pacific,-5.486087462,122.5843796,377,28,
+port14,Akita,Japan,JPN,Asia & Pacific,39.75669293,140.0561992,1068,151,JP AXT
+port15,Ako,Japan,JPN,Asia & Pacific,34.74741074,134.3616138,1463,0,
+port40,Amagasaki,Japan,JPN,Asia & Pacific,34.70213108,135.3677953,1106,0,JP AMA
+port59,Aomori,Japan,JPN,Asia & Pacific,40.84225958,140.7603068,622,0,JP AOJ
+port239,Chiba,Japan,JPN,Asia & Pacific,35.52513992,140.0523392,13509,168,JP CHB
+port363,Fukui,Japan,JPN,Asia & Pacific,36.18520937,136.115139,348,0,JP FKJ
+port364,Fukuyama,Japan,JPN,Asia & Pacific,34.46287853,133.4385467,5266,374,JP FKY
+port365,Funabashi,Japan,JPN,Asia & Pacific,35.67485206,139.9681077,5058,59,JP FNB
+port369,Fushiki-Toyama,Japan,JPN,Asia & Pacific,36.76864401,137.1423732,1234,231,
+port433,Hachinohe,Japan,JPN,Asia & Pacific,40.54513127,141.5108448,2655,178,JP HHE
+port439,Hakata,Japan,JPN,Asia & Pacific,33.63170193,130.3976497,5762,1792,JP HTD
+port440,Hakodate,Japan,JPN,Asia & Pacific,41.79882813,140.6982447,2029,24,JP HKD
+port828,El Sokhna,Egypt,EGY,Africa,29.64742882,32.35392159,613,283,EG SOK
+port445,Hamada,Japan,JPN,Asia & Pacific,34.87940375,132.0517356,190,14,JP HMD
+port1271,Tanjung Sekong,Indonesia,IDN,Asia & Pacific,-5.905540925,106.0153659,1461,5,ID TSE
+port24,Jubail,Saudi Arabia,SAU,Asia & Pacific,27.05573014,49.6603903,2195,302,SA JUB
+port452,Hannan,Japan,JPN,Asia & Pacific,34.45631451,135.3469588,537,0,JP HAN
+port28,Albany,Australia,AUS,Asia & Pacific,-35.03402477,117.8971538,130,0,AU ALH
+port463,Higashiharima,Japan,JPN,Asia & Pacific,34.73068083,134.8134693,4669,1,JP HHR
+port634,Larvik,Norway,NOR,Europe,59.03994928,10.04804178,332,181,NO LAR
+port1283,Temryuk,Russian Federation,RUS,Europe,45.32418556,37.3761941,752,1,RU TMR
+port1272,Tanjung Redeb,Indonesia,IDN,Asia & Pacific,2.165959622,117.5010746,154,80,ID TRB
+port275,Dammam,Saudi Arabia,SAU,Asia & Pacific,26.47626701,50.19439715,1622,556,SA DMM
+port161,Port Botany,Australia,AUS,Asia & Pacific,-33.98153451,151.2158952,1424,1042,AU PBT
+port465,Himeji,Japan,JPN,Asia & Pacific,34.77579915,134.637859,5124,15,JP HIM
+port1326,Tuapse,Russian Federation,RUS,Europe,44.09933265,39.08508651,1169,14,RU TUA
+port1273,Tanjunguban,Indonesia,IDN,Asia & Pacific,1.055761709,104.2025609,1006,11,ID TAN
+port304,Duba (Port of Neom),Saudi Arabia,SAU,Asia & Pacific,27.55991231,35.5465967,111,15,
+port174,Brisbane,Australia,AUS,Asia & Pacific,-27.40850097,153.1455832,2159,954,AU BNE
+port12,Aiyion,Greece,GRC,Europe,38.33552308,21.84996534,143,0,GR AIY
+port999,Leixoes,Portugal,PRT,Europe,41.19448451,-8.697575118,2166,1063,
+port466,Hiroshima,Japan,JPN,Asia & Pacific,34.34744658,132.4557751,3497,792,JP HIJ
+port468,Hitachi,Japan,JPN,Asia & Pacific,36.45195306,140.6158282,1558,172,JP HTC
+port471,Hofu,Japan,JPN,Asia & Pacific,34.02251033,131.5737176,941,140,JP HOF
+port472,Himekawa,Japan,JPN,Asia & Pacific,37.03543689,137.8443843,561,0,JP HMK
+port480,Hososhima,Japan,JPN,Asia & Pacific,32.48242792,131.6706901,645,62,JP HSM
+port490,Imabari,Japan,JPN,Asia & Pacific,34.06015622,133.0189335,677,171,JP IMB
+port501,Ishikariwan-Shinko,Japan,JPN,Asia & Pacific,43.20096262,141.2923188,624,118,
+port502,Ishinomaki,Japan,JPN,Asia & Pacific,38.41415253,141.2776946,874,4,JP ISM
+port508,Iwakuni,Japan,JPN,Asia & Pacific,34.20374226,132.2369598,3840,228,JP IWK
+port528,Kagoshima,Japan,JPN,Asia & Pacific,31.53284272,130.5424733,2282,44,JP KOJ
+port533,Kamaishi,Japan,JPN,Asia & Pacific,39.26776264,141.8897679,474,45,
+port537,Kanazawa,Japan,JPN,Asia & Pacific,36.61653903,136.6143047,888,219,JP KNZ
+port538,Kanda,Japan,JPN,Asia & Pacific,33.82174515,130.9928633,5687,0,
+port545,Karatsu,Japan,JPN,Asia & Pacific,33.47638831,129.9549216,315,0,JP KAR
+port548,Kashima-Ibaraki,Japan,JPN,Asia & Pacific,35.91656249,140.6899198,6568,49,
+port555,Kawasaki,Japan,JPN,Asia & Pacific,35.50702517,139.7484705,7836,391,JP KWS
+port566,Kiire,Japan,JPN,Asia & Pacific,31.38796044,130.5485535,335,0,JP KII
+port567,Kikuma,Japan,JPN,Asia & Pacific,34.05365926,132.8621211,1470,0,JP KIK
+port575,Kinuura,Japan,JPN,Asia & Pacific,34.87387974,136.9534366,1935,0,JP KNU
+port578,Kisarazu,Japan,JPN,Asia & Pacific,35.35902147,139.8681078,3179,0,JP KZU
+port581,Kobe,Japan,JPN,Asia & Pacific,34.67293989,135.2293271,10594,4121,JP UKB
+port584,Kochi,Japan,JPN,Asia & Pacific,33.52614791,133.5700824,913,49,JP KCZ
+port589,Komatsushima,Japan,JPN,Asia & Pacific,34.04871279,134.6015754,987,101,JP KOM
+port605,Kudamatsu,Japan,JPN,Asia & Pacific,33.99810448,131.8683017,696,1,JP KUD
+port610,Kure,Japan,JPN,Asia & Pacific,34.22708409,132.5652197,1833,22,JP KRE
+port611,Kushiro,Japan,JPN,Asia & Pacific,42.99054096,144.351317,1734,85,JP KUH
+port682,Maizuru,Japan,JPN,Asia & Pacific,35.47492079,135.3547219,555,91,JP MAI
+port714,Marugame,Japan,JPN,Asia & Pacific,34.28925968,133.7615703,1933,15,JP MAR
+port719,Matsusaka,Japan,JPN,Asia & Pacific,34.64920701,136.5503469,600,6,JP MSA
+port720,Matsuyama,Japan,JPN,Asia & Pacific,33.81872817,132.6990996,2274,217,JP MYJ
+port738,Mikawa,Japan,JPN,Asia & Pacific,34.73606977,137.2909093,2678,111,JP MKW
+port749,Mishima,Japan,JPN,Asia & Pacific,34.00594978,133.5551534,1641,298,
+port752,Mizushima,Japan,JPN,Asia & Pacific,34.50033451,133.7242924,13746,648,JP MIZ
+port780,Muroran,Japan,JPN,Asia & Pacific,42.34609537,140.9719408,1950,35,JP MUR
+port785,Nagasaki,Japan,JPN,Asia & Pacific,32.71445214,129.840702,1057,62,JP NGS
+port786,Nagoya,Japan,JPN,Asia & Pacific,35.03618543,136.8500784,16252,3708,JP NGO
+port790,Nanao,Japan,JPN,Asia & Pacific,37.0554277,136.9804201,251,0,JP NNO
+port793,Naoetsu,Japan,JPN,Asia & Pacific,37.1948875,138.265671,396,59,JP NAO
+port822,Niigata,Japan,JPN,Asia & Pacific,37.96561578,139.1700329,2038,370,
+port823,Niihama,Japan,JPN,Asia & Pacific,33.95565623,133.2185304,2331,3,JP IHA
+port829,Noshiro,Japan,JPN,Asia & Pacific,40.20511241,139.9967391,184,0,JP NSR
+port844,Ofunato,Japan,JPN,Asia & Pacific,39.06317108,141.7291447,447,32,JP OFT
+port846,Oita,Japan,JPN,Asia & Pacific,33.25922967,131.6858125,7874,235,JP OIT
+port850,Onahama,Japan,JPN,Asia & Pacific,36.93593683,140.8835241,1654,92,JP ONA
+port852,Onoda,Japan,JPN,Asia & Pacific,33.9749585,131.1684456,642,0,JP OND
+port853,Onomichi-Itozaki,Japan,JPN,Asia & Pacific,34.41539534,133.2208673,676,11,
+port862,Osaka,Japan,JPN,Asia & Pacific,34.6449306,135.4300262,9214,3349,JP OSA
+port866,Otaru,Japan,JPN,Asia & Pacific,43.20089912,141.0121456,366,44,JP OTR
+port1116,Rumoi,Japan,JPN,Asia & Pacific,43.95875013,141.6401697,212,0,JP RMI
+port1119,Saganoseki,Japan,JPN,Asia & Pacific,33.25466589,131.8752029,569,0,JP SAG
+port1127,Sakai,Japan,JPN,Asia & Pacific,35.53273365,133.2326172,884,163,JP SAK
+port1128,Sakai-Semboku,Japan,JPN,Asia & Pacific,34.5578402,135.4223815,9936,99,
+port1129,Sakaide,Japan,JPN,Asia & Pacific,34.34045119,133.8496122,3099,2,JP SKD
+port1130,Sakata,Japan,JPN,Asia & Pacific,38.94531105,139.8219174,412,87,JP SKT
+port1180,Sendai-Shiogama,Japan,JPN,Asia & Pacific,38.28471956,141.0275541,4010,555,
+port1190,Shibushi,Japan,JPN,Asia & Pacific,31.42327287,131.0670993,1265,328,JP SBS
+port1193,Shimizu,Japan,JPN,Asia & Pacific,35.02052569,138.5038458,3706,1336,JP SMZ
+port1239,Susaki,Japan,JPN,Asia & Pacific,33.39265719,133.2915767,1343,0,JP SUZ
+port1247,Tachibana,Japan,JPN,Asia & Pacific,33.87071976,134.6514005,634,0,JP TBN
+port1250,Tagonoura,Japan,JPN,Asia & Pacific,35.14338652,138.6940491,796,0,JP TGO
+port1254,Takamatsu,Japan,JPN,Asia & Pacific,34.35580893,134.0681264,635,185,JP TAK
+port1256,Takuma,Japan,JPN,Asia & Pacific,34.23252565,133.6784882,340,0,JP TKM
+port1303,Tokachi,Japan,JPN,Asia & Pacific,42.29889363,143.3231052,421,6,JP TOK
+port1304,Tokuyama,Japan,JPN,Asia & Pacific,34.03990671,131.7828868,7272,484,JP TKY
+port1305,Tokyo,Japan,JPN,Asia & Pacific,35.60607114,139.7925781,9502,4646,JP TYO
+port1308,Tomakomai,Japan,JPN,Asia & Pacific,42.63752185,141.723129,5843,393,JP TMK
+port1324,Tsukumi,Japan,JPN,Asia & Pacific,33.08238663,131.8599519,2609,0,JP TMI
+port686,Malaga,Spain,ESP,Europe,36.70820113,-4.421415559,459,199,ES AGP
+port200,Cabedelo,Brazil,BRA,South America,-6.969397877,-34.83954753,94,0,BR CAB
+port66,Argentia,Canada,CAN,North America,47.33890642,-53.93354604,126,45,CA NWP
+port382,Gebig,Brazil,BRA,South America,-23.05700966,-44.23521542,422,0,BR GEB
+port405,Goose Bay,Canada,CAN,North America,53.34292072,-60.39999748,18,0,CA GOO
+port1024,Providence,United States,USA,North America,41.78624139,-71.38334181,233,9,US PVD
+port993,"Portland, OR",United States,USA,North America,45.59523874,-122.7355059,544,59,
+port244,Cienfuegos,Cuba,CUB,North America,22.17631285,-80.4996107,229,1,CU CFG
+port1018,Praia da Vitoria,Portugal,PRT,Europe,38.71152974,-27.05278213,305,118,
+port422,Guaiba Island Terminal,Brazil,BRA,South America,-22.91555492,-43.78307644,317,138,
+port955,Port Hedland,Australia,AUS,Asia & Pacific,-20.33066003,118.5643416,3251,8,AU PHE
+port547,Kårstø,Norway,NOR,Europe,59.27511179,5.50523818,450,0,NO KAR
+port492,Imbituba,Brazil,BRA,South America,-28.23079391,-48.65333432,282,73,BR IBB
+port692,Måløy,Norway,NOR,Europe,61.93640348,5.136930061,633,117,NO MAY
+port93,Baie Comeau,Canada,CAN,North America,49.24803552,-68.14136189,181,3,CA BCO
+port505,Itajaí,Brazil,BRA,South America,-26.89391722,-48.66739363,849,777,BR ITJ
+port995,"Portland, ME",United States,USA,North America,43.63649354,-70.26948213,170,50,US PWM
+port506,Itaqui,Brazil,BRA,South America,-2.627113568,-44.35349287,1927,21,BR IQI
+port929,Port Adelaide,Australia,AUS,Asia & Pacific,-34.81039638,138.5057187,369,1,AU PAE
+port673,Macaé,Brazil,BRA,South America,-22.38617458,-41.7686552,24,0,BR MEA
+port211,Canaport (St. John),Canada,CAN,North America,45.21338638,-65.98533043,131,0,
+port443,Halifax,Canada,CAN,North America,44.66623193,-63.57185138,1060,648,CA HAL
+port677,Madre De Deus,Brazil,BRA,South America,-12.74806227,-38.62015066,361,0,BR MDD
+port1184,Setubal,Portugal,PRT,Europe,38.49997283,-8.842115098,1368,456,PT SET
+port1115,Detroit,United States,USA,North America,42.28431795,-83.12895689,570,11,US DET
+port693,Manaus,Brazil,BRA,South America,-3.134152922,-59.96029805,488,223,BR MAO
+port600,Kristiansand,Norway,NOR,Europe,58.14563334,8.000787388,549,228,NO KRS
+port704,Mariel,Cuba,CUB,North America,23.00539885,-82.75527869,397,187,CU MAR
+port799,Natal,Brazil,BRA,South America,-5.773025379,-35.20520421,46,23,BR NAT
+port885,Paranaguá,Brazil,BRA,South America,-25.50523872,-48.51713504,2079,534,BR PNG
+port941,Port De Aracaju,Brazil,BRA,South America,-10.82536946,-36.94053183,61,0,
+port944,Port De Salvador,Brazil,BRA,South America,-12.95652543,-38.50530504,1252,463,
+port997,Porto Alegre,Brazil,BRA,South America,-29.96645881,-51.21938045,152,0,BR POA
+port1000,Porto De Maceio,Brazil,BRA,South America,-9.679541135,-35.72300929,224,0,
+port1001,Fortaleza (Mucuripe),Brazil,BRA,South America,-3.713436299,-38.4715357,440,71,
+port1002,Porto De Suape,Brazil,BRA,South America,-8.389473356,-34.97291034,1430,493,
+port1010,Pecem,Brazil,BRA,South America,-3.538117253,-38.80469227,704,419,BR PEC
+port1012,Portocel,Brazil,BRA,South America,-19.8395104,-40.05809138,257,41,BR PCL
+port1094,Recife,Brazil,BRA,South America,-8.050103675,-34.86850748,123,1,BR REC
+port1103,Rio De Janeiro,Brazil,BRA,South America,-22.88267673,-43.19949003,2036,713,BR RIO
+port1104,Rio Grande,Brazil,BRA,South America,-32.08860546,-52.10246586,1637,473,BR RIG
+port1160,Santos,Brazil,BRA,South America,-23.91706787,-46.33656353,5258,2026,BR SSZ
+port1161,Sao Francisco,Brazil,BRA,South America,-26.210395,-48.62047395,404,4,
+port421,Grimsby,United Kingdom,GBR,Europe,53.57779578,-0.076657928,531,9,GB GSY
+port1162,São Sebastião,Brazil,BRA,South America,-23.8024977,-45.40625029,672,3,BR SSO
+port1328,Tubarao,Brazil,BRA,South America,-20.25882714,-40.2378754,931,4,
+port1368,Vitoria,Brazil,BRA,South America,-20.32616721,-40.33140066,545,155,BR VIX
+port63,Arawak,Barbados,BRB,North America,13.28676153,-59.64823157,36,1,BB ACW
+port171,Bridgetown,Barbados,BRB,North America,13.10661495,-59.62744791,638,229,BB BGI
+port68,Arkhangelsk,Russian Federation,RUS,Europe,64.52521694,40.67633317,564,17,RU ARH
+port76,Astrakhan Port,Russian Federation,RUS,Europe,46.38467723,48.02158851,629,2,RU ASF
+port104,Baltiysk,Russian Federation,RUS,Europe,54.63771376,19.92401592,198,78,RU BLT
+port187,Vanino,Russian Federation,RUS,Europe,49.09019681,140.3006312,1033,15,RU VNN
+port283,De Kastri,Russian Federation,RUS,Europe,51.46889483,140.7782411,9,0,
+port308,Dudinka,Russian Federation,RUS,Europe,69.40312102,86.17703837,111,70,RU DUD
+port378,Vysotsk,Russian Federation,RUS,Europe,60.60392223,28.56339825,493,2,RU VYS
+port509,Izhevskoye,Russian Federation,RUS,Europe,54.68428825,20.17492729,768,93,
+port530,Kaliningrad,Russian Federation,RUS,Europe,54.6972233,20.45289748,717,124,RU KGD
+port539,Kandalaksha,Russian Federation,RUS,Europe,67.1371914,32.40908464,21,0,RU KAN
+port554,Kavkaz,Russian Federation,RUS,Europe,45.33614508,36.66778576,373,0,
+port590,Kondopoga,Russian Federation,RUS,Europe,62.18407331,34.26992148,67,0,RU KPA
+port594,Korsakov,Russian Federation,RUS,Europe,46.62667555,142.8501019,714,149,RU KOR
+port684,Makhachkala,Russian Federation,RUS,Europe,43.00807675,47.47258052,456,0,RU MCX
+port779,Murmansk,Russian Federation,RUS,Europe,68.98887419,33.0490027,1410,102,RU MMK
+port787,Nakhodka,Russian Federation,RUS,Europe,42.80369017,132.8873389,1986,50,RU NJK
+port833,Novorossiysk,Russian Federation,RUS,Europe,44.72345598,37.8087215,4438,712,RU NVS
+port978,Taman,Russian Federation,RUS,Europe,45.14006257,36.67567465,534,0,
+port1020,Primorsk,Russian Federation,RUS,Europe,60.33694122,28.73119074,965,0,RU PRI
+port1095,Ust-Luga,Russian Federation,RUS,Europe,59.68266556,28.40566475,2978,103,
+port1112,Rostov-Na-Donu,Russian Federation,RUS,Europe,47.19478382,39.67937527,3153,3,RU RND
+port1150,Saint Petersburg,Russian Federation,RUS,Europe,59.89971977,30.11218353,4432,841,RU LED
+port1186,Shala Pristan,Russian Federation,RUS,Europe,61.81211745,35.97607785,69,0,RU SLA
+port876,Palm Beach,United States,USA,North America,26.76801713,-80.05581497,619,218,US PAB
+port318,El Guamache,Venezuela,VEN,South America,10.87732409,-64.02942039,66,0,VE EGU
+port1299,Timaru,New Zealand,NZL,Asia & Pacific,-44.38543068,171.2560995,301,81,NZ TIU
+port302,Drammen,Norway,NOR,Europe,59.73742492,10.2396018,564,86,NO DRM
+port879,Panama City,United States,USA,North America,30.1558205,-85.66532945,219,59,US PFN
+port453,Harbor Yeweiju,China,CHN,Asia & Pacific,38.0891947,118.9452626,1252,0,
+port320,El Palito,Venezuela,VEN,South America,10.48339577,-68.13572968,122,2,VE ELP
+port1388,Wellington,New Zealand,NZL,Asia & Pacific,-41.25688929,174.8304738,411,147,NZ WLG
+port888,Pascagoula,United States,USA,North America,30.34688293,-88.52197837,397,0,US PGL
+port347,Finnsnes,Norway,NOR,Europe,69.22178649,18.08090404,102,14,NO FNE
+port484,Huizhou,China,CHN,Asia & Pacific,22.73482063,114.5982287,1858,29,CN HUI
+port524,Jose Terminal,Venezuela,VEN,South America,10.06758499,-64.86795016,198,0,VE JOT
+port1393,Marsden Point,New Zealand,NZL,Asia & Pacific,-35.84238338,174.488189,380,53,NZ MAP
+port901,Philadelphia,United States,USA,North America,39.90437717,-75.1375391,1049,558,US PHL
+port348,Flekkefjord,Norway,NOR,Europe,58.27633255,6.889601003,304,19,NO FFD
+port517,Jiangyin,China,CHN,Asia & Pacific,31.93240385,120.1593407,4978,250,CN JGY
+port618,La Guaira,Venezuela,VEN,South America,10.60102215,-66.9454799,234,157,VE LAG
+port81,Avatiu,Cook Islands,COK,Asia & Pacific,-21.20386458,-159.7842743,34,5,CK AVA
+port349,Florø,Norway,NOR,Europe,61.60373536,5.05720418,1004,81,NO FRO
+port920,"Richmond, CA",United States,USA,North America,37.92353428,-122.377093,548,0,
+port521,Jinzhou,China,CHN,Asia & Pacific,40.77754887,121.0180678,1514,228,
+port703,Maracaibo,Venezuela,VEN,South America,10.62424131,-71.60888008,47,22,VE MAR
+port82,Aveiro,Portugal,PRT,Europe,40.62981431,-8.719994046,961,64,PT AVE
+port932,Port Aransas,United States,USA,North America,27.84668269,-97.07149676,404,1,US TZS
+port356,Fredrikstad,Norway,NOR,Europe,59.18636416,10.95743329,943,217,NO FRK
+port632,Lanqiao Port,China,CHN,Asia & Pacific,35.11048268,119.35685,3120,21,CN LSN
+port878,Palua,Venezuela,VEN,South America,8.347348578,-62.70946006,91,0,VE PLA
+port345,Figueira Da Foz,Portugal,PRT,Europe,40.14727686,-8.846579476,418,108,PT FDF
+port933,Port Arthur,United States,USA,North America,29.88170301,-93.93104818,1192,11,US POA
+port400,Glomfjord,Norway,NOR,Europe,66.81004693,13.93684706,158,15,NO GLO
+port644,Lianyungang,China,CHN,Asia & Pacific,34.74133017,119.4359663,4210,1154,CN LYG
+port1029,Puerto Cabello,Venezuela,VEN,South America,10.47252732,-67.99547311,403,167,VE PBL
+port951,Port Everglades,United States,USA,North America,26.0810509,-80.12439561,2316,1471,US PEF
+port367,"Funchal, Madeira",Portugal,PRT,Europe,32.74157142,-16.73220974,255,113,PT FNC
+port441,Halden,Norway,NOR,Europe,59.11500065,11.37549555,122,4,NO HAL
+port661,Longkou Gang,China,CHN,Asia & Pacific,37.6597629,120.2821825,1304,18,
+port1049,Puerto La Cruz,Venezuela,VEN,South America,10.2308185,-64.61485225,127,2,VE PCZ
+port956,Port Hueneme,United States,USA,North America,34.15605249,-119.2094451,387,149,US NTD
+port478,Horta,Portugal,PRT,Europe,38.53302196,-28.6215437,132,36,PT HOR
+port1051,Puerto Miranda,Venezuela,VEN,South America,10.76438625,-71.53725434,27,1,VE MIV
+port449,Hammerfest,Norway,NOR,Europe,70.66196977,23.62907682,234,13,NO HFT
+port662,Longyan Port,China,CHN,Asia & Pacific,37.40722471,122.6554029,134,29,CN LGY
+port963,Port Lavaca,United States,USA,North America,28.6755734,-96.54433242,220,0,US PLV
+port653,Lisboa,Portugal,PRT,Europe,38.67789058,-9.120570469,1713,693,PT LIS
+port1063,Punta Cardón,Venezuela,VEN,South America,11.63012884,-70.22457685,209,1,VE PCN
+port456,Haroysundet,Norway,NOR,Europe,62.86216178,7.062589196,358,3,
+port792,Nantong,China,CHN,Asia & Pacific,31.9862854,120.8374438,6778,272,CN NTG
+port824,Ningbo,China,CHN,Asia & Pacific,29.92076897,121.8818408,18455,10352,CN NBO
+port89,Bahia De Valparaiso,Chile,CHL,South America,-33.03324381,-71.62773895,480,265,
+port90,Bahia Quintero (Ventanas),Chile,CHL,South America,-32.76696313,-71.48395104,712,0,CL QTV
+port92,San Vicente,Chile,CHL,South America,-36.74287699,-73.1219987,528,161,CL SVE
+port208,Caleta Patillos,Chile,CHL,South America,-20.78654051,-70.19493411,236,0,CL CAL
+port263,Coronel,Chile,CHL,South America,-37.02546917,-73.16219888,284,150,CL CNL
+port499,Iquique,Chile,CHL,South America,-20.20600679,-70.15848484,304,183,CL IQQ
+port652,Lirquen,Chile,CHL,South America,-36.71789667,-72.98212943,246,124,CL LQN
+port728,Mejillones,Chile,CHL,South America,-23.08182757,-70.39596391,903,131,CL MJS
+port1031,Puerto Caldera,Chile,CHL,South America,-27.05151454,-70.82743332,181,1,CL CLD
+port1034,Puerto Chanaral,Chile,CHL,South America,-26.35566524,-70.64246834,72,0,
+port1053,Puerto Montt,Chile,CHL,South America,-41.49309766,-72.97479783,893,12,CL PMC
+port1058,Puerto San Antonio,Chile,CHL,South America,-33.59324528,-71.61885508,1004,548,
+port1082,Rada De Arica,Chile,CHL,South America,-18.47334815,-70.32285519,295,176,
+port1302,Tocopilla,Chile,CHL,South America,-22.09465265,-70.21203912,58,0,CL TOQ
+port1432,Punta Arenas,Chile,CHL,South America,-53.13033106,-70.86785154,270,39,CL PUQ
+port57,Antwerp,Belgium,BEL,Europe,51.27935494,4.317802311,22760,4600,BE ANR
+port178,Bruges,Belgium,BEL,Europe,51.24504093,3.213400884,200,15,
+port393,Ghent,Belgium,BEL,Europe,51.1302898,3.766941707,5598,252,BE GNE
+port930,Port Alma,Australia,AUS,Asia & Pacific,-23.58481222,150.8601122,64,1,AU PTL
+port996,Portmouth,United States,USA,North America,43.09303064,-70.78807027,86,0,
+port236,Cherry Point,United States,USA,North America,48.85252005,-122.7139354,243,0,US CP4
+port1200,Sines,Portugal,PRT,Europe,37.95680932,-8.83041637,1903,840,PT SIE
+port855,Oostende,Belgium,BEL,Europe,51.21860953,2.963311389,94,4,BE OST
+port1093,Rayong,Thailand,THA,Asia & Pacific,12.65890283,101.3121055,1553,1,TH RYG
+port1424,Zeebrugge,Belgium,BEL,Europe,51.32626774,3.212225359,4809,634,BE ZEE
+port601,Kristiansund,Norway,NOR,Europe,63.10839135,7.75619225,1479,108,NO KSU
+port144,Benicia,United States,USA,North America,38.0520371,-122.1319218,280,0,US BNC
+port60,Apia,Samoa,WSM,Asia & Pacific,-13.82606943,-171.7602318,191,93,WS APW
+port1005,Porto Di Lido-Venezia,Italy,ITA,Europe,45.45052227,12.24239331,2275,669,
+port937,Port Bonython,Australia,AUS,Asia & Pacific,-32.98889339,137.7693538,30,0,AU PBY
+port61,Apra Harbor,Guam,GUM,Asia & Pacific,13.4602817,144.6753643,311,146,
+port75,Asprópirgos,Greece,GRC,Europe,38.02421337,23.59851111,1551,0,GR ASS
+port959,Port Kembla,Australia,AUS,Asia & Pacific,-34.46209936,150.8844854,789,6,AU PKL
+port1019,Presque Isle,United States,USA,North America,46.56113916,-87.39431636,168,0,US PQI
+port62,Aratu,Brazil,BRA,South America,-12.78345046,-38.48799058,752,1,
+port322,Eleusis,Greece,GRC,Europe,38.04219308,23.53340774,1793,14,GR FLS
+port705,Marin,Spain,ESP,Europe,42.39926144,-8.69703222,239,59,ES MPG
+port248,Clarkson,Canada,CAN,North America,43.4976782,-79.61775485,112,0,CA CSN
+port500,Heraklion,Greece,GRC,Europe,35.34423683,25.14697526,478,40,GR HER
+port1197,Laem Chabang,Thailand,THA,Asia & Pacific,13.0887337,100.8999916,5410,3975,TH LCH
+port140,Belém,Brazil,BRA,South America,-1.500690215,-48.6598586,294,1,BR BEL
+port86,La Habana,Cuba,CUB,North America,23.12766955,-82.33371675,212,2,
+port166,Porto do Acu,Brazil,BRA,South America,-21.85065621,-41.01992427,527,0,
+port139,Belawan,Indonesia,IDN,Asia & Pacific,3.78854271,98.70736598,1330,478,ID BLW
+port552,Kavála,Greece,GRC,Europe,40.95415861,24.49991079,331,8,GR KVA
+port718,Matanzas,Cuba,CUB,North America,23.06290735,-81.54256705,113,0,CU QMA
+port940,Bell Bay,Australia,AUS,Asia & Pacific,-41.12937261,146.8571601,158,30,AU BEL
+port145,Benoa,Indonesia,IDN,Asia & Pacific,-8.631208267,115.3534602,317,0,ID BOA
+port462,Heysham,United Kingdom,GBR,Europe,54.0346648,-2.913479036,279,0,GB HYM
+port708,Markenes,Norway,NOR,Europe,69.23450096,19.35902448,292,24,NO MAR
+port159,Boston,United States,USA,North America,42.37717521,-71.03617154,441,149,US BOS
+port630,Lakselv,Norway,NOR,Europe,67.36277744,15.5868724,189,58,NO LKL
+port447,Hamilton,Canada,CAN,North America,43.27190232,-79.81043226,529,10,CA HAM
+port1006,Malamocco,Italy,ITA,Europe,45.33112972,12.32719834,863,352,
+port845,Agioi Oil Terminal,Greece,GRC,Europe,37.9212018,23.07403802,1379,0,GR AGT
+port151,Bitung,Indonesia,IDN,Asia & Pacific,1.440344333,125.1768685,879,279,ID BIT
+port256,Whiffen Head,Canada,CAN,North America,47.78874083,-54.00048293,303,0,CA WHH
+port772,Motril,Spain,ESP,Europe,36.7213301,-3.521956091,277,11,ES MOT
+port1021,Prince Rupert,Canada,CAN,North America,54.26668285,-130.3377598,514,176,CA PRR
+port152,Blanglancang,Indonesia,IDN,Asia & Pacific,5.230939806,97.06571881,122,4,
+port1211,Songkhla,Thailand,THA,Asia & Pacific,7.228638224,100.5712733,532,89,TH SGK
+port1140,San Diego,United States,USA,North America,32.68538625,-117.1471772,289,58,US SAN
+port859,Ormos Aliveriou,Greece,GRC,Europe,38.37512451,24.06395338,168,0,GR LVR
+port223,Moa,Cuba,CUB,North America,20.65247128,-74.90892689,88,5,CU MOA
+port156,Bontang LNG Terminal,Indonesia,IDN,Asia & Pacific,0.096886557,117.4925674,907,57,ID BXT
+port493,Immingham,United Kingdom,GBR,Europe,53.64188521,-0.226276065,5830,838,GB IMM
+port889,Patras,Greece,GRC,Europe,38.24088918,21.72775773,473,2,GR GPA
+port245,Cilacap,Indonesia,IDN,Asia & Pacific,-7.710107441,109.0388343,813,0,ID CXP
+port1007,Oristano,Italy,ITA,Europe,39.8641519,8.560153432,148,9,IT QOS
+port962,Port Latta,Australia,AUS,Asia & Pacific,-40.85183205,145.3820495,39,0,AU PLA
+port908,Piraeus,Greece,GRC,Europe,37.95244597,23.60374677,5354,2845,GR PIR
+port246,Cirebon,Indonesia,IDN,Asia & Pacific,-6.73590951,108.5915104,267,2,ID CBN
+port170,Bridgeport (US-CT),United States,USA,North America,41.16904771,-73.16965077,3,0,US BDR
+port297,Donggala,Indonesia,IDN,Asia & Pacific,-0.745020664,119.8288951,457,165,ID DON
+port1038,Bilbao,Spain,ESP,Europe,43.34131008,-3.045961217,2352,608,ES BIO
+port309,Dumai,Indonesia,IDN,Asia & Pacific,1.717388504,101.4188235,2583,32,
+port835,Nuevitas Bay,Cuba,CUB,North America,21.55374735,-77.22955586,77,0,
+port1288,Thathong,Thailand,THA,Asia & Pacific,9.17586433,99.36651889,680,46,TH 1TH
+port325,Ende,Indonesia,IDN,Asia & Pacific,-8.850508971,121.6538749,113,27,
+port455,Harmac,Canada,CAN,North America,49.14104031,-123.8657233,225,12,CA HMC
+port498,Ipswich,United Kingdom,GBR,Europe,52.03702132,1.161808504,475,45,GB IPS
+port407,Gorontalo,Indonesia,IDN,Asia & Pacific,0.505022857,123.0648939,201,69,ID GTO
+port753,Mo i Rana,Norway,NOR,Europe,66.3086432,14.13848724,670,95,NO MQN
+port1008,Palermo,Italy,ITA,Europe,38.1302104,13.36777406,423,184,IT PMO
+port420,Gresik,Indonesia,IDN,Asia & Pacific,-7.140468238,112.644235,4835,1717,
+port1141,San Francisco,United States,USA,North America,37.75519022,-122.3870814,50,2,US SFO
+port177,Brownsville (US-PA),United States,USA,North America,25.95858285,-97.38156647,230,3,US BV8
+port1039,Carboneras,Spain,ESP,Europe,36.9694298,-1.907726358,138,3,ES CRS
+port1041,Garrucha,Spain,ESP,Europe,37.18231033,-1.817859986,274,20,ES GAR
+port113,Banjul,The Gambia,GMB,Africa,13.44443552,-16.57415168,184,98,GM BJL
+port507,Inverness,United Kingdom,GBR,Europe,57.49032353,-4.232214132,107,3,GB INV
+port1011,Porto Torres,Italy,ITA,Europe,40.83365381,8.359909225,173,39,IT PTO
+port180,Brunswick,United States,USA,North America,31.13185217,-81.51967886,515,9,US SSI
+port115,Bizerte,Tunisia,TUN,Africa,37.25993301,9.873087666,369,64,
+port1044,Pasajes,Spain,ESP,Europe,43.31889411,-1.908167738,860,58,ES PAS
+port571,King's Lynn,United Kingdom,GBR,Europe,52.76469449,0.392431366,175,16,GB KLN
+port185,Buffington,United States,USA,North America,41.64111669,-87.41011484,38,0,US 1BF
+port371,Gabes,Tunisia,TUN,Africa,33.91881609,10.08893967,282,8,TN GAE
+port1046,Puerto Del Rosario,Spain,ESP,Europe,28.49501101,-13.85621562,330,156,ES FUE
+port573,Hull,United Kingdom,GBR,Europe,53.74056585,-0.263784773,1886,626,GB HUL
+port195,Burns Harbour,United States,USA,North America,41.63256448,-87.14127024,196,2,US BNB
+port964,Port Lincoln,Australia,AUS,Asia & Pacific,-34.72199883,135.8701998,76,0,AU PLO
+port496,Indonesia Morowali Industrial Park,Indonesia,IDN,Asia & Pacific,-2.821666592,122.1691428,852,16,ID MOW
+port1156,Santiago De Cuba,Cuba,CUB,North America,20.01383068,-75.85638962,200,41,CU SCU
+port733,Sfax,Tunisia,TUN,Africa,34.72756548,10.77188258,459,116,TN SFA
+port615,La Baie (Port Alfred),Canada,CAN,North America,48.3648556,-70.85540004,193,1,
+port514,Tanjung Priok,Indonesia,IDN,Asia & Pacific,-6.100544627,106.9054876,9315,4257,
+port639,Leith,United Kingdom,GBR,Europe,55.98291752,-3.17422235,124,9,GB LEI
+port760,Mongstad,Norway,NOR,Europe,60.82173558,5.044241787,1903,37,NO MON
+port495,Indiana Harbor,United States,USA,North America,41.66731564,-87.44841938,181,0,US ECH
+port1120,Sagunto,Spain,ESP,Europe,39.64480991,-0.223272004,1059,218,ES SAG
+port1149,Sandusky,United States,USA,North America,41.45831439,-82.72983385,201,0,US SKY
+port516,Jayapura,Indonesia,IDN,Asia & Pacific,-2.535491567,140.7191664,231,100,ID DJJ
+port209,Calumet Harbor,United States,USA,North America,41.68270148,-87.55852758,97,17,US CAY
+port974,Port Pirie,Australia,AUS,Asia & Pacific,-33.16703826,138.0094962,70,0,AU PPI
+port549,Kasim Terminal,Indonesia,IDN,Asia & Pacific,-1.313951861,131.0264411,56,0,ID KAS
+port1206,Skhira,Tunisia,TUN,Africa,34.33734226,10.1445815,91,0,
+port87,Bahia De Las Minas,Panama,PAN,North America,9.389723107,-79.82035594,216,0,
+port558,Kendari,Indonesia,IDN,Asia & Pacific,-3.978833534,122.6045044,474,151,ID KDI
+port595,Kota Baru,Indonesia,IDN,Asia & Pacific,-3.245141628,116.2294128,457,6,
+port609,Kupang,Indonesia,IDN,Asia & Pacific,-10.19659728,123.5282089,445,108,ID KOE
+port614,LNG Tangguh,Indonesia,IDN,Asia & Pacific,-2.439776422,133.1287574,184,0,
+port625,Lafarge,Indonesia,IDN,Asia & Pacific,5.452012951,95.24432071,32,0,
+port651,Lingkas,Indonesia,IDN,Asia & Pacific,3.286518484,117.5934411,191,64,
+port696,Manokwari Road,Indonesia,IDN,Asia & Pacific,-0.915338044,134.0531939,349,109,
+port722,Maumere,Indonesia,IDN,Asia & Pacific,-8.624805573,122.2412169,170,3,ID MOF
+port731,Merak Mas Terminal,Indonesia,IDN,Asia & Pacific,-5.93656194,106.0960201,858,44,ID MRK
+port732,Merauke,Indonesia,IDN,Asia & Pacific,-8.476708723,140.3924246,172,73,ID MKQ
+port869,PLTU Semen Tonasa,Indonesia,IDN,Asia & Pacific,-4.815964628,119.5000805,290,0,
+port875,Palembang,Indonesia,IDN,Asia & Pacific,-2.986159534,104.8251794,2568,98,ID PLM
+port881,Panjang,Indonesia,IDN,Asia & Pacific,-5.493013574,105.3301717,1986,156,ID PNJ
+port886,Parepare,Indonesia,IDN,Asia & Pacific,-4.002997065,119.6260057,103,2,
+port893,Pelabuhan Tanjung Wangi,Indonesia,IDN,Asia & Pacific,-8.141007884,114.3975522,456,0,ID TJW
+port894,PelabuhanRatuCoalPowerPlant,Indonesia,IDN,Asia & Pacific,-6.953376613,106.2464415,202,0,
+port923,Pomalaa,Indonesia,IDN,Asia & Pacific,-4.12903305,121.5893849,47,0,
+port925,Pontianak,Indonesia,IDN,Asia & Pacific,0.006325197,109.294324,1340,303,ID PNK
+port1022,Probolinggo,Indonesia,IDN,Asia & Pacific,-7.71711305,113.4157124,247,0,
+port1061,Pulau Baai,Indonesia,IDN,Asia & Pacific,-3.912624289,102.2899162,390,22,ID PBA
+port1137,Samarinda,Indonesia,IDN,Asia & Pacific,-0.551281498,117.1922256,2380,297,ID SRI
+port1138,Sampit,Indonesia,IDN,Asia & Pacific,-2.50712718,112.9748253,465,23,ID SMQ
+port1178,Sekupang,Indonesia,IDN,Asia & Pacific,1.130810535,103.9555474,1648,228,ID SKP
+port1179,Semarang,Indonesia,IDN,Asia & Pacific,-6.9496280520000004,110.4241286,1310,673,ID SRG
+port123,Basuo,China,CHN,Asia & Pacific,19.07869612,108.6293529,549,0,
+port204,Cairns,Australia,AUS,Asia & Pacific,-16.94121568,145.7731995,174,0,AU CNS
+port133,Bayuquan,China,CHN,Asia & Pacific,40.26513,122.0668421,3819,792,CN BYQ
+port1337,Uleelheue,Indonesia,IDN,Asia & Pacific,5.59637662,95.52598222,50,5,
+port1413,Yeysk,Russian Federation,RUS,Europe,46.72761087,38.27383154,834,2,RU YEY
+port136,Beihai,China,CHN,Asia & Pacific,21.47255148,109.0671522,201,11,
+port276,Dampier,Australia,AUS,Asia & Pacific,-20.6266866,116.7424761,1419,4,AU DAM
+port519,Shoaiba,Saudi Arabia,SAU,Asia & Pacific,20.65258296,39.54249452,113,0,
+port1377,Waingapu,Indonesia,IDN,Asia & Pacific,-9.639093157,120.2494941,158,8,
+port513,Jacksonville,United States,USA,North America,30.3833261,-81.58303357,1322,589,US JAX
+port154,Huanghua,China,CHN,Asia & Pacific,38.32313123,117.8672445,4356,70,CN HNH
+port73,Ashdod,Israel,ISR,Asia & Pacific,31.83630909,34.66849998,2187,1208,IL ASH
+port280,Darwin,Australia,AUS,Asia & Pacific,-12.49794668,130.9019044,775,47,AU DRW
+port526,Juaymah,Saudi Arabia,SAU,Asia & Pacific,26.80319051,49.97698013,921,0,
+port43,Amirabad Port,Iran,IRN,Asia & Pacific,36.85068189,53.365271129999996,501,0,IR BAM
+port74,Ashkelon,Israel,ISR,Asia & Pacific,31.64077392,34.53913441,50,0,IL AKL
+port629,Lake Charles,United States,USA,North America,30.19064745,-93.31148796,808,5,US LCH
+port227,Suzhou (Changshu),China,CHN,Asia & Pacific,31.75778041,120.9642729,701,52,
+port570,Yanbu (King Fahd Port),Saudi Arabia,SAU,Asia & Pacific,23.95087468,38.27170365,1424,2,
+port288,Devonport,Australia,AUS,Asia & Pacific,-41.1826581,146.3659077,204,0,AU DPO
+port58,Bandar-e Anzali,Iran,IRN,Asia & Pacific,37.47515153,49.46995908,415,0,IR BAZ
+port331,Esperance,Australia,AUS,Asia & Pacific,-33.87217366,121.9007373,189,11,AU EPR
+port664,Los Angeles-Long Beach,United States,USA,North America,33.75569193,-118.2437881,3793,1886,US LAX
+port1081,Rabigh,Saudi Arabia,SAU,Asia & Pacific,22.63873353,39.05376029,400,0,SA RAB
+port228,Changzhou,China,CHN,Asia & Pacific,31.9742313,119.9982754,1468,59,CN CZX
+port105,Bandar-E Pars Terminal,Iran,IRN,Asia & Pacific,27.56361956,52.51242998,476,82,
+port361,Fremantle,Australia,AUS,Asia & Pacific,-32.15203252,115.7705242,1440,364,AU FRE
+port695,Manitowoc,United States,USA,North America,44.09318552,-87.66330562,1,0,US MTW
+port1088,Ras Al Mishab,Saudi Arabia,SAU,Asia & Pacific,27.88827937,48.81709477,17,0,SA RAM
+port229,Chaozhou,China,CHN,Asia & Pacific,23.56807273,117.1093332,379,0,CN COZ
+port106,Bandar Shahid Rajaee,Iran,IRN,Asia & Pacific,27.13960482,56.06282679,958,344,IR BSR
+port383,Geelong,Australia,AUS,Asia & Pacific,-38.09529265,144.3653725,516,0,AU GEX
+port435,Haifa,Israel,ISR,Asia & Pacific,32.81051127,35.0350231,2765,1071,IL HFA
+port730,Menominee,United States,USA,North America,45.09677605,-87.60249552,4,0,US MNM
+port1089,Ras Al-Khair,Saudi Arabia,SAU,Asia & Pacific,27.54005494,49.18719288,288,0,SA RAZ
+port1013,Piombino,Italy,ITA,Europe,42.93701819,10.54495084,246,12,IT PIO
+port242,Chiwan,China,CHN,Asia & Pacific,19.96273734,110.0339897,267,0,CN CWN
+port391,Geraldton,Australia,AUS,Asia & Pacific,-28.77609449,114.5941933,410,0,AU GET
+port1091,Ras Tanura,Saudi Arabia,SAU,Asia & Pacific,26.67168923,50.12291543,672,0,SA RTA
+port107,Bandar Abbas,Iran,IRN,Asia & Pacific,27.14750008,56.20294512,278,17,IR BND
+port882,Papeete,French Polynesia,PYF,Asia & Pacific,-17.53199754,-149.5738771,428,111,PF PPT
+port736,Miami,United States,USA,North America,25.77821728,-80.1832659,1222,804,US MIA
+port273,Dalian,China,CHN,Asia & Pacific,38.9870355,121.770301,6968,2413,CN DAG
+port1017,Pozzuoli,Italy,ITA,Europe,40.82286509,14.11641496,36,0,IT POZ
+port398,Gladstone,Australia,AUS,Asia & Pacific,-23.81907969,151.2155277,1817,17,AU GLT
+port1408,Yanbu (Yanbu city),Saudi Arabia,SAU,Asia & Pacific,24.07715154,38.07030618,165,0,
+port108,Bandar Khomeini,Iran,IRN,Asia & Pacific,30.4356647,49.06761425,508,49,
+port742,Milwaukee,United States,USA,North America,43.01799491,-87.90758406,89,1,US MKE
+port1083,Vado Ligure,Italy,ITA,Europe,44.27052527,8.437281339,429,225,IT VDL
+port1344,Uturoa,French Polynesia,PYF,Asia & Pacific,-16.73103838,-151.440829,178,19,PF UTU
+port25,Shuwaikh,Kuwait,KWT,Asia & Pacific,29.35210588,47.92389677,625,264,KW SWK
+port196,Bushehr,Iran,IRN,Asia & Pacific,28.99153747,50.83467263,363,47,IR BUZ
+port406,Gorgon LNG,Australia,AUS,Asia & Pacific,-20.79232174,115.4597616,223,0,
+port277,Dandong,China,CHN,Asia & Pacific,39.81024914,124.1468591,548,1,CN DDZ
+port79,Auckland,New Zealand,NZL,Asia & Pacific,-36.84280038,174.773952,914,533,NZ AKL
+port226,Chabahar,Iran,IRN,Asia & Pacific,25.2960398,60.61107983,83,24,
+port411,Gove,Australia,AUS,Asia & Pacific,-12.19695558,136.7166954,216,0,AU GOV
+port1135,Salerno,Italy,ITA,Europe,40.67414577,14.74602948,1176,562,IT SAL
+port754,Mobile,United States,USA,North America,30.66503638,-88.06673452,1155,294,US MOB
+port1170,Savannah,United States,USA,North America,32.10402454,-81.10052022,2274,1603,US SAV
+port766,Montreal,Canada,CAN,North America,45.54455368,-73.53480189,1150,433,CA MTR
+port981,Port Walcott,Australia,AUS,Asia & Pacific,-20.60828612,117.1656515,1031,0,AU PWL
+port789,Namsos,Norway,NOR,Europe,64.4610397,11.5068927,123,34,NO OSY
+port101,Balboa,Panama,PAN,North America,8.95532195,-79.56547193,2348,1619,PA BLB
+port992,Portland,Australia,AUS,Asia & Pacific,-38.35404187,141.6171851,246,1,AU PTJ
+port1174,Searsport,United States,USA,North America,44.45613077,-68.90260152,58,3,US SRP
+port814,New Westminster,Canada,CAN,North America,49.17510525,-122.9775675,493,139,CA NWE
+port796,Narvik,Norway,NOR,Europe,68.42231695,17.41102647,246,4,NO NVK
+port230,Charco Azul,Panama,PAN,North America,8.206367894,-82.87824453,101,0,PA CHA
+port1243,Sydney,Australia,AUS,Asia & Pacific,-33.85321045,151.1856172,130,1,AU SYD
+port1175,Seattle,United States,USA,North America,47.57185015,-122.3457616,574,428,US SEA
+port931,Port Angeles,Canada,CAN,North America,48.12879898,-123.454329,223,9,
+port841,Odda,Norway,NOR,Europe,60.08969455,6.535188651,219,26,NO ODD
+port240,Chiriquí Grande,Panama,PAN,North America,8.954239787,-82.12102129,109,0,PA CHG
+port1214,South Louisiana,United States,USA,North America,30.12379526,-90.86781072,2450,4,US LU8
+port935,Channel-Port aux Basques,Canada,CAN,North America,47.58178167,-59.1410866,23,0,CA PBQ
+port1294,Thevenard,Australia,AUS,Asia & Pacific,-32.14851384,133.64844,89,0,AU THE
+port936,Bayside Charlotte,Canada,CAN,North America,45.16295904,-67.13762395,25,0,
+port1229,Stockton,United States,USA,North America,37.94796903,-121.3108829,216,2,US SCK
+port700,Manzanillo,Panama,PAN,North America,9.367894427,-79.88215481,2312,1806,PA MIT
+port1315,Townsville,Australia,AUS,Asia & Pacific,-19.25646588,146.8364116,529,73,AU TSV
+port938,Port Cartier,Canada,CAN,North America,50.02986924,-66.80000199,438,0,CA PCA
+port864,Oslo,Norway,NOR,Europe,59.89670372,10.74298651,1193,538,NO OSL
+port1236,Duluth,United States,USA,North America,46.71928735,-92.09100101,622,9,US DLH
+port1035,Colon,Panama,PAN,North America,9.373324629,-79.87879174,1035,802,PA ONX
+port1380,Wallaroo,Australia,AUS,Asia & Pacific,-33.9300709,137.619583,27,0,AU WAL
+port946,Port Dover,Canada,CAN,North America,42.80815077,-80.09860633,291,2,CA PDV
+port1241,Swanport,United States,USA,North America,61.08345856,-146.3836034,215,0,US SWP
+port928,Porsgrunn,Norway,NOR,Europe,59.11512823,9.595305249,1551,107,NO POR
+port1037,Puerto Cristobal,Panama,PAN,North America,9.345538334,-79.90654356,997,656,
+port1387,Weipa,Australia,AUS,Asia & Pacific,-12.6538801,141.8764767,573,0,AU WEI
+port1075,Quebec,Canada,CAN,North America,46.79533437,-71.20615815,833,4,CA QUE
+port1391,Western Port,Australia,AUS,Asia & Pacific,-38.30737612,145.2124934,109,0,
+port1107,Rørvik,Norway,NOR,Europe,64.85936906,11.28243829,468,28,NO RVK
+port1245,Sydney,United States,USA,North America,46.17600891,-60.21659641,97,0,US SDY
+port88,Matarani,Peru,PER,South America,-17.00463341,-72.10778779,440,27,PE MRI
+port1166,Sarnia,Canada,CAN,North America,42.95496401,-82.41332422,561,3,CA SNI
+port1395,Whyalla,Australia,AUS,Asia & Pacific,-33.00851704,137.5902021,76,0,AU WYA
+port1148,Sandnessjøen,Norway,NOR,Europe,66.02360624,12.65364034,200,8,NO SSJ
+port1248,Tacoma,United States,USA,North America,47.2535658,-122.3912123,868,468,US TIW
+port91,San Nicolas,Peru,PER,South America,-15.25817877,-75.23949267,155,1,PE SNX
+port1181,Sept Iles,Canada,CAN,North America,50.17802481,-66.41080854,395,0,CA SEI
+port1169,Sauda,Norway,NOR,Europe,59.64619296,6.360780684,239,20,NO SAU
+port1,Åbenrå,Denmark,DNK,Europe,55.04254248,9.428136552,359,31,DK AAB
+port1259,Tampa Port,United States,USA,North America,27.89834075,-82.41979139,930,156,US TPA
+port259,Conchan Oil Terminal,Peru,PER,South America,-12.2489924,-76.92678342,155,0,
+port1219,Saint John,Canada,CAN,North America,45.2723998,-66.03688907,644,152,CA SJB
+port29,Aalborg,Denmark,DNK,Europe,57.05441309,9.991278757,733,78,DK AAL
+port1285,Texas City,United States,USA,North America,29.37581007,-94.91276462,724,0,US TXT
+port873,Paita,Peru,PER,South America,-5.081938312,-81.10649294,439,350,PE PAI
+port1208,Slagentangen,Norway,NOR,Europe,59.31819836,10.51438098,360,0,NO SLG
+port1220,Saint John's,Canada,CAN,North America,47.56031799,-52.70436538,190,93,
+port67,Aarhus,Denmark,DNK,Europe,56.15113463,10.2292507,1610,633,DK AAR
+port1306,Toledo,United States,USA,North America,41.679919,-83.46756215,267,7,US TOL
+port1026,Bayovar,Peru,PER,South America,-5.801063431,-81.05847886,163,0,PE PUB
+port1225,Stavanger,Norway,NOR,Europe,58.94526233,5.726419355,1154,116,NO SVG
+port1295,Thunder Bay,Canada,CAN,North America,48.3841793,-89.24340302,447,7,CA THU
+port1333,Two Harbors,United States,USA,North America,47.20061114,-91.39263596,300,0,US THB
+port328,Esbjerg,Denmark,DNK,Europe,55.46312208,8.467057901,1044,43,DK EBJ
+port1312,Toronto,Canada,CAN,North America,43.65153488,-79.39048026,156,4,CA TOR
+port1226,Steinkjer,Norway,NOR,Europe,64.00404595,11.3360945,178,31,NO STE
+port1040,Chimbote,Peru,PER,South America,-9.085460638,-78.58851611,88,0,PE CHM
+port1231,Stura,Norway,NOR,Europe,60.59355708,4.86580481,318,0,NO STU
+port354,Fredericia,Denmark,DNK,Europe,55.55789496,9.746943976,899,241,DK FRC
+port1351,Vancouver,United States,USA,North America,45.63802271,-122.7274124,360,5,US VAN
+port1320,Trois Rivieres,Canada,CAN,North America,46.33296537,-72.55306824,108,2,
+port1045,Callao,Peru,PER,South America,-12.04730879,-77.14023094,2157,1177,PE CLL
+port1263,Tananger,Norway,NOR,Europe,58.92416802,5.591875675,1149,255,NO TAE
+port355,Frederikshavn,Denmark,DNK,Europe,57.4384782,10.54588059,206,13,DK FDH
+port1398,"Wilmington, DE",United States,USA,North America,39.70485674,-75.52165536,811,443,
+port1350,Vancouver,Canada,CAN,North America,49.28996399,-123.0289044,2054,296,CA VAN
+port1047,Ilo,Peru,PER,South America,-17.61873151,-71.35768762,280,35,PE ILQ
+port654,Liverpool,United Kingdom,GBR,Europe,53.42928626,-3.009155853,2257,726,GB LIV
+port1152,Santa Cruz De La Palma,Spain,ESP,Europe,28.67612458,-17.76700891,190,87,ES SPC
+port212,Canaveral Harbor,United States,USA,North America,28.41097835,-80.61594935,197,5,
+port1213,Sousse,Tunisia,TUN,Africa,35.82451281,10.64508158,349,65,TN SUS
+port658,London,United Kingdom,GBR,Europe,51.48682241,0.154356441,2148,37,GB LON
+port1153,Santa Cruz De Tenerife,Spain,ESP,Europe,28.47777935,-16.23572334,1684,844,ES SCT
+port231,Charleston,United States,USA,North America,32.8992962,-79.92115799,1754,1211,US CHS
+port1329,Tunis,Tunisia,TUN,Africa,36.80638815,10.28334439,706,170,TN TUN
+port659,London Gateway,United Kingdom,GBR,Europe,51.51025908,0.516336392,1931,1274,GB LGP
+port1155,Santander,Spain,ESP,Europe,43.42618793,-3.821288327,1190,109,ES SDR
+port1423,Zarzis,Tunisia,TUN,Africa,33.48197839,11.11418322,121,16,TN ZRZ
+port237,Chester,United States,USA,North America,39.8528822,-75.34091924,149,146,US ACL
+port116,Bar,Montenegro,MNE,Europe,42.08849912,19.08454828,254,74,ME BAR
+port660,Londonderry,United Kingdom,GBR,Europe,55.03992055,-7.253793152,302,21,GB LDY
+port1185,Seville,Spain,ESP,Europe,37.31910604,-5.994782412,777,116,ES SVQ
+port120,Barranquilla,Colombia,COL,South America,10.99598314,-74.77946097,1064,309,CO BAQ
+port249,Cleveland,United States,USA,North America,41.47381881,-81.67511756,274,14,US CLE
+port726,Medway,United Kingdom,GBR,Europe,51.42671953,0.746922127,658,89,GB SHS
+port1277,Tarragona,Spain,ESP,Europe,41.10257906,1.202306235,2106,122,ES TAR
+port183,Buenaventura,Colombia,COL,South America,3.894388566,-77.06649613,1198,651,CO BUN
+port264,Corpus Christi,United States,USA,North America,27.84122725,-97.37990791,1723,3,US CRP
+port727,Medway City,United Kingdom,GBR,Europe,51.39262543,0.514237808,160,7,GB LTP
+port1314,Torrevieja,Spain,ESP,Europe,37.97481074,-0.696812944,38,2,ES TOR
+port218,Cartagena,Colombia,COL,South America,10.33500602,-75.51291158,3462,2105,CO CTG
+port282,Davisville Depot,United States,USA,North America,41.60836202,-71.41914669,196,7,US DVV
+port740,Milford Haven,United Kingdom,GBR,Europe,51.70054285,-5.023498674,1123,1,GB MLF
+port1348,Valencia,Spain,ESP,Europe,39.44220953,-0.322345205,3897,2899,ES VLC
+port266,Covenas Offshore Term.,Colombia,COL,South America,9.404219878,-75.69862757,207,0,
+port314,EL Segundo,United States,USA,North America,33.91490744,-118.4019797,206,0,US ELS
+port1363,Vigo,Spain,ESP,Europe,42.24149326,-8.723487947,1209,551,ES VGO
+port810,New Holland,United Kingdom,GBR,Europe,53.70359433,-0.359116194,330,37,GB NHO
+port1027,Puerto Bolivar,Colombia,COL,South America,12.25028035,-71.96257031,217,17,CO PBO
+port324,Empire,United States,USA,North America,43.42715709,-124.2592301,54,0,US EPE
+port1365,Villagarcia De Arosa,Spain,ESP,Europe,42.59628594,-8.778904461,291,86,
+port817,Newport,United Kingdom,GBR,Europe,51.56168472,-2.978991429,428,35,GB NPT
+port1054,Puerto Nuevo,Colombia,COL,South America,11.05031925,-74.21920934,381,0,
+port333,Everett (US-WA),United States,USA,North America,47.97713083,-122.2236917,97,41,US PAE
+port899,Peterhead,United Kingdom,GBR,Europe,57.49317555,-1.786873448,136,4,GB PHD
+port1154,Santa Marta,Colombia,COL,South America,11.25145763,-74.21500894,717,363,CO SMR
+port352,Fourchon,United States,USA,North America,29.13034343,-90.20534334,98,0,US FOC
+port122,Basseterre,St.  Kitts and Nevis,KNA,North America,17.28735648,-62.70846699,267,65,KN BAS
+port914,Plymouth,United Kingdom,GBR,Europe,50.37787084,-4.155978733,393,10,GB PLY
+port358,Freeport (US-FL),United States,USA,North America,28.94393738,-95.32605,1075,133,US XAS
+port232,Charlestown,St.  Kitts and Nevis,KNA,North America,17.10979491,-62.6229819,109,6,KN CHA
+port926,Poole,United Kingdom,GBR,Europe,50.71636883,-1.990203839,299,8,GB POO
+port373,Galveston,United States,USA,North America,29.30976119,-94.80456985,614,9,US GLS
+port994,Portland Harbour,United Kingdom,GBR,Europe,50.57057977,-2.437413367,253,5,GB PRH
+port377,Gary,United States,USA,North America,41.61965319,-87.33955446,131,0,US GYY
+port1014,Portsmouth Harbour,United Kingdom,GBR,Europe,50.80555434,-1.107423076,397,87,GB PME
+port1194,Shoreham Harbour,United Kingdom,GBR,Europe,50.82917772,-0.22507695,227,20,
+port412,Grand Haven,United States,USA,North America,43.05103116,-86.21280848,53,0,US GHN
+port1216,Southampton,United Kingdom,GBR,Europe,50.90206161,-1.429531609,2026,827,GB SOU
+port418,Green Bay,United States,USA,North America,44.52266572,-88.02002332,87,6,US GRB
+port428,Gulfport,United States,USA,North America,30.35563981,-89.0929267,142,121,US GPT
+port1234,Sunderland,United Kingdom,GBR,Europe,54.91039934,-1.361674386,174,13,GB SUN
+port464,Hilo,United States,USA,North America,19.72773724,-155.0556259,44,0,US ITO
+port476,Honolulu,United States,USA,North America,21.32896919,-157.9035129,465,292,US HNL
+port1279,Teesport,United Kingdom,GBR,Europe,54.60371827,-1.149996819,2607,628,GB TEE
+port481,Houston (US-TX),United States,USA,North America,29.72023114,-95.13978774,7358,984,US HOU
+port1289,Thamesport,United Kingdom,GBR,Europe,51.43787633,0.685666354,421,240,GB THP
+port1298,Tilbury,United Kingdom,GBR,Europe,51.45852614,0.34246757,1558,785,GB TIL
+port213,Dung Quat,Vietnam,VNM,Asia & Pacific,15.40466501,108.8018653,1657,5,VN DQT
+port269,Da Nang,Vietnam,VNM,Asia & Pacific,16.11513801,108.2296467,1549,1078,VN DAD
+port434,Hai Phong,Vietnam,VNM,Asia & Pacific,20.84406939,106.7474848,7340,3637,
+port473,Hon Gai,Vietnam,VNM,Asia & Pacific,20.99454236,107.0548395,668,15,VN HON
+port819,Nghe Tinh,Vietnam,VNM,Asia & Pacific,19.21524656,105.762275,436,25,VN NGT
+port903,Cai Mep,Vietnam,VNM,Asia & Pacific,10.57169836,107.02606,4183,1445,VN TOT
+port983,Can Tho,Vietnam,VNM,Asia & Pacific,10.11224068,105.7023004,346,0,VN VCA
+port1078,Quy Nhon,Vietnam,VNM,Asia & Pacific,13.7761055,109.2444482,707,210,VN UIH
+port1291,Saigon,Vietnam,VNM,Asia & Pacific,10.73624058,106.766152,9332,5205,VN SGN
+port1375,Vung Tau,Vietnam,VNM,Asia & Pacific,10.39088089,107.0917354,365,10,VN VUT
+port214,Cap Haitien,Haiti,HTI,North America,19.75954418,-72.19569507,133,21,HT CAP
+port934,Port Au Prince,Haiti,HTI,North America,18.62806777,-72.35783182,614,214,
+port1346,Vaasa,Finland,FIN,Europe,63.08748865,21.56159548,182,15,FI VAA
+port1125,Saint-Marc,Haiti,HTI,North America,19.10948777,-72.70279036,39,1,
+port215,Cape Town,South Africa,ZAF,Africa,-33.91543197,18.4482289,957,439,ZA CPT
+port1354,Varkaus,Finland,FIN,Europe,62.31449887,27.90646723,17,0,FI VRK
+port311,Durban,South Africa,ZAF,Africa,-29.88212961,31.02302243,2506,694,ZA DUR
+port315,East London,South Africa,ZAF,Africa,-33.02810636,27.90088104,239,39,ZA ELS
+port948,Port Elizabeth,South Africa,ZAF,Africa,-33.90336755,25.62262529,1260,184,ZA PLZ
+port1099,Richards Bay,South Africa,ZAF,Africa,-28.79239882,32.03937272,1472,5,ZA RCB
+port1133,Saldanha Bay,South Africa,ZAF,Africa,-32.99778093,18.00771256,545,1,ZA SDB
+port221,Castries,St.  Lucia,LCA,North America,13.99444111,-61.00927372,540,148,LC CAS
+port1362,Vieux Fort,St.  Lucia,LCA,North America,13.72190274,-60.95298317,121,1,LC VIF
+port380,Gdansk,Poland,POL,Europe,54.37579704,18.69364423,3059,799,PL GDN
+port233,Charlotte,United States Virgin Islands,VIR,North America,18.33384953,-64.93840481,613,269,
+port381,Gdynia,Poland,POL,Europe,54.53556218,18.52451098,2495,1055,PL GDY
+port1242,Swinoujscie,Poland,POL,Europe,53.90299121,14.27525427,864,142,PL SWI
+port1246,Szczecin,Poland,POL,Europe,53.43782148,14.5872664,2066,350,PL SZZ
+port649,Limetree Bay,United States Virgin Islands,VIR,North America,17.70567396,-64.75672295,822,223,VI LIB
+port389,Georgetown,Cayman Islands,CYM,North America,19.29629306,-81.38380906,253,140,
+port791,Nantes,France,FRA,Europe,47.19235088,-1.616274255,187,7,FR NTE
+port238,Keelung,Taiwan Province of China,TWN,Asia & Pacific,25.14717994,121.7520059,3510,2527,TW KEL
+port390,Georgetown,Guyana,GUY,South America,6.798369039,-58.1695519,1236,218,GY GEO
+port482,Hualien,Taiwan Province of China,TWN,Asia & Pacific,23.98211049,121.6278977,226,0,TW HUN
+port650,Linden,Guyana,GUY,South America,5.999990699,-58.30264842,116,2,GY LDN
+port820,Nice,France,FRA,Europe,43.69433071,7.284023851,70,5,FR NCE
+port541,Kaohsiung,Taiwan Province of China,TWN,Asia & Pacific,22.5615278,120.3226847,13044,7471,TW KHH
+port807,New Amsterdam,Guyana,GUY,South America,6.228603762,-57.51924758,90,0,GY NAM
+port939,Ajaccio,France,FRA,Europe,41.92388712,8.741036419,69,0,FR AJA
+port681,Mailiao,Taiwan Province of China,TWN,Asia & Pacific,23.79148547,120.1959404,1194,0,TW MLI
+port942,Caen,France,FRA,Europe,49.22460845,-0.291330056,94,3,FR CFR
+port475,Honiara,Solomon Islands,SLB,Asia & Pacific,-9.422319397,159.994644,207,84,SB HIR
+port958,Port Jerome,France,FRA,Europe,49.48181288,0.532279573,1287,27,
+port1252,Taichung,Taiwan Province of China,TWN,Asia & Pacific,24.25457118,120.5049668,5808,2668,TW TXG
+port724,Mbulo,Solomon Islands,SLB,Asia & Pacific,-9.643438343,160.6376964,6,0,SB MBU
+port976,Port Saint Louis Du Rhone,France,FRA,Europe,43.41140572,4.836492074,1216,688,
+port1261,Taipei,Taiwan Province of China,TWN,Asia & Pacific,25.15663144,121.3807189,2782,1518,TW TPE
+port802,Ndora,Solomon Islands,SLB,Asia & Pacific,-8.390354426,157.5560072,12,0,
+port985,Le Havre,France,FRA,Europe,49.47206132,0.209381547,3720,1751,FR LEH
+port241,Chittagong,Bangladesh,BGD,Asia & Pacific,22.2812458,91.81385427,2330,1239,
+port972,Noro,Solomon Islands,SLB,Asia & Pacific,-8.228420496,157.1989919,155,17,SB NOR
+port986,Rouen,France,FRA,Europe,49.3977546,1.043595854,1401,57,FR URO
+port289,Dhaka,Bangladesh,BGD,Asia & Pacific,23.6624176,90.44870639,51,5,BD DAC
+port1176,Seghe,Solomon Islands,SLB,Asia & Pacific,-8.58688616,157.9341434,3,0,SB EGM
+port990,Port-De-Bouc,France,FRA,Europe,43.38879043,5.009200025,1047,3,FR PDB
+port759,Mongla,Bangladesh,BGD,Asia & Pacific,22.50341944,89.58968406,248,41,BD MGL
+port402,Golfito,Costa Rica,CRI,North America,8.63699262,-83.16710592,63,1,CR GLF
+port991,Port-La-Nouvelle,France,FRA,Europe,43.02315902,3.054141069,79,4,FR NOU
+port1032,Puerto Caldera,Costa Rica,CRI,North America,9.91248316,-84.71585362,530,280,CR PTC
+port890,Payra,Bangladesh,BGD,Asia & Pacific,21.99789333,90.30570117,54,6,
+port1052,Puerto Moin,Costa Rica,CRI,North America,10.00152272,-83.08925317,1242,982,CR PMN
+port1084,Brest,France,FRA,Europe,48.38534559,-4.460255696,406,85,FR BES
+port598,Kralendijk,"Bonaire,  Saint Eustatius and Saba",BES,North America,12.14853793,-68.27703344,125,32,BQ KRA
+port574,Kingstown,St.  Vincent and the Grenadines,VCT,North America,13.1589419,-61.23551139,439,97,VC KTN
+port857,Oranjestad,"Bonaire,  Saint Eustatius and Saba",BES,North America,17.47773288,-62.98630044,378,0,BQ ORA
+port1124,Saint-Malo,France,FRA,Europe,48.64519607,-2.017868311,223,11,FR SML
+port414,Grand Turk,Turks and Caicos Islands,TCA,North America,21.43520362,-71.14781935,55,0,TC GDT
+port251,Clifton Pier,The Bahamas,BHS,North America,25.00515191,-77.54462513,230,0,
+port1183,Sete,France,FRA,Europe,43.41579621,3.727373723,706,27,FR SET
+port1025,Providenciales,Turks and Caicos Islands,TCA,North America,21.74055089,-72.279852,210,3,TC PLS
+port357,Freeport,The Bahamas,BHS,North America,26.52451521,-78.76266581,1139,742,BS FPO
+port1222,St Nazaire,France,FRA,Europe,47.28306049,-2.203072872,126,3,
+port430,Gustavia,Saint-Barthélemy,BLM,North America,17.90299026,-62.85264581,138,0,BL SBH
+port388,Georgetown,The Bahamas,BHS,North America,23.50673765,-75.76789417,55,0,
+port431,Gwadar,Pakistan,PAK,Asia & Pacific,25.10895254,62.33856519,9,4,PK GWD
+port132,Beirut,Lebanon,LBN,Asia & Pacific,33.90234183,35.52852626,1308,613,LB BEY
+port721,Matthew Town,The Bahamas,BHS,North America,21.04685691,-73.64616407,53,0,BS MAT
+port543,Karachi,Pakistan,PAK,Asia & Pacific,24.82327471,66.98321718,1359,681,PK KHI
+port1173,Sayda,Lebanon,LBN,Asia & Pacific,33.60355327,35.39507828,225,4,LB SAY
+port798,Nassau,The Bahamas,BHS,North America,25.08066367,-77.34195784,634,264,BS NAS
+port775,Muhammad Bin Qasim,Pakistan,PAK,Asia & Pacific,24.80838458,67.32181857,990,393,PK BQM
+port1274,Tripoli,Lebanon,LBN,Asia & Pacific,34.45398765,35.82667304,485,69,LB KYE
+port821,Nicholls Town,The Bahamas,BHS,North America,25.1757543,-78.02701829,24,0,
+port474,Hong Kong,Hong Kong SAR,HKG,Asia & Pacific,22.33510926,114.0966519,16306,13076,HK HKG
+port135,Berdyansk,Ukraine,UKR,Europe,46.75247146,36.77656918,116,2,
+port253,Coles Bay Oil Terminal,Sint Maarten,SXM,North America,18.02424968,-63.08061627,88,0,SX PHI
+port535,Kâmpóng Saôm,Cambodia,KHM,Asia & Pacific,10.67900004,103.5274566,893,579,KH KOS
+port489,Chornomorsk,Ukraine,UKR,Europe,46.33159947,30.65656622,711,74,UA ILK
+port902,Philipsburg,Sint Maarten,SXM,North America,18.01164829,-63.04526569,692,298,SX PHI
+port1203,Sitrah,Bahrain,BHR,Asia & Pacific,26.18935646,50.66794163,1495,330,BH SIT
+port559,Kerch,Ukraine,UKR,Europe,45.33753599,36.46393399,547,2,UA KEH
+port254,Colombo,Sri Lanka,LKA,Asia & Pacific,6.949982173,79.8397869,3918,3223,LK CMB
+port631,Lamu,Kenya,KEN,Africa,-2.196462578,40.91448117,127,9,KE LAU
+port707,Mariupol,Ukraine,UKR,Europe,47.05435393,37.50507939,274,5,UA MPW
+port678,Hambantota,Sri Lanka,LKA,Asia & Pacific,6.128669137,81.09465896,320,32,LK HBA
+port757,Mombasa,Kenya,KEN,Africa,-4.048091983,39.6344671,1444,565,KE MBA
+port782,Mykolaiv,Ukraine,UKR,Europe,46.93947485,32.01556028,366,5,UA NLV
+port1319,Trincomalee,Sri Lanka,LKA,Asia & Pacific,8.562149056,81.1988085,113,0,LK TRR
+port576,Kiritimati,Kiribati,KIR,Asia & Pacific,2.007167486,-157.486216,16,2,KI CXI
+port843,Odessa,Ukraine,UKR,Europe,46.50128328,30.73807121,692,178,UA ODS
+port255,Yap,Micronesia,FSM,Asia & Pacific,9.515369659,138.125052,50,29,FM YAP
+port1276,Betio (Tarawa),Kiribati,KIR,Asia & Pacific,1.363509834,172.9338362,49,24,
+port1419,Pivdennyi,Ukraine,UKR,Europe,46.63334721,31.01805742,597,61,UA YUZ
+port640,Kosrae,Micronesia,FSM,Asia & Pacific,5.35152142,162.9563918,43,34,FM KSA
+port592,Koper,Slovenia,SVN,Europe,45.55731693,13.74846693,1368,564,SI KOP
+port137,Beira,Mozambique,MOZ,Africa,-19.8110704,34.83983895,598,188,MZ BEW
+port755,Chuuk,Micronesia,FSM,Asia & Pacific,7.445425405,151.8403104,39,18,FM TKK
+port688,Malakal,Palau,PLW,Asia & Pacific,7.332261621,134.4564328,57,35,
+port702,Maputo,Mozambique,MOZ,Africa,-25.95563087,32.52103798,864,153,MZ MPM
+port927,Pohnpei,Micronesia,FSM,Asia & Pacific,6.979563879,158.2021926,66,37,FM PNI
+port671,Lumut,Brunei Darussalam,BRN,Asia & Pacific,4.672209645,114.4727127,49,0,BN LUM
+port784,Nacala,Mozambique,MOZ,Africa,-14.53535059,40.65118404,394,96,MZ MNC
+port258,Conakry,Guinea,GIN,Africa,9.51414336,-13.71524095,643,200,GN CKY
+port774,Muara,Brunei Darussalam,BRN,Asia & Pacific,5.011106351,115.0902845,528,131,BN MUA
+port896,Pemba,Mozambique,MOZ,Africa,-12.96679021,40.48677495,83,7,MZ POL
+port536,Kamsar,Guinea,GIN,Africa,10.64818175,-14.60681317,437,7,GN KMC
+port607,Kunda,Estonia,EST,Europe,59.52036316,26.54450791,370,49,EE KND
+port142,Belize City,Belize,BLZ,North America,17.48149658,-88.20242778,185,122,BZ BZE
+port260,Constantza,Romania,ROU,Europe,44.13174253,28.64843862,3440,536,RO CND
+port781,Muuga-Port of Tallinn,Estonia,EST,Europe,59.49390125,24.96895069,1005,394,
+port148,Big Creek,Belize,BLZ,North America,16.51539604,-88.403639,80,47,BZ BGK
+port737,Midia,Romania,ROU,Europe,44.3416871,28.65923939,546,4,RO MID
+port874,Paldiski,Estonia,EST,Europe,59.34784057,24.06453297,556,44,EE PLA
+port146,Berbera,Somalia,SOM,Africa,10.4329427,44.9969791,316,127,SO BBO
+port261,Corinto,Nicaragua,NIC,North America,12.48100933,-87.16901027,434,160,NI CIO
+port887,Pärnu,Estonia,EST,Europe,58.39560686,24.49398768,270,46,EE PRN
+port621,La Plata,Argentina,ARG,South America,-34.87191068,-57.9076772,386,27,AR LPG
+port1048,Bahia Blanca,Argentina,ARG,South America,-38.78214152,-62.28346451,726,33,AR BHI
+port1050,Puerto Madryn,Argentina,ARG,South America,-42.72883466,-65.04440497,79,34,AR PMY
+port1059,San Martin,Argentina,ARG,South America,-32.65666374,-60.75037431,1575,1,AR SMA
+port1077,Quequén,Argentina,ARG,South America,-38.57504499,-58.70710219,305,0,AR QQN
+port1108,Rosario,Argentina,ARG,South America,-33.04856538,-60.57348089,1794,90,AR ROS
+port1145,San Nicolas,Argentina,ARG,South America,-33.39126531,-60.12831101,276,8,
+port1422,Zarate,Argentina,ARG,South America,-34.03111542,-59.10228422,483,118,AR ZAE
+port189,Bullen Baai,Curaçao,CUW,North America,12.18941721,-69.02057948,6,0,
+port216,Caracasbaai,Curaçao,CUW,North America,12.07258785,-68.86187968,2,0,CW CRB
+port1397,Willemstad,Curaçao,CUW,North America,12.12376332,-68.93000054,446,210,CW WIL
+port193,Burgas,Bulgaria,BGR,Europe,42.46948481,27.48226628,1513,194,BG BOJ
+port1355,Varna,Bulgaria,BGR,Europe,43.19226667,27.90808003,570,28,BG VAR
+port197,Butinge Oil Terminal,Lithuania,LTU,Europe,56.05982885,21.10657671,52,0,LT BOT
+port579,Klaipeda,Lithuania,LTU,Europe,55.6842213,21.13812098,3476,1019,LT KLJ
+port207,Kolkata (Syama Prasad Mookerje Port),India,IND,Asia & Pacific,22.53574401,88.29958111,642,434,
+port235,Chennai (Madras),India,IND,Asia & Pacific,13.10046724,80.29425074,1511,565,
+port271,Dahej,India,IND,Asia & Pacific,21.70299817,72.57511466,735,15,IN DAH
+port290,Dhamra Port,India,IND,Asia & Pacific,20.82773698,86.9595015,367,0,IN DMQ
+port442,Haldia,India,IND,Asia & Pacific,22.0577906,88.10419444,1433,150,IN HAL
+port511,Jaigad Port,India,IND,Asia & Pacific,17.29523509,73.21867272,584,4,IN JGD
+port529,Kakinada,India,IND,Asia & Pacific,16.98707395,82.27189263,741,32,IN KAK
+port534,Kamarajar Port,India,IND,Asia & Pacific,13.27933099,80.33854581,798,134,IN ENR
+port540,Kandla,India,IND,Asia & Pacific,23.0091192,70.21565487,1967,260,IN IXY
+port544,Karaikal,India,IND,Asia & Pacific,10.84053369,79.84255847,111,0,IN KRK
+port583,Cochin (Kochi),India,IND,Asia & Pacific,9.969351911,76.25922208,1037,487,
+port599,Krishnapatnam Port,India,IND,Asia & Pacific,14.26065023,80.11792197,916,131,IN KRI
+port679,Magdalla,India,IND,Asia & Pacific,21.13429214,72.67743533,724,0,IN MDA
+port709,Mormugao,India,IND,Asia & Pacific,15.40731887,73.80153102,367,13,IN MRM
+port776,Mumbai-Jawaharlal Nehru (Nhava Sheva),India,IND,Asia & Pacific,18.91732276,72.93965039,6559,2071,IN BOM
+port777,Mundra,India,IND,Asia & Pacific,22.76296998,69.6220188,2815,1995,IN MUN
+port801,Navlakhi,India,IND,Asia & Pacific,22.95724298,70.45245138,64,4,IN NAV
+port811,New Mangalore,India,IND,Asia & Pacific,12.93776393,74.81887955,1135,175,IN NML
+port883,Paradip,India,IND,Asia & Pacific,20.28045307,86.64892168,1267,13,IN PRT
+port907,Pipavav Port,India,IND,Asia & Pacific,20.90789389,71.46568355,875,222,IN-PAV
+port1199,Sikka,India,IND,Asia & Pacific,22.36483725,69.80786454,488,0,
+port1331,Tuticorin,India,IND,Asia & Pacific,8.765928225,78.18889725,1253,460,IN TUT
+port1367,Visakhapatnam,India,IND,Asia & Pacific,17.65545047,83.23140922,1850,231,IN VTZ
+port988,Port of Sohar,Oman,OMN,Asia & Pacific,24.51168743,56.6127179,1967,505,
+port330,Esmeraldas,Ecuador,ECU,South America,0.990456202,-79.65069729,59,8,EC ESM
+port1068,Qalhat LNG Terminal,Oman,OMN,Asia & Pacific,22.65195684,59.41585249,162,0,OM QAL
+port751,Massawa,Eritrea,ERI,Africa,15.59947972,39.46163976,96,25,ER MSW
+port426,Guayaquil,Ecuador,ECU,South America,-2.261145668,-79.91891512,1895,948,EC GYE
+port764,Montevideo,Uruguay,URY,South America,-34.88809074,-56.213813,1164,577,UY MVD
+port619,La Libertad,Ecuador,ECU,South America,-2.222869498,-80.9004573,423,0,EC LLD
+port769,Moroni,Comoros,COM,Africa,-11.70541816,43.2469507,90,33,KM YVA
+port697,Manta,Ecuador,ECU,South America,-0.936619925,-80.72399912,194,17,EC MEC
+port773,Mutsamudu,Comoros,COM,Africa,-12.16776101,44.39240197,79,28,KM MUT
+port1028,Puerto Bolivar,Ecuador,ECU,South America,-3.259294792,-79.99877388,224,206,EC PBO
+port800,Nauru,Nauru,NRU,Asia & Pacific,-0.530581175,166.9108008,26,0,
+port803,Neiafu,Tonga,TON,Asia & Pacific,-18.65204266,-173.9849551,39,3,TO NEI
+port332,Gibraltar,Gibraltar,GIB,Europe,36.13663072,-5.359921567,838,31,GI GIB
+port836,Nuku'alofa,Tonga,TON,Asia & Pacific,-21.13871037,-175.1811695,198,66,TO TBU
+port336,Falmouth,Jamaica,JAM,North America,18.493441,-77.64899659,5,0,JM FMH
+port830,Nouadhibou,Mauritania,MRT,Africa,20.84893872,-17.04643501,387,85,MR NDB
+port572,Kingston,Jamaica,JAM,North America,17.98290381,-76.80443675,2418,1562,JM KIN
+port831,Nouakchott,Mauritania,MRT,Africa,17.99243027,-16.0255999,451,197,MR NKC
+port847,Okaram,Turkmenistan,TKM,Asia & Pacific,38.04736897,53.83628132,55,0,TM OKM
+port763,Montego Bay,Jamaica,JAM,North America,18.46070857,-77.93335097,191,65,JM MBJ
+port1330,Turkmenbashi Port,Turkmenistan,TKM,Asia & Pacific,40.00960239,53.00617704,743,3,TM KRW
+port840,Ocho Rios,Jamaica,JAM,North America,18.40948489,-77.11482411,21,0,JM OCJ
+port871,Oranjestad-Barcadera,Aruba,ABW,North America,12.49781601,-70.01342292,296,164,
+port949,Port Esquivel,Jamaica,JAM,North America,17.89281983,-77.13154378,116,0,JM PEV
+port1202,Sint Nicolaas Baai,Aruba,ABW,North America,12.43187931,-69.90619664,16,0,
+port1102,Rio Bueno,Jamaica,JAM,North America,18.46316958,-77.43323066,32,0,JM RIB
+port872,Pago Pago Harbor,American Samoa,ASM,Asia & Pacific,-14.28001556,-170.6831834,139,81,
+port350,Fort De France,Martinique,MTQ,North America,14.60175429,-61.04695623,584,169,MQ FDF
+port877,Palmeira,Cabo Verde,CPV,Africa,16.75446077,-22.98364675,232,40,CV PAL
+port360,Freetown,Sierra Leone,SLE,Africa,8.486640908,-13.20186719,611,172,SL FNA
+port979,Port Vale Knights,Cabo Verde,CPV,Africa,14.92112319,-24.50354708,97,5,
+port366,Funafuti,Tuvalu,TUV,Asia & Pacific,-8.502722899,179.1953024,23,9,TV FUN
+port368,Turku,Finland,FIN,Europe,60.44475295,22.18746959,249,35,FI TKU
+port998,Porto Da Praia,Cabo Verde,CPV,Africa,14.91004982,-23.4996856,398,83,
+port448,Fredrikshamn,Finland,FIN,Europe,60.53317456,27.16309587,660,69,FI HMN
+port1009,Porto Grande,Cabo Verde,CPV,Africa,16.89422079,-24.99565966,595,95,CV GRA
+port450,Hanko,Finland,FIN,Europe,59.82011054,22.92974015,1130,122,
+port1131,Sal Rei,Cabo Verde,CPV,Africa,16.17932575,-22.92482194,145,30,CV SAR
+port460,Helsinki,Finland,FIN,Europe,60.1858635,25.04678893,916,617,FI HEL
+port884,Paramaribo,Suriname,SUR,South America,5.784349723,-55.15777475,657,155,SR PBM
+port491,Imatra,Finland,FIN,Europe,61.23687322,28.83198598,122,2,FI IMA
+port910,Guayanilla,Puerto Rico,PRI,North America,17.99604873,-66.74920125,124,0,PR GUY
+port497,Inkoo,Finland,FIN,Europe,60.01761237,23.92754542,255,45,
+port1060,Puerto Yabucoa,Puerto Rico,PRI,North America,18.04780668,-65.84150836,46,0,PR PYA
+port515,Jakobstad,Finland,FIN,Europe,63.7070198,22.70384732,259,39,FI PRS
+port1143,San Juan,Puerto Rico,PRI,North America,18.43781552,-66.1159749,1241,572,PR SJU
+port522,Joensuu,Finland,FIN,Europe,62.58351672,29.75262891,51,2,FI JOE
+port919,Point Noire,Republic of Congo,COG,Africa,-4.785478217,11.83585414,955,495,
+port922,Pointe A Pitre,Guadeloupe,GLP,North America,16.23054802,-61.5486927,687,183,
+port525,Joutseno,Finland,FIN,Europe,61.13348446,28.46124009,52,2,FI JOU
+port950,Port Est,Réunion,REU,Africa,-20.93088407,55.30742425,474,275,
+port550,Kaskinen,Finland,FIN,Europe,62.35643769,21.21897575,226,17,FI KAS
+port961,Kyaukpyu,Myanmar,MMR,Asia & Pacific,19.36256828,93.68246844,11,0,MM KYP
+port551,Kaukas,Finland,FIN,Europe,61.06932264,28.2371602,73,0,FI 1KU
+port1086,Yangon,Myanmar,MMR,Asia & Pacific,16.71604961,96.21277607,1498,533,MM RGN
+port557,Kemi,Finland,FIN,Europe,65.66568485,24.52414249,337,51,FI KEM
+port965,Port Louis,Mauritius,MUS,Africa,-20.14941789,57.49585987,923,429,MU PLU
+port586,Kokkola,Finland,FIN,Europe,63.85519828,23.03928255,562,78,
+port977,Port Sudan,Sudan,SDN,Africa,19.603933,37.23334445,535,135,SD PZU
+port597,Kotka,Finland,FIN,Europe,60.46241713,26.92644204,1576,577,FI KTK
+port1172,Suakin,Sudan,SDN,Africa,19.1159604,37.34948178,283,4,SD SWA
+port698,Mäntyluoto,Finland,FIN,Europe,61.61259472,21.4540934,455,59,FI MTY
+port1057,Puerto Quetzal,Guatemala,GTM,North America,13.92640929,-90.79003767,1275,562,GT PRQ
+port783,Naantali,Finland,FIN,Europe,60.45473146,22.06271566,483,19,
+port1159,Puerto Barrios,Guatemala,GTM,North America,15.70940032,-88.60823053,1391,1057,GT PBR
+port867,Oulu,Finland,FIN,Europe,64.99817095,25.42524624,378,62,
+port1090,Ras Laffan,Qatar,QAT,Asia & Pacific,25.90850676,51.59049926,1790,8,QA RLF
+port1015,Skoldvik,Finland,FIN,Europe,60.31212422,25.53603861,1134,10,
+port1079,Raahe,Finland,FIN,Europe,64.65804796,24.40747643,339,21,FI RAA
+port1117,Al Ruwais,Qatar,QAT,Asia & Pacific,26.14559103,51.20530511,66,0,AE RUW
+port1092,Rauma,Finland,FIN,Europe,61.12113289,21.46092763,874,298,FI RAU
+port1342,Doha-Umm Said,Qatar,QAT,Asia & Pacific,24.96358831,51.56713164,1078,103,
+port1311,Torneå,Finland,FIN,Europe,65.76808593,24.17036226,441,57,FI TOR
+port1106,Road Harbor,British Virgin Islands,VGB,North America,18.42260523,-64.60402002,261,31,
+port1110,Roseau,Dominica,DMA,North America,15.3119678,-61.38909145,249,62,DM RSU
+port1113,Rota,Northern Mariana Islands,MNP,Asia & Pacific,14.13525179,145.1338618,16,0,MP ROP
+port1126,Saipan,Northern Mariana Islands,MNP,Asia & Pacific,15.22514305,145.7349106,163,75,MP SPN
+port1300,Tinian,Northern Mariana Islands,MNP,Asia & Pacific,14.96507238,145.6203032,15,0,MP TIQ
+port1163,Sao Tome,São Tomé and Príncipe,STP,Africa,0.352160125,6.652341024,28,0,
+port1177,Sekondi,Ghana,GHA,Africa,4.938594581,-1.702414171,6,0,GH SEK
+port1255,Takoradi,Ghana,GHA,Africa,4.891730059,-1.741934421,403,96,GH TKD
+port1282,Tema,Ghana,GHA,Africa,5.626168215,0.000789623,1397,814,GH TEM
+port1182,Serangoon Harbor,Singapore,SGP,Asia & Pacific,1.358261773,104.0345309,3165,877,SG SIN
+port1201,Singapore,Singapore,SGP,Asia & Pacific,1.271989257,103.7074816,44369,13921,SG SIN
+port1221,Port of Saint John's,Antigua and Barbuda,ATG,North America,17.12392658,-61.85103052,437,56,
+port1223,Saint George's,Grenada,GRD,North America,12.04075574,-61.7479609,364,116,GD STG
+port1361,Victoria,Seychelles,SYC,Africa,-4.622741734,55.46227513,164,111,SC VIC
+port157,Bossaso,Somalia,SOM,Africa,11.2906123,49.18112783,81,1,SO  BSA
+port1030,Puerto Cabezas,Nicaragua,NIC,North America,14.0223709,-83.38873222,1,0,NI PUZ
+port1258,Tallinn,Estonia,EST,Europe,59.44859983,24.71265827,557,82,EE TLL
+port778,Mogadishu,Somalia,SOM,Africa,2.024425203,45.33463075,220,109,SO  MGQ
+port262,Cork,Ireland,IRL,Europe,51.87249837,-8.360436822,1157,430,IE ORK
+port612,Ebeye,Marshall Islands,MHL,Asia & Pacific,8.728953524,167.7360696,30,16,MH QEE
+port149,Bintulu,Malaysia,MYS,Asia & Pacific,3.271023549,113.077426,811,172,MY BTU
+port303,Drogheda,Ireland,IRL,Europe,53.71699842,-6.339268261,214,21,IE DRO
+port683,Majuro,Marshall Islands,MHL,Asia & Pacific,7.084937245,171.3650739,99,57,MH MAJ
+port523,Johor,Malaysia,MYS,Asia & Pacific,1.457450535,103.9199042,4273,995,
+port307,Dublin,Ireland,IRL,Europe,53.34632538,-6.204935593,2362,993,IE DUB
+port1033,Puerto Castilla,Honduras,HND,North America,16.00713483,-85.96831037,101,68,HN PCA
+port556,Kemaman Harbor,Malaysia,MYS,Asia & Pacific,4.257503129,103.4591111,481,0,MY KEM
+port353,Foynes,Ireland,IRL,Europe,52.61827216,-9.073834332,300,31,IE FOV
+port577,Kirteh Oil Terminal,Malaysia,MYS,Asia & Pacific,4.574618296,103.452834,125,0,
+port1036,Puerto Cortes,Honduras,HND,North America,15.84451204,-87.94856446,1373,910,HN PCR
+port374,Galway,Ireland,IRL,Europe,53.26969446,-9.04415906,98,8,IE GWY
+port596,Kota Kinabalu,Malaysia,MYS,Asia & Pacific,5.994756636,116.081712,163,2,MY BKI
+port1043,San Lorenzo (Henecan),Honduras,HND,North America,13.40229522,-87.42549031,191,37,
+port648,Limerick,Ireland,IRL,Europe,52.65618894,-8.647990868,109,7,IE LMK
+port603,Kuantan,Malaysia,MYS,Asia & Pacific,3.981726241,103.3931808,1646,325,MY KUA
+port636,Lautoka,Fiji,FJI,Asia & Pacific,-17.60674719,177.4412092,356,158,FJ LTK
+port1382,Warren Point,United Kingdom,GBR,Europe,54.10329186,-6.264554426,345,32,GB WPT
+port604,Kuching,Malaysia,MYS,Asia & Pacific,1.566258403,110.4216778,396,124,MY KCH
+port643,Levuka,Fiji,FJI,Asia & Pacific,-17.68633414,178.8367224,55,0,FJ LEV
+port1384,Waterford,Ireland,IRL,Europe,52.26732278,-7.040144357,376,119,IE WAT
+port628,Lahad Datu,Malaysia,MYS,Asia & Pacific,5.021070498,118.3600911,171,0,MY LDU
+port687,Malau,Fiji,FJI,Asia & Pacific,-16.36408559,179.3629264,48,0,FJ MAL
+port265,Cotonou,Benin,BEN,Africa,6.345724287,2.422923872,895,502,BJ COO
+port672,Lumut,Malaysia,MYS,Asia & Pacific,4.227365727,100.6433762,669,0,MY LUM
+port1240,Suva,Fiji,FJI,Asia & Pacific,-18.11693144,178.4249763,369,182,FJ SUV
+port270,Daesan,Korea,KOR,Asia & Pacific,37.01322694,126.4036728,3590,200,
+port891,Sandakan,Malaysia,MYS,Asia & Pacific,5.805288589,118.0602551,265,48,MY SDK
+port952,Port Gentil,Gabon,GAB,Africa,-0.686920225,8.771981264,224,16,GA POG
+port432,Gwangyang (Kwangyang),Korea,KOR,Asia & Pacific,34.87669716,127.7165533,9586,2041,
+port892,Pelabuhan Sungai Udang,Malaysia,MYS,Asia & Pacific,2.263627014,102.1357975,632,0,MY PKG
+port973,Port Owendo,Gabon,GAB,Africa,0.297269824,9.499877013,480,132,
+port494,Incheon,Korea,KOR,Asia & Pacific,37.44435778,126.6200824,6873,2274,KR INC
+port945,Port Dickson,Malaysia,MYS,Asia & Pacific,2.549916819,101.7895789,472,0,MY PDI
+port646,Liepaja,Latvia,LVA,Europe,56.5355915,21.01765515,1119,138,LV LPX
+port608,Gunsan,Korea,KOR,Asia & Pacific,35.97369768,126.5946012,748,44,
+port960,Port Klang,Malaysia,MYS,Asia & Pacific,2.972594826,101.3403063,11273,7139,MY PKG
+port1100,Riga,Latvia,LVA,Europe,57.01806495,24.08662097,2683,722,LV RIX
+port715,Masan,Korea,KOR,Asia & Pacific,35.20010332,128.645445,547,15,KR MAS
+port1062,Penang,Malaysia,MYS,Asia & Pacific,5.379749741,100.3899815,1789,823,MY PEN
+port915,Pohang,Korea,KOR,Asia & Pacific,36.03523852,129.4087348,2234,143,KR KPO
+port1357,Ventspils,Latvia,LVA,Europe,57.40540164,21.57705747,687,50,LV VNT
+port1065,Busan,Korea,KOR,Asia & Pacific,35.08955067,128.9385952,19994,12101,KR PUS
+port1164,Port of Sabah,Malaysia,MYS,Asia & Pacific,6.074811315,116.1258948,730,358,MY KKI
+port656,Lobito,Angola,AGO,Africa,-12.34349429,13.56555783,215,41,AO LOB
+port1067,Pyeongtaek,Korea,KOR,Asia & Pacific,36.97512759,126.7846279,5022,585,
+port1269,Tanjung Pelepas,Malaysia,MYS,Asia & Pacific,1.349982803,103.5464032,5473,3852,MY TPP
+port665,Luanda,Angola,AGO,Africa,-8.781235499,13.28810369,1232,361,AO LAD
+port1309,Donghae,Korea,KOR,Asia & Pacific,37.4880914,129.1384589,933,1,KR TGH
+port1286,Tg Mani,Malaysia,MYS,Asia & Pacific,2.150721317,111.3371532,66,9,
+port691,Malongo,Angola,AGO,Africa,-5.39313631,12.20437817,17,1,AO MAL
+port1338,Ulsan,Korea,KOR,Asia & Pacific,35.48647294,129.3780838,11795,1143,KR USN
+port1360,Victoria,Malaysia,MYS,Asia & Pacific,5.25942875,115.2377077,386,17,
+port788,Namibe,Angola,AGO,Africa,-15.15855926,12.13506095,146,38,AO MSZ
+port272,Dakar,Senegal,SEN,Africa,14.6834604,-17.42610193,1505,596,SN DKR
+port150,Bissau,Guinea-Bissau,GNB,Africa,11.85997214,-15.5761805,169,37,GW OXB
+port1217,Soyo Angola LNG Terminal,Angola,AGO,Africa,-6.122821698,12.33723744,240,4,
+port278,Dar Es Salaam,Tanzania,TZA,Africa,-6.843548595,39.29619624,907,347,TZ DAR
+port155,Bonny,Nigeria,NGA,Africa,4.420690388,7.157020932,333,0,NG BON
+port657,Lome,Togo,TGO,Africa,6.144824676,1.282708954,1409,929,TG LFW
+port1421,Zanzibar,Tanzania,TZA,Africa,-6.156445914,39.19253473,267,37,TZ ZNZ
+port205,Calabar,Nigeria,NGA,Africa,5.007882924,8.325139169,144,0,NG CBQ
+port668,Luderitz Bay,Namibia,NAM,Africa,-26.64124097,15.15325258,72,9,NA LUD
+port284,Degrad Des Cannes,French Guiana,GUF,South America,4.857107667,-52.27523014,214,60,GF DDC
+port587,Koko,Nigeria,NGA,Africa,5.999492393,5.460395648,141,0,NG KOK
+port1381,Walvis Bay,Namibia,NAM,Africa,-22.95358268,14.48950621,536,174,NA WVB
+port1123,Saint-Laurent-du-Maroni,French Guiana,GUF,South America,5.494341708,-54.03546538,9,0,GF SLM
+port626,Lagos,Nigeria,NGA,Africa,6.447337,3.334134321,2054,660,NG LOS
+port669,Luganville,Vanuatu,VUT,Asia & Pacific,-15.51471654,167.1900857,65,28,VU LUG
+port291,Vassiliko,Cyprus,CYP,Europe,34.72313086,33.31349019,545,6,
+port851,Onne,Nigeria,NGA,Africa,4.688025553,7.158459417,335,189,NG ONN
+port980,Port Vila,Vanuatu,VUT,Asia & Pacific,-17.75583988,168.3019318,122,61,VU VLI
+port954,Port Harcourt,Nigeria,NGA,Africa,4.765986905,7.006065503,258,10,NG PHC
+port633,Larnaca,Cyprus,CYP,Europe,34.92954956,33.64155775,364,20,CY LCA
+port1165,Sapele,Nigeria,NGA,Africa,5.921430709,5.647356031,127,0,NG SPL
+port674,Macau,Macao SAR,MAC,Asia & Pacific,22.15538395,113.5578462,314,66,MO MFM
+port647,Limassol,Cyprus,CYP,Europe,34.65066808,33.01521264,1094,649,CY LMS
+port1383,Warri,Nigeria,NGA,Africa,5.516631504,5.721271738,249,1,NG WAR
+port689,Male,Maldives,MDV,Asia & Pacific,4.188648639,73.49198324,610,56,MV MLE
+port292,Dili,Timor-Leste,TLS,Asia & Pacific,-8.548699467,125.561537,92,19,TL DIL
+port164,Brades,Montserrat,MSR,North America,16.80337933,-62.20515712,67,0,MS BRD
+port711,Marsaxlokk,Malta,MLT,Europe,35.821634,14.53796169,2548,1455,MT MAR
+port461,Hera port,Timor-Leste,TLS,Asia & Pacific,-8.536869778,125.6890104,12,0,
+port913,Plymouth,Montserrat,MSR,North America,16.70433595,-62.22183849,10,0,MS PLY
+port1349,Valletta,Malta,MLT,Europe,35.87751281,14.49900138,1278,124,MT MLA
+port294,Djibouti,Djibouti,DJI,Africa,11.59746443,43.10371866,1296,532,DJ JIB
+port165,Brake,Germany,DEU,Europe,53.34359213,8.489910106,954,83,DE BKE
+port299,Douala,Cameroon,CMR,Africa,4.052880865,9.683368801,925,268,CM DLA
+port717,Matadi,Democratic Republic of the Congo,COD,Africa,-5.827041369,13.44436672,424,125,CD MAT
+port943,Port De Kribi,Cameroon,CMR,Africa,2.724930864,9.861209106,251,165,
+port167,Bremen,Germany,DEU,Europe,53.09476546,8.777095691,1106,66,DE BRE
+port745,Port Sultan Qaboos,Oman,OMN,Asia & Pacific,23.62884171,58.56595296,94,1,
+port312,Durres,Albania,ALB,Europe,41.34064126,19.4439999,295,87,AL DRZ
+port168,Bremerhaven,Germany,DEU,Europe,53.54944124,8.555056667,4555,2645,DE BRV
+port746,Salalah,Oman,OMN,Asia & Pacific,16.94229498,54.0083198,1645,1036,OM SLL
+port1371,Vlora,Albania,ALB,Europe,40.4627,19.46680195,58,0,
+port179,Brunsbuettel,Germany,DEU,Europe,53.90367488,9.185432327,2629,420,DE BRB
+port984,Duqm,Oman,OMN,Asia & Pacific,19.67066724,57.71736119,332,52,OM DQM
+port982,Port de Longoni,Mayotte,MYT,Africa,-12.72484002,45.16784536,131,66,
+port268,Cuxhaven,Germany,DEU,Europe,53.85279364,8.721034288,998,63,DE CUX
+port323,Emden,Germany,DEU,Europe,53.34580452,7.18370007,1018,41,DE EME
+port446,Hamburg,Germany,DEU,Europe,53.51640056,9.964294338,6740,3537,DE HAM
+port485,Husum,Germany,DEU,Europe,54.47157026,9.036434712,138,3,DE HUS
+port564,Kiel,Germany,DEU,Europe,54.3251823,10.15896988,421,55,DE KEL
+port667,Lubeck-Travemunde,Germany,DEU,Europe,53.94223397,10.8560553,1195,87,
+port1111,Rostock,Germany,DEU,Europe,54.13941739,12.11018087,2140,255,DE RSK
+port1168,Sassnitz,Germany,DEU,Europe,54.4854516,13.58980771,205,12,DE SAS
+port1396,Wilhelmshaven,Germany,DEU,Europe,53.58031398,8.124443685,1231,498,DE WVN
+port1401,Wismar,Germany,DEU,Europe,53.90490174,11.45383655,654,52,DE WIS
+port172,Brighton,Trinidad and Tobago,TTO,North America,10.24717124,-61.62976162,49,0,
+port225,Chaguaramas,Trinidad and Tobago,TTO,North America,10.68085281,-61.64037575,50,1,TT CHA
+port372,Galeota Point Terminal,Trinidad and Tobago,TTO,North America,10.13808371,-61.00209707,0,0,TT GUA
+port916,Point Fortin,Trinidad and Tobago,TTO,North America,10.18175591,-61.6896661,136,0,TT PTF
+port917,Point Lisas,Trinidad and Tobago,TTO,North America,10.39707382,-61.48116584,1209,317,
+port921,Pointe A Pierre,Trinidad and Tobago,TTO,North America,10.32409682,-61.45449435,573,0,TT PTP
+port989,Port of Spain,Trinidad and Tobago,TTO,North America,10.65273439,-61.52018429,769,380,TT POS
+port181,Buchanan,Liberia,LBR,Africa,5.865644367,-10.04409801,125,1,LR UCN
+port762,Monrovia,Liberia,LBR,Africa,6.341981659,-10.79402873,250,126,LR MLW
+port184,Buenos Aires,Argentina,ARG,South America,-34.61975015,-58.35237171,1376,521,AR BUE
+port210,Campana,Argentina,ARG,South America,-34.15942511,-58.94803117,845,7,AR CMP
+port257,Comodoro Rivadavia,Argentina,ARG,South America,-45.83393149,-67.44977008,247,0,AR CRD
+port2001,Izmail,Ukraine,UKR,Europe,45.3361036815363,28.809837102212,483,11,UA IZM
+port2002,Reni,Ukraine,UKR,Europe,45.4240515296119,28.2901221207608,407,16,UA RNI
+port2003,Olvia,Ukraine,UKR,Europe,46.8100467793335,31.9543977064548,422,6,
+port2004,Kherson,Ukraine,UKR,Europe,46.6179021362684,32.5989873359488,344,7,UA KHE
+port2005,Giurgiulesti Port,Moldova,MDA,Europe,45.4707205964173,28.206595262686,253,4,MD GIU
+port2006,Tulcea,Romania,ROU,Europe,45.1920103931536,28.7886705598508,26,1,RO TCE
+port2007,Galati,Romania,ROU,Europe,45.4379403448606,28.0734618468282,73,2,RO GAL
+port2008,Romportmet,Romania,ROU,Europe,45.3953256724457,28.0203945312693,210,8,RO GAL-0001
+port2009,Braila,Romania,ROU,Europe,45.2824621701414,27.9871222166606,129,3,RO BRA
+port2010,Azov,Russian Federation,RUS,Europe,47.1194455879615,39.3816632115377,1555,13,RU AZO
+port2011,Otago,New Zealand,NZL,Asia & Pacific,-45.8476195945422,170.590031129251,330,167,
+port2012,Khalifa Bin Salman,Bahrain,BHR,Asia & Pacific,26.2546428806082,50.6789666064565,1,0,
+port2013,Puerto Limon,Costa Rica,CRI,North America,9.98826473647318,-83.0245088550091,46,9,
+port2014,Holyhead,United Kingdom,GBR,Europe,53.3181889475652,-4.62866147589909,75,0,GB HLY
+port2015,Trapani,Italy,ITA,Europe,38.0113167053456,12.5073974867508,66,30,IT TPS
+port2016,Eilat,Israel,ISR,Asia & Pacific,29.5318039070984,34.9422234742842,76,0,IL ETH
+port2017,Moji,Japan,JPN,Asia & Pacific,33.9568605158736,130.985351393628,2119,1294,JP MOJ
+port2018,Ronne,Denmark,DNK,Europe,55.0927407885952,14.6904805769816,180,9,
+port2019,Dongguan,China,CHN,Asia & Pacific,22.8895469826739,113.584833339607,1152,312,CN DGG
+port2020,Nanjing,China,CHN,Asia & Pacific,32.1959101173504,119.050359343128,1173,481,CN NJI
+port2021,Jiaxing,China,CHN,Asia & Pacific,30.6878561089801,121.270628815618,890,0,CN JIX
+port2022,Rosslare,Ireland,IRL,Europe,52.2543483480501,-6.33909785766805,124,0,IE ROE
+port2023,Bantry Bay,Ireland,IRL,Europe,51.6806888202889,-9.46015800565171,0,0,IE BYT
+port2024,Larne,United Kingdom,GBR,Europe,54.8448615116484,-5.79205088381862,66,0,GB LAR
+port2025,Khalifa Port,United Arab Emirates,ARE,Asia & Pacific,24.8063011338021,54.6931452546069,2299,1675,AE KHL
+port2026,Hamad Port,Qatar,QAT,Asia & Pacific,25.0199084210527,51.6189139089543,1248,867,QA HMD
+port2027,Shanghai (Yangshan),China,CHN,Asia & Pacific,30.6150855074278,122.074785341805,5266,4441,
+port2028,Mawan,China,CHN,Asia & Pacific,22.4789636055732,113.873818471647,4187,3859,CN MWN
+port2029,Dachan Bay,China,CHN,Asia & Pacific,22.546940821745,113.85636713537,537,458,
+port2030,Qianhai Bay,China,CHN,Asia & Pacific,22.5172621132649,113.871572497511,34,0,
+port2031,King Abdullah Port,Saudi Arabia,SAU,Asia & Pacific,22.5180255857748,39.0951887006265,751,642,SA KAC
+port2032,Posorja,Ecuador,ECU,South America,-2.69339409519944,-80.2479460324887,235,234,EC PSJ
+port2033,Port of Yeosu,Korea,KOR,Asia & Pacific,34.7505094880521,127.760942471547,415,1,
+port2034,Yarimca,Türkiye,TUR,Europe,40.7608107893611,29.7488694654866,2786,1043,TR YAR
+port2035,Itapoa,Brazil,BRA,South America,-26.1828954289828,-48.6043273827437,684,574,
+port2036,Siam Seaport,Thailand,THA,Asia & Pacific,13.1198552915062,100.889379400773,4572,979,TH SBP
+port2037,Diliskelesi,Türkiye,TUR,Europe,40.7678043374208,29.5283064825096,4301,810,TR DIL
+port2038,Kattupalli,India,IND,Asia & Pacific,13.3028360623488,80.3478454189246,357,268,IN KTP
+port2039,Hazira,India,IND,Asia & Pacific,21.0867418434348,72.646256828019,1238,247,IN HZA
+port2040,Naha,Japan,JPN,Asia & Pacific,26.2326412690527,127.66954585426,1727,383,JP NAH
+port2041,Omaezaki,Japan,JPN,Asia & Pacific,34.6250476792131,138.219962363022,399,66,JP OMZ
+port2042,Chu Lai,Vietnam,VNM,Asia & Pacific,15.4738614798003,108.639054619355,186,110,VN C8Q
+port2043,Borusan,Türkiye,TUR,Europe,40.4131247962243,29.0881976177508,1875,611,
+port2044,El Dekheila,Egypt,EGY,Africa,31.14295533289,29.8103749314518,1615,708,EG EDK
+port2045,Porto de Itaguai,Brazil,BRA,South America,-22.9363023408376,-43.8183637077484,899,197,
+port2046,Vila Do Conde,Brazil,BRA,South America,-1.53781657469435,-48.7345342973385,1039,166,BR VDC
+port2047,Rades (La Goulette),Tunisia,TUN,Africa,36.8146759471096,10.2984800220361,390,16,
+port2048,Almirante,Panama,PAN,North America,9.28642792699186,-82.3897241224871,100,100,PA PAM
+port2049,Ambarli,Türkiye,TUR,Europe,40.965797949643,28.6729728083661,3490,2436,TR AMR
+port2050,Angra Dos Reis,Brazil,BRA,South America,-23.0128503762572,-44.3144741630998,8,0,BR ADR
+port2051,Cam Pha,Vietnam,VNM,Asia & Pacific,21.0502255319232,107.371424851142,135,0,VN CPH
+port2052,Cape Flattery,Australia,AUS,Asia & Pacific,-14.9730575833507,145.339482781973,52,0,AU CQP
+port2053,Chicago,United States,USA,North America,41.6822313735937,-87.5624950701724,77,0,US PZH
+port2054,Coquimbo,Chile,CHL,South America,-29.9500494383848,-71.3314143801603,56,9,CL CQQ
+port2055,Iloilo,Philippines,PHL,Asia & Pacific,10.7085785079489,122.59006959958,426,56,PH ILO
+port2056,Karumba,Australia,AUS,Asia & Pacific,-17.4908860977605,140.832039903067,6,0,AU KRB
+port2057,Hibikinada,Japan,JPN,Asia & Pacific,33.941937840797,130.795011704055,1603,203,JB HBI
+port2058,Launceston,Australia,AUS,Asia & Pacific,-41.4313788427337,147.125886413452,4,0,AU LST
+port2059,Melilla,Spain,ESP,Europe,35.2868620535435,-2.93050098948725,37,3,ES MLN
+port2060,Mina Salman,Bahrain,BHR,Asia & Pacific,26.1915358163903,50.6100103379679,113,0,
+port2061,Mourilyan,Australia,AUS,Asia & Pacific,-17.6000425684945,146.122146080819,23,0,AU MOU
+port2062,Nanaimo,Canada,CAN,North America,49.1617229180209,-123.926189514121,32,0,CA NNO
+port2063,Ngqura,South Africa,ZAF,Africa,-33.8069513827286,25.6944148119478,612,358,
+port2064,Nordenham,Germany,DEU,Europe,53.4979311862011,8.50507620214729,943,58,DE NHA
+port2065,Okrika,Nigeria,NGA,Africa,4.72272091472972,7.08654006264632,17,0,NG OKR
+port2066,Port of Virginia,United States,USA,North America,36.9364539978554,-76.3200234036896,1275,1130,US NFF
+port2067,Shuaiba,Kuwait,KWT,Asia & Pacific,29.0394783129701,48.1670519806477,1345,286,KW SAA
+port2068,Stralsund,Germany,DEU,Europe,54.3053792428804,13.1068211619353,190,15,DE STL
+port2069,Sullom Voe,United Kingdom,GBR,Europe,60.4544256661783,-1.28282481532811,35,0,GB SUL
+port2070,Wallhamn,Sweden,SWE,Europe,58.011733063392,11.7024164015154,143,12,SE WAL
+port2071,Ust-Danube,Ukraine,UKR,Europe,45.4662009182142,29.7064870208289,0,0,
+port2072,Port of Skadovsk,Ukraine,UKR,Europe,46.1058683253467,32.9115025917419,1,0,
+port2073,Kismayo,Somalia,SOM,Africa,-0.373401277064594,42.54931257818,54,11,
+port2074,Jazan,Saudi Arabia,SAU,Asia & Pacific,16.8797436617626,42.5430314066133,16,0,
+port2075,Orkney,United Kingdom,GBR,Europe,58.9919835061103,-2.96908937022578,122,0,GB ORK
+port2076,Escravos (Oil Terminal),Nigeria,NGA,Africa,5.61400785901825,5.19640769993147,44,0,
+port2077,Bilhorod-Dnistrovskyi,Ukraine,UKR,Europe,46.1804036974437,30.3750211015391,7,0,UA BGD
+port2078,Alexandroupoli,Greece,GRC,Europe,40.8403616309158,25.887359441583,65,0,
+port2079,Gizo,Solomon Islands,SLB,Asia & Pacific,-8.09952979820565,156.846438882596,0,0,SB GZO
+port2080,Ringgi,Solomon Islands,SLB,Asia & Pacific,-8.12224498693555,157.111182514454,6,0,SB RIN
+port2081,Savusavu,Fiji,FJI,Asia & Pacific,-16.7759189322337,179.334325122034,4,0,FJ SVU
+port2082,Nabouwalu,Fiji,FJI,Asia & Pacific,-16.9405230422117,178.660563505589,5,0,
+port2083,Lughughi,Solomon Islands,SLB,Asia & Pacific,-11.6236126215107,160.081157490295,2,0,
+port2084,Rennell Island,Solomon Islands,SLB,Asia & Pacific,-11.6848509209843,160.299320283363,12,0,SB RNL
+port2085,Cat Lai (Saigon New Port),Vietnam,VNM,Asia & Pacific,10.7683557993276,106.802314203887,4635,4151,
+port2086,Cherbourg,France,FRA,Europe,49.655379095774,-1.61847914589287,134,3,FR CER
+port2087,Dundee,United Kingdom,GBR,Europe,56.4637207666989,-2.94450417948409,90,6,GB DUN
+port2088,Rosyth,United Kingdom,GBR,Europe,56.0214856619621,-3.44313459625687,79,6,GB ROY
+port2089,Kirkcaldy,United Kingdom,GBR,Europe,56.1147755265155,-3.14971603713671,33,0,GB KKD
+port2090,Burntisland,United Kingdom,GBR,Europe,56.0560945117685,-3.23638613968683,5,1,GB BTL
+port2091,Methil,United Kingdom,GBR,Europe,56.1822586394065,-3.00765099412697,23,0,GB MTH
+port2097,South Riding Point,The Bahamas,BHS,North America,26.6210271283921,-78.2241285413328,0,0,BS SRP
+port2133,Sillamae,Estonia,EST,Europe,59.4226297894933,27.7338600315862,421,38,EE SLM
+port2216,Petropavlovsk-Kamchatskiy,Russian Federation,RUS,Europe,53.0332619164265,158.631048363351,324,97,RU PKC
+port2212,Ponce,Puerto Rico,PRI,North America,17.9733223862256,-66.6152344721323,23,0,PR PSE
+port2231,Tanga,Tanzania,TZA,Africa,-5.0560326269058,39.1171123545215,115,1,TZ TGT
+port2217,Ras Al Khafji,Saudi Arabia,SAU,Asia & Pacific,28.4147323996188,48.5244701173789,0,0,SA RAR
+port2126,La Romana,Dominican Republic,DOM,North America,18.4160730915466,-68.9593187195149,20,0,DO LRM
+port2250,Key West,United States,USA,North America,24.5548014733239,-81.8100568709545,2,0,US EYW
+port2104,Charlottetown,Canada,CAN,North America,46.2316967110366,-63.1166534319293,33,0,CA CHA
+port2123,Pula,Croatia,HRV,Europe,44.8741700251469,13.8392530036061,32,2,HR PUY
+port2122,Zadar,Croatia,HRV,Europe,44.0897130462853,15.2607865309825,96,1,HR ZAD
+port2211,Porto Santo,Portugal,PRT,Europe,33.0605860945201,-16.3133803337206,39,16,
+port2220,Mossel Bay,South Africa,ZAF,Africa,-34.1781985568769,22.1465413863415,0,0,ZA MZY
+port2175,Sasebo,Japan,JPN,Asia & Pacific,33.1557424704352,129.713785297223,391,0,JP SSB
+port2096,Wyndham,Australia,AUS,Asia & Pacific,-15.4511143497895,128.102970768958,34,0,AU WYD
+port2106,Talcahuano,Chile,CHL,South America,-36.6983629713831,-73.1020863242871,58,3,CL TAL
+port2198,Haugesund,Norway,NOR,Europe,59.4147786597557,5.2552680463389,48,3,NO HAU
+port2197,Honningsvag,Norway,NOR,Europe,70.9836257610763,25.9680488043574,12,0,
+port2199,Kirkenes,Norway,NOR,Europe,69.7287053076888,30.0649131338882,21,0,NO KKN
+port2213,Mangalia,Romania,ROU,Europe,43.8005305276448,28.5799822807141,107,4,RO MAG
+port2235,Zirku Island,United Arab Emirates,ARE,Asia & Pacific,24.8851758085943,53.0746754938844,139,0,AE ZUR
+port2129,Sidi Kerir,Egypt,EGY,Africa,31.0958825329663,29.6187321299824,365,0,
+port2092,Romano,Albania,ALB,Europe,41.3810167971348,19.4173810928145,205,3,
+port2093,Rosales,Argentina,ARG,South America,-38.9248396352984,-62.0517066076161,0,0,
+port2094,Punta Loyola,Argentina,ARG,South America,-51.6047139479164,-69.0085335960805,14,0,AR PLO
+port2095,Del Guazu,Argentina,ARG,South America,-33.9022236109114,-58.8801658248711,98,0,AR DGU
+port2259,Fray Bentos,Uruguay,URY,South America,-33.1162789404565,-58.2807492676191,40,0,UY FZB
+port2257,Punta Pereira,Uruguay,URY,South America,-34.222531984962,-58.0606068017207,118,1,
+port2258,Nueva Palmira,Uruguay,URY,South America,-33.8819295815197,-58.4179178084523,346,19,UY NVP
+port2098,Guamare,Brazil,BRA,South America,-5.10520576884598,-36.3162482112367,0,0,
+port2099,Itacoatiara,Brazil,BRA,South America,-3.1499933769484,-58.4416954597526,213,6,BR IAR
+port2100,Limboh,Cameroon,CMR,Africa,4.00584729245621,9.12945300765468,73,0,CM LIT
+port2101,Point Tupper,Canada,CAN,North America,45.5880112918144,-61.3472479982897,144,0,CA PTU
+port2102,Lewisporte,Canada,CAN,North America,49.2489131508019,-55.0487713005087,17,0,CA LWP
+port2103,Gaspe,Canada,CAN,North America,48.8262003819533,-64.4423492187465,33,1,
+port2105,Holyrood,Canada,CAN,North America,47.4261735404774,-53.1127992310698,6,0,CA HOD
+port2107,Guayacan,Chile,CHL,South America,-29.9696592017806,-71.3554962475977,78,0,
+port2110,Pulandian,China,CHN,Asia & Pacific,39.3752863333034,121.731583051574,9,0,CN PLD
+port2111,Qushan Island,China,CHN,Asia & Pacific,30.4565874342441,122.28231082736,273,60,CN ZOS
+port2112,Zhuhai,China,CHN,Asia & Pacific,21.9493590971629,113.200731191862,2414,224,CN ZUH
+port2113,Gulei,China,CHN,Asia & Pacific,23.7909562617756,117.600010342984,582,0,CN GLE
+port2114,Guangao,China,CHN,Asia & Pacific,23.2306071713215,116.762324970768,811,623,
+port2115,Luanjiakou,China,CHN,Asia & Pacific,37.7862459853249,120.639330162113,222,16,CN LJK
+port2116,Dafeng,China,CHN,Asia & Pacific,33.2334089562871,120.808235191763,582,66,CN DFG
+port2117,Lushun,China,CHN,Asia & Pacific,38.8066972023242,121.12785864757,228,12,
+port2118,Luoyuan,China,CHN,Asia & Pacific,34.6020028619169,119.588884233258,868,1,
+port2119,Tumaco,Colombia,COL,South America,1.81800783227047,-78.739999979684,19,1,CO TCO
+port2120,Banana,Democratic Republic of the Congo,COD,Africa,-6.01089224336675,12.4026443090903,29,0,CD BNW
+port2121,Punta Morales,Costa Rica,CRI,North America,10.0635741973388,-84.9658228624696,10,0,CR PUM
+port2124,Dhekelia,Cyprus,CYP,Europe,34.9781071046976,33.7426797885656,11,0,CY DHK
+port2125,Stigsnaes,Denmark,DNK,Europe,55.2100713784248,11.2596223057961,203,11,
+port2127,Barahona,Dominican Republic,DOM,North America,18.2085243026209,-71.087694858661,23,0,DO BRX
+port2128,Puerto Viejo,Dominican Republic,DOM,North America,18.345111098521,-70.8355266999162,14,0,
+port2130,Ras Gharib,Egypt,EGY,Africa,28.3445642535532,33.1097191315154,0,0,EG RAG
+port2131,Zeit Bay,Egypt,EGY,Africa,27.8161621640394,33.5801485093014,4,0,EG ZTB
+port2132,Ras Shukheir,Egypt,EGY,Africa,28.1285102857574,33.2826172757473,0,0,EG RSH
+port2134,Runavik,Faroe Islands,FRO,Europe,62.1182180024117,-6.72550779737778,56,26,
+port2135,Fuglafjordur,Faroe Islands,FRO,Europe,62.2306455903381,-6.79519354623625,126,9,
+port2136,Berre,France,FRA,Europe,43.4568801912925,5.14852279621845,47,0,
+port2137,Antifer,France,FRA,Europe,49.6582872779937,0.138068294076236,30,0,
+port2138,Gamba,Gabon,GAB,Africa,-2.82327283921813,9.99937842338455,24,0,GA GAX
+port2139,Supsa,Georgia,GEO,Europe,42.0240988103469,41.7295724208667,23,0,
+port2140,Stade,Germany,DEU,Europe,53.6442906538775,9.50698894126009,1207,277,DE STA
+port2148,Hvalfjordur,Iceland,ISL,Europe,64.3943275968169,-21.4425365961286,2,0,
+port2149,Helguvik,Iceland,ISL,Europe,64.0047518023801,-22.5478138352957,32,2,IS HEL
+port2150,Vizhinjam,India,IND,Asia & Pacific,8.36856104748015,76.993736641428,55,54,IN VZJ
+port2151,Karwar,India,IND,Asia & Pacific,14.7698923706459,74.1341444434512,63,0,IN KRW
+port2152,Port Blair,India,IND,Asia & Pacific,11.676789659007,92.7224725576251,149,45,IN IXZ
+port2164,Kharg Island,Iran,IRN,Asia & Pacific,29.2430727915583,50.335074434646,91,0,
+port2165,Lavan,Iran,IRN,Asia & Pacific,26.7905436961137,53.3501575546447,53,0,IR LVP
+port2166,Tarbert,Ireland,IRL,Europe,52.5877265070623,-9.3686722868087,28,4,IE TAR
+port2167,Santa Panagia,Italy,ITA,Europe,37.1122670681517,15.2635698674245,237,0,IT SPA
+port2168,Falconara,Italy,ITA,Europe,43.6427024844064,13.3868650013902,66,0,IT FAL
+port2169,Vasto,Italy,ITA,Europe,42.1712347009254,14.7151306826349,57,1,IT VSO
+port2170,Gaeta,Italy,ITA,Europe,41.2278193884162,13.5725796752305,200,5,IT GAE
+port2171,Torre Annunziata,Italy,ITA,Europe,40.7435129959628,14.4540497893323,88,3,IT TOA
+port2172,Port Kaiser,Jamaica,JAM,North America,17.8589155733473,-77.6035712685255,4,0,JM PKS
+port2183,Okpo (Geoje),Korea,KOR,Asia & Pacific,34.8851935777372,128.7070472034,252,24,
+port2196,Puerto Sandino,Nicaragua,NIC,North America,12.1656483441302,-86.7680670560747,44,0,NI PSN
+port2194,Tan Tan,Morocco,MAR,Africa,28.4734197765415,-11.3549935335566,21,0,MA TTA
+port2193,Bijela,Montenegro,MNE,Europe,42.4477169652261,18.6534339688346,1,0,ME BIJ
+port2195,Baie De Prony,New Caledonia,NCL,Asia & Pacific,-22.353635768907,166.890361409355,80,40,NC BDB
+port2188,Derna,Libya,LBY,Africa,32.761648007927,22.6551138745386,7,0,LY DNF
+port2108,Hadera,Israel,ISR,Asia & Pacific,32.4710776765136,34.8798724076142,35,0,IL HAD
+port2186,Chekka,Lebanon,LBN,Asia & Pacific,34.3255970067883,35.7193112068275,64,1,LB CHK
+port2187,Aamchit,Lebanon,LBN,Asia & Pacific,34.1401653025321,35.6295826821323,45,0,
+port2184,Mokpo,Korea,KOR,Asia & Pacific,34.7610418298541,126.396902105949,444,14,KR MOK
+port2185,Jinhae,Korea,KOR,Asia & Pacific,35.1368098108452,128.663986056492,44,0,KR CHF
+port2200,Taboguilla,Panama,PAN,North America,8.8088374617976,-79.5576068221251,2330,133,PA TBG
+port2201,Bialla,Papua New Guinea,PNG,Asia & Pacific,-5.30561773305497,151.000062959131,16,1,PG BAA
+port2202,Pisco (General San Martin),Peru,PER,South America,-13.7688698506776,-76.2436575686978,148,1,
+port2203,La Pampilla,Peru,PER,South America,-11.9263168057,-77.1484338156767,179,0,PE LPP
+port2204,Eten,Peru,PER,South America,-6.97221703809285,-79.864560387107,45,0,
+port2205,Mollendo,Peru,PER,South America,-17.0411936418092,-72.0057844359403,94,0,PE MLQ
+port2206,Supe,Peru,PER,South America,-10.7978359836361,-77.7505978682411,31,0,PE SUP
+port2214,Slavyanka,Russian Federation,RUS,Europe,42.8715243743688,131.397897326689,294,1,RU SKA
+port2215,Sabetta,Russian Federation,RUS,Europe,71.2685422977887,72.1109553363133,349,3,RU SAB
+port2219,Salif,Yemen,YEM,Asia & Pacific,15.3169166182557,42.6736742475775,70,0,
+port2218,Shuqaiq,Saudi Arabia,SAU,Asia & Pacific,17.6283957836864,42.0779551591398,33,0,
+port2221,Rota,Spain,ESP,Europe,36.6190523750678,-6.32415841030005,15,1,ES ROT
+port2222,Mahon,Spain,ESP,Europe,39.8927402634657,4.26637309349765,25,0,
+port2223,San Ciprian,Spain,ESP,Europe,43.7085215885856,-7.45958444373281,161,18,ES SCI
+port2224,Galle,Sri Lanka,LKA,Asia & Pacific,6.0316176410085,80.2267827964668,41,0,LK GAL
+port2225,Bashayer,Sudan,SDN,Africa,19.3907845405067,37.3178703686159,236,12,
+port2226,Landskrona,Sweden,SWE,Europe,55.8630689874397,12.8309863736997,255,35,SE LAA
+port2227,Tartous,Syria,SYR,Asia & Pacific,34.9033691141865,35.8689365887395,109,10,SY TTS
+port2228,Baniyas,Syria,SYR,Asia & Pacific,35.1858646499974,35.9421606838848,3,0,SY BAN
+port2229,Anping,Taiwan Province of China,TWN,Asia & Pacific,22.9744474218755,120.160318140284,221,1,
+port2230,Suao,Taiwan Province of China,TWN,Asia & Pacific,24.5953552721171,121.86932576231,167,0,TW SUO
+port2232,Mtwara,Tanzania,TZA,Africa,-10.2608605099218,40.2042547130292,76,16,TZ MYW
+port2234,Feodosiya,Ukraine,UKR,Europe,45.0293823831506,35.3924866301352,2,0,
+port2233,Canakkale,Türkiye,TUR,Europe,40.103456196747,26.3800824445946,161,0,
+port2236,Jebel Dhanna,United Arab Emirates,ARE,Asia & Pacific,24.174505328853,52.5910418293556,144,0,AE JED
+port2237,Das Island,United Arab Emirates,ARE,Asia & Pacific,25.1459398379326,52.8754554358407,335,0,AE DAS
+port2260,Catia La Mar,Venezuela,VEN,South America,10.5976081963712,-67.0567861684697,27,0,VE CLM
+port2261,La Salina,Venezuela,VEN,South America,10.3696516319543,-71.4585019048218,34,0,VE LSV
+port2262,Van Phong,Vietnam,VNM,Asia & Pacific,12.5040628840733,109.283625429454,281,1,VN VPH
+port2263,Ash Shihr,Yemen,YEM,Asia & Pacific,14.6944993583033,49.5436480987972,2,0,YE ASR
+port2264,Rudum Terminal,Yemen,YEM,Asia & Pacific,13.9931436850754,47.914459003825,6,0,YE RUO
+port2245,Ras Isa Terminal,Yemen,YEM,Asia & Pacific,15.2506749411968,42.6176409513343,29,0,YE RAI
+port2109,Mokha,Yemen,YEM,Asia & Pacific,13.2999773445722,43.2338128020907,0,0,YE MOK
+port2189,Pengerang,Malaysia,MYS,Asia & Pacific,1.3409833539977,104.161861035667,2094,67,MY PGG
+port2190,Kimanis,Malaysia,MYS,Asia & Pacific,5.69823512877678,115.810788401596,87,0,
+port2191,Kunak,Malaysia,MYS,Asia & Pacific,4.69406464844105,118.256394118897,44,0,
+port2192,Tawau,Malaysia,MYS,Asia & Pacific,4.25500727463273,117.870156155841,259,84,MY TWU
+port2207,Isabel,Philippines,PHL,Asia & Pacific,10.9016363100407,124.435542094056,172,0,PH ISL
+port2208,Amlan,Philippines,PHL,Asia & Pacific,9.43641763273019,123.239191695115,79,0,PH TAN
+port2209,Calaca,Philippines,PHL,Asia & Pacific,13.9185658619298,120.815044368299,304,4,PH CAA
+port2210,Balayan,Philippines,PHL,Asia & Pacific,13.9338211230468,120.747827620769,23,0,PH BLY
+port2141,Pachi,Greece,GRC,Europe,37.9696159587141,23.3816454307986,88,0,GR PME
+port2142,Lavrion,Greece,GRC,Europe,37.7047701201238,24.061820872762,139,4,
+port2143,Chalkis,Greece,GRC,Europe,38.4560580996744,23.5895460303669,78,1,GR QKG
+port2144,Kali Limenes,Greece,GRC,Europe,34.9285278588392,24.8048231924303,57,0,
+port2145,Atherinolakos,Greece,GRC,Europe,35.0038689611542,26.1418512438075,6,0,
+port2146,Psakhna,Greece,GRC,Europe,38.5642654328339,23.5967771337502,46,0,
+port2147,San Nicolas,Greece,GRC,Europe,38.3543626726989,22.6787373051707,119,2,
+port2173,Henza Island,Japan,JPN,Asia & Pacific,26.3607518705613,127.966400053085,299,0,JP HEI
+port2174,Namikata,Japan,JPN,Asia & Pacific,34.1196075765848,132.935391919819,442,2,JP NIT
+port2176,Kanokawa,Japan,JPN,Asia & Pacific,34.1831070337709,132.430998786464,172,0,JP KKW
+port2177,Nakagusukuwan,Japan,JPN,Asia & Pacific,26.2233693144092,127.787555078582,138,0,
+port2178,Mutsure,Japan,JPN,Asia & Pacific,33.9744124326445,130.866156798389,219,1,JP MTR
+port2179,Chofu,Japan,JPN,Asia & Pacific,34.0095394269591,131.006350386306,262,9,JP CHF
+port2180,Kinwan,Japan,JPN,Asia & Pacific,26.4211708877825,127.842058562891,227,1,JP KIN
+port2181,Saiki,Japan,JPN,Asia & Pacific,32.9813660016647,131.905714426269,512,0,JP SAE
+port2182,Owase,Japan,JPN,Asia & Pacific,34.0714440465658,136.210395464368,51,0,JP OWA
+port2153,Karimun,Indonesia,IDN,Asia & Pacific,1.06318536647826,103.317664793112,151,0,
+port2154,Muntok,Indonesia,IDN,Asia & Pacific,-2.07402944030294,105.170642224652,1,0,
+port2155,Sungai Pakning,Indonesia,IDN,Asia & Pacific,1.34826369615872,102.157879941684,96,28,
+port2156,Padang,Indonesia,IDN,Asia & Pacific,-8.51191030976715,115.513227073498,301,0,ID PDG
+port2157,Sabang,Indonesia,IDN,Asia & Pacific,5.88491841895616,95.3208123004595,4,0,
+port2158,Pulau Sambu,Indonesia,IDN,Asia & Pacific,1.16080828783621,103.899648281736,133,0,
+port2159,Kuala Tanjung,Indonesia,IDN,Asia & Pacific,3.37206298625255,99.4558614311782,150,44,
+port2160,Bula,Indonesia,IDN,Asia & Pacific,-3.10101745349884,130.504710648562,40,0,ID BUA
+port2161,Kijing,Indonesia,IDN,Asia & Pacific,0.513514898115065,108.915660358245,51,0,
+port2162,Amurang,Indonesia,IDN,Asia & Pacific,1.1817008749589,124.473237226909,31,0,ID TZD
+port2163,Luwuk,Indonesia,IDN,Asia & Pacific,-0.949080688856557,122.808357296821,131,35,ID LUW
+port2238,Hound Point,United Kingdom,GBR,Europe,56.0018375139033,-3.35887423231441,69,0,GB HPT
+port2239,Flotta,United Kingdom,GBR,Europe,58.8363226064973,-3.11996230918531,22,0,GB FLH
+port2240,Douglas,United Kingdom,GBR,Europe,54.1468436275529,-4.46817810584293,23,0,GB DGL
+port2241,Cromarty,United Kingdom,GBR,Europe,57.6997269693355,-4.02959766650529,68,7,GB CRN
+port2242,Macduff,United Kingdom,GBR,Europe,57.6713438986857,-2.49719379566753,0,0,GB MCD
+port2243,Loch Striven,United Kingdom,GBR,Europe,55.8867280234061,-5.04485497464846,7,0,GB LHS
+port2244,Faslane,United Kingdom,GBR,Europe,56.0643738045419,-4.82529229378135,0,0,GB FAS
+port2246,Campbeltown,United Kingdom,GBR,Europe,55.4214906086236,-5.58409366427179,52,5,GB CBT
+port2247,Delaware,United States,USA,North America,39.5836795779323,-75.6030676738374,101,0,US DCI
+port2248,Rodeo,United States,USA,North America,38.0475271930771,-122.257971529925,125,0,US RD4
+port2253,Kalama,United States,USA,North America,46.0273657254777,-122.862427309442,278,12,US KAM
+port2249,Erie,United States,USA,North America,42.150052962337,-80.0983112353327,26,0,US ERI
+port2251,Nikiski,United States,USA,North America,60.6983652294442,-151.357572066497,68,0,US NIK
+port2252,Marcus Hook,United States,USA,North America,39.8166842561933,-75.4112571037832,662,166,US MAH
+port2254,Albany,United States,USA,North America,42.6216733773329,-73.7551907460014,55,5,
+port2255,Manchester,United States,USA,North America,47.5623177380008,-122.543065072613,3,0,
+port2256,Dutch Harbor,United States,USA,North America,53.8930536363471,-166.51680685919,135,112,
+port2265,Conneaut,United States,USA,North America,41.96601332354232,-80.54767839331956,71,0,US CDY
+port2266,Fairless Hills,United States,USA,North America,40.13793131673273,-74.74856975897411,84,0,US FAH
+port2267,Longview,United States,USA,North America,46.11077309520158,-122.9442444313803,401,20,US JLG
+port2268,Ashtabula,United States,USA,North America,41.907271278288604,-80.78703197101717,74,1,US ASF
+port2269,Fairport,United States,USA,North America,41.75558735992676,-81.27480005594211,72,0,US FPT
+port2270,Monroe,United States,USA,North America,41.898049171634526,-83.34975295242701,65,0,US NRO
+port2271,Garacad,Somalia,SOM,Africa,6.930975790932465,49.323998643948755,4,0,SO GRC
+port2272,Chancay,Peru,PER,South America,-11.59190683259616,-77.27907206053236,62,32,PE CHY
+port2273,Fernandina,United States,USA,North America,30.69332357133872,-81.45224563684486,42,26,
+port2274,Madero,Mexico,MEX,North America,14.700005809133987,-92.40776173180058,41,29,
+port2275,Deseado,Argentina,ARG,South America,-47.75452033207676,-65.90897633681332,35,23,
+port2276,San Antonio Este,Argentina,ARG,South America,-40.79817740556941,-64.88186997355537,18,18,AR SAE
+port2277,Chacabuco,Chile,CHL,South America,-45.46313257402253,-72.8226627271358,169,27,CL CHB
+port2278,San Andres,Colombia,COL,South America,12.57257157082485,-81.70107324650651,202,36,CO ADZ
+port2279,Cumarebo,Venezuela,VEN,South America,11.508558603353565,-69.32839630505957,0,0,VE CMR
+port2280,Guaranao,Venezuela,VEN,South America,11.692208860561776,-70.21283757222142,49,15,VE GUA
+port2281,Guanta,Venezuela,VEN,South America,10.247022864419499,-64.59268503340354,79,21,VE GUT
+port2282,Uusikaupunki,Finland,FIN,Europe,60.79201245123225,21.35611024079948,479,35,FI UKI
+port2283,Moerdijk,The Netherlands,NLD,Europe,51.68192262470657,4.580214707102393,3597,878,NL MOE
+port2284,Jeju,Korea,KOR,Asia & Pacific,33.52425331533851,126.54423226198799,301,0,KR CHA
+port2285,Seogwipo,Korea,KOR,Asia & Pacific,33.23884278231272,126.56558045670108,11,0,KR SPO
+port2286,Wando,Korea,KOR,Asia & Pacific,34.31907518125215,126.75799895484316,2,0,KR WND
+port2287,Zhongshan,China,CHN,Asia & Pacific,22.57762219478311,113.5022564115573,87,1,CN ZSN
+port2288,Ushuaia,Argentina,ARG,South America,-54.81096080656699,-68.30037836344027,29,29,AR USH
+port2289,Abashiri,Japan,JPN,Asia & Pacific,44.01462492846456,144.29092508055206,61,0,JP ABA
+port2290,Aburatsu,Japan,JPN,Asia & Pacific,31.563115222402672,131.39489295563263,146,2,JP ABU
+port2291,Al Hoceima,Morocco,MAR,Africa,35.24538342228755,-3.9197106199827063,0,0,
+port2292,Beppu,Japan,JPN,Asia & Pacific,33.32514981726958,131.51299889595052,156,0,JP BPU
+port2293,Biak,Indonesia,IDN,Asia & Pacific,-1.1856126488578573,136.07630032135648,115,60,ID BIK
+port2294,Bunati,Indonesia,IDN,Asia & Pacific,-3.8289082860484616,115.70611918130767,766,2,ID BUT
+port2295,Cesme,Türkiye,TUR,Europe,38.3233235904712,26.295532448790237,174,0,
+port2296,Fukue,Japan,JPN,Asia & Pacific,32.69415701599888,128.85463789882223,34,0,JP FKE
+port2297,Funagawa,Japan,JPN,Asia & Pacific,39.87532795300711,139.8654380824682,142,1,JP FNK
+port2298,Gonoura,Japan,JPN,Asia & Pacific,33.74315451129555,129.67332418815153,79,0,
+port2299,Gopalpur,India,IND,Asia & Pacific,19.29112737743345,84.95741871367457,130,0,
+port2300,PLTU Nagan Raya,Indonesia,IDN,Asia & Pacific,4.057399276639193,96.14969048642013,198,0,
+port2301,Hidaka,Japan,JPN,Asia & Pacific,33.85671844945321,135.1532259887527,63,0,JP HDK
+port2302,Hirara,Japan,JPN,Asia & Pacific,24.81895543041971,125.27721380497792,234,12,JP HRR
+port2303,Imari,Japan,JPN,Asia & Pacific,33.32268165897947,129.83628648393872,963,182,JP IMI
+port2304,Ishigaki,Japan,JPN,Asia & Pacific,24.339444868901676,124.13698423939594,143,1,JP ISG
+port2305,Izuhara,Japan,JPN,Asia & Pacific,34.19291122405697,129.29159008690695,37,0,JP IZH
+port2306,Jetty Coalindo,Indonesia,IDN,Asia & Pacific,0.8056557623156951,117.89244832756181,300,4,ID NPL
+port2307,Sakarya (Karasu),Türkiye,TUR,Europe,41.12116419273007,30.67915898650193,144,1,
+port2308,Sendai,Japan,JPN,Asia & Pacific,31.85317710805988,130.19685246990127,379,105,JP SEN
+port2309,Kenitra,Morocco,MAR,Africa,34.29111087114013,-6.619822731700385,0,0,MA NNA
+port2310,Xishengxu,China,CHN,Asia & Pacific,32.17397181622414,118.87603849915325,1013,8,
+port2311,Kuji,Japan,JPN,Asia & Pacific,40.19834976535369,141.82060574281832,91,0,JP KJI
+port2312,Kumamoto,Japan,JPN,Asia & Pacific,32.76652257475955,130.58904721204593,72,36,JP KMJ
+port2313,La Libertad,El Salvador,SLV,North America,13.48540839578887,-89.31795089301116,0,0,SV LLD
+port2314,Miike,Japan,JPN,Asia & Pacific,33.020158859963246,130.41010982935757,514,47,JP MII
+port2315,"Misumi, Kumamoto",Japan,JPN,Asia & Pacific,32.60011192411926,130.4695249014171,233,3,JP MIS
+port2316,"Misumi, Shimane",Japan,JPN,Asia & Pacific,34.79407459216538,131.9338211959745,206,0,
+port2317,Miyako,Japan,JPN,Asia & Pacific,39.62975691749148,141.97055391457394,62,0,JP MYK
+port2318,Miyazaki,Japan,JPN,Asia & Pacific,31.90210767220479,131.46484946558158,225,0,JP KMI
+port2319,Monbetsu,Japan,JPN,Asia & Pacific,44.346216923829175,143.37581347628597,24,0,
+port2320,Mutsu-Ogawara,Japan,JPN,Asia & Pacific,40.95224332506539,141.40761667792702,192,0,
+port2321,Nakatsu,Japan,JPN,Asia & Pacific,33.621257846603676,131.22991656170424,321,0,JP NAT
+port2322,Naze,Japan,JPN,Asia & Pacific,28.396039386648745,129.50379402510032,80,0,JP NAZ
+port2323,Nemuro,Japan,JPN,Asia & Pacific,43.34537212575575,145.57774979837896,0,0,JP NEM
+port2324,Nishinoomote,Japan,JPN,Asia & Pacific,30.73435638877616,130.9874900722335,173,0,JP IIN
+port2325,North Abaco,The Bahamas,BHS,North America,26.89096397455886,-77.53222145988055,2,0,
+port2326,Ogi,Japan,JPN,Asia & Pacific,37.8146025305689,138.29040681790565,5,0,
+port2327,Okayama,Japan,JPN,Asia & Pacific,34.57961538361874,133.99324530906782,751,0,JP OKJ
+port2328,Tuzla (Pendik),Türkiye,TUR,Europe,40.859215326162925,29.264536890231355,800,50,
+port2329,Plaquemines,United States,USA,North America,29.6246467591855,-89.90439665429324,351,92,
+port2330,Port Rhoades,Jamaica,JAM,North America,18.461459256969945,-77.40681994180962,55,0,JM PRH
+port2331,Porto Sul,Brazil,BRA,South America,-14.773801461927475,-39.02898119969663,23,0,
+port2332,Rocky Point,Jamaica,JAM,North America,17.812591962362013,-77.14414497125027,62,0,JM ROP
+port2333,Rugao,China,CHN,Asia & Pacific,32.06846972283425,120.52885289191636,1026,11,CN RUG
+port2334,Ryotsu,Japan,JPN,Asia & Pacific,38.0942970660059,138.4572638356692,274,5,JP RYO
+port2335,Safi Atlantique,Morocco,MAR,Africa,32.16524204788094,-9.275043915127467,39,0,
+port2336,Saigo,Japan,JPN,Asia & Pacific,36.205489350938514,133.33775086771973,41,0,
+port2337,Shimonoseki,Japan,JPN,Asia & Pacific,33.94243743862432,130.92835087973242,1228,1,JP SHS
+port2338,Soma,Japan,JPN,Asia & Pacific,37.841019714396474,140.97694782787576,505,0,JP SOM
+port2339,Sukumowan,Japan,JPN,Asia & Pacific,32.91553739375891,132.7051430961867,35,0,JP SUK
+port2340,Taixing,China,CHN,Asia & Pacific,32.13815045063475,119.9300484081644,1088,6,CN TAX
+port2341,Tasucu,Türkiye,TUR,Europe,36.31230342918748,33.88939444764967,51,0,TR TAS
+port2342,Tottori,Japan,JPN,Asia & Pacific,35.54127234784807,134.18919251392327,62,0,JP TTJ
+port2343,Toyo,Japan,JPN,Asia & Pacific,33.9509557148789,133.14451324882086,1122,5,
+port2344,Tuna,India,IND,Asia & Pacific,22.905656521572535,70.10859578301307,113,0,IN TUN
+port2345,Unten,Japan,JPN,Asia & Pacific,26.661272280557114,128.01248282246996,25,0,JP UNT
+port2346,Wahana Jetty,Indonesia,IDN,Asia & Pacific,-3.936068695073808,115.49272321395091,121,0,
+port2347,Wakkanai,Japan,JPN,Asia & Pacific,45.41282459710791,141.70218643891474,124,0,JP WKJ
+port2348,Xieqiao,China,CHN,Asia & Pacific,32.04257956163418,120.39983483323337,1533,31,
+port2349,Yangzhou,China,CHN,Asia & Pacific,32.27021674982553,119.43120161828365,727,194,CN YZH
+port2350,Yihua,China,CHN,Asia & Pacific,32.254510556314095,119.12673198146331,626,9,
+port2351,Zhenjiang,China,CHN,Asia & Pacific,32.19167436975261,119.31488684948293,902,145,CN ZHE
+port2352,Zhenjiang New Area,China,CHN,Asia & Pacific,32.20101824006198,119.63932374760748,2623,296,
+port2353,Areia Branca,Brazil,BRA,South America,-4.821011203186009,-37.04589404657474,52,0,BR ARE
+port2354,Carinhoso,Brazil,BRA,South America,-3.080007796843925,-59.85620705101419,0,0,
+port2355,Coari,Brazil,BRA,South America,-4.025218759400398,-63.12183622585124,93,0,BR CAR
+port2356,Concepcion del Uruguay,Argentina,ARG,South America,-32.49049955445169,-58.21971683997612,59,0,
+port2357,Correa,Brazil,BRA,South America,-19.001755862280277,-57.59562205322626,2,0,
+port2358,Estaleiro Jurong,Brazil,BRA,South America,-19.865787475483142,-40.06434687198997,2,0,
+port2359,Itahum,Brazil,BRA,South America,-21.710179229896735,-57.90361123457201,0,0,
+port2360,Itaituba,Brazil,BRA,South America,-4.323058915674796,-56.0247403778297,0,0,BR ITB
+port2361,Juruti,Brazil,BRA,South America,-2.1663238158967024,-56.10779599769451,122,0,BR JUR
+port2362,Munguba,Brazil,BRA,South America,-0.9234625363716141,-52.426449472136404,12,1,BR MGU
+port2363,Murtinho,Brazil,BRA,South America,-21.690978596822998,-57.883201824350856,0,0,
+port2364,Norte Capixaba,Brazil,BRA,South America,-18.97685586193735,-39.70098566743419,21,0,BR NCT
+port2365,Osorio,Brazil,BRA,South America,-30.00903759917348,-50.10588536536458,163,0,
+port2366,Pelotas,Brazil,BRA,South America,-31.78402496801919,-52.32896562826021,0,0,BR PET
+port2367,Paracuru,Brazil,BRA,South America,-3.399744593922471,-39.013173477614124,0,0,BR PRU
+port2368,Ponta Ubu,Brazil,BRA,South America,-20.78163223748859,-40.57181796031063,76,0,
+port2369,Porto Velho,Brazil,BRA,South America,-8.753275357770134,-63.90908801348336,0,0,BR PVH
+port2370,Portuário Novo Remanso,Brazil,BRA,South America,-3.2323185239892487,-58.99381250744777,21,1,BR 1NR
+port2371,Santana,Brazil,BRA,South America,-0.03710652938318834,-51.18048883236113,57,0,BR STN
+port2372,Santarem,Brazil,BRA,South America,-2.402722779834859,-54.74913232644696,226,1,BR STM
+port2373,Trombetas,Brazil,BRA,South America,-1.4574836582442292,-56.38702827917076,229,0,BR TMT
+port2375,Boryeong LNG Terminal,Korea,KOR,Asia & Pacific,36.4034370641251,126.489358026811,147,0,
+port2376,Chugoku Yanai LNG Terminal,Japan,JPN,Asia & Pacific,33.954122285010044,132.12215979674394,43,0,JP YAN
+port2377,Costa Azul LNG Terminal,Mexico,MEX,North America,31.987308320514245,-116.85190775818606,4,0,MX ESE
+port2378,Dhabol LNG Terminal,India,IND,Asia & Pacific,17.533679505186317,73.14709066767129,16,0,
+port2379,Dominion Cove Point,United States,USA,North America,38.39271789820683,-76.38902776776149,65,0,US CP6
+port2380,Donggi Senoro LNG Terminal,Indonesia,IDN,Asia & Pacific,-1.2491735635193313,122.60246888215033,63,0,ID DOG
+port2381,Dongguan LNG Terminal,China,CHN,Asia & Pacific,22.950090353838224,113.55846369487617,1922,1,
+port2382,Escobar LNG Terminal,Argentina,ARG,South America,-34.24209991937602,-58.76005938687225,122,1,
+port2383,Guangdong Dapeng LNG Terminal,China,CHN,Asia & Pacific,22.581784172818544,114.44171478330917,166,0,CN GUT
+port2384,Pagbilao LNG Terminal,Philippines,PHL,Asia & Pacific,13.894151584375521,121.74331249925454,28,0,PH PGB
+port2385,Peru LNG Terminal,Peru,PER,South America,-13.26202704562233,-76.30734169561661,54,0,PE PMC
+port2386,Revithoussa LNG Terminal,Greece,GRC,Europe,37.960310610130925,23.401960166606223,44,0,GR REV
+port2387,Rudong Jiangsu LNG Terminal,China,CHN,Asia & Pacific,32.52938810707759,121.41493623806116,229,0,CN YKG
+port2388,Sabine Pass,United States,USA,North America,29.745253719133864,-93.88596237635302,605,0,US NSS
+port2389,Samalaju,Malaysia,MYS,Asia & Pacific,3.5969822732535586,113.33062755584085,169,0,MY SIP
+port2390,Samcheok LNG Terminal,Korea,KOR,Asia & Pacific,37.17440233055741,129.3551261307286,61,0,KR SUK
+port2391,Tongyeong LNG Terminal,Korea,KOR,Asia & Pacific,34.94819664355178,128.43396537704476,96,6,KR TYG
+port2392,Yemen LNG Terminal,Yemen,YEM,Asia & Pacific,13.980059591578499,48.177455343879174,0,0,YE BLH
+port2393,Yuedong LNG Terminal,China,CHN,Asia & Pacific,22.925088742725315,116.37617809717945,33,0,CN JYG
+port2394,Yung-An LNG Terminal,Taiwan Province of China,TWN,Asia & Pacific,22.839938702762733,120.19987776161607,220,0,TW YAN
+port2395,Bacolod,Philippines,PHL,Asia & Pacific,10.698979639568165,122.94462224143133,410,66,PH BCD
+port2396,Christiansted,United States Virgin Islands,VIR,North America,17.74998981329927,-64.69775089890321,55,0,
+port2397,Egersund,Norway,NOR,Europe,58.435781305348875,5.98980590289863,303,63,NO EGE
+port2398,Fusa,Norway,NOR,Europe,60.203895048868716,5.60119649766657,26,25,NO FUS
+port2399,Futong,Indonesia,IDN,Asia & Pacific,0.8118875727998486,102.40670193597956,114,16,ID FTG
+port2400,Greenock,United Kingdom,GBR,Europe,55.948416622599744,-4.739284492958417,295,182,GB GRK
+port2401,Guangzhou (Huangpu),China,CHN,Asia & Pacific,23.043240016366546,113.51257145262622,3347,396,
+port2402,Kodiak,United States,USA,North America,57.78198222487451,-152.42352962997015,83,82,US ADQ
+port2403,Lekki,Nigeria,NGA,Africa,6.402232725986366,4.058123897592126,110,47,NG LKK
+port2404,Mar del Plata,Argentina,ARG,South America,-38.04500503622433,-57.531154851713,62,30,AR MDQ
+port2405,Nghi Son,Vietnam,VNM,Asia & Pacific,19.347948207291083,105.81027032080799,1874,68,VN NGH
+port2406,Pozzallo,Italy,ITA,Europe,36.71461545984809,14.835372975974193,187,17,IT PZL
+port2407,Turbo,Colombia,COL,South America,8.073042206867283,-76.72899059336534,0,0,CO TRB
+port2408,Basse Terre,Guadeloupe,GLP,North America,15.994093663191606,-61.73328394672887,23,0,
+port2409,Borkum,Germany,DEU,Europe,53.56472456769847,6.751967863440217,8,0,DE BMK
+port2410,El Sauzal,Mexico,MEX,North America,31.893398978619416,-116.70225488544327,0,0,MX ESZ
+port2411,Funchal,Portugal,PRT,Europe,32.644511808570456,-16.90908344359087,4,0,
+port2412,Gonghyeonjin,Korea,KOR,Asia & Pacific,38.361864059547,128.51344783653732,0,0,KR KNH
+port2413,Gushan,China,CHN,Asia & Pacific,30.38517133165109,120.9157488611209,2,0,
+port2414,Haiyan,China,CHN,Asia & Pacific,30.462428004061685,120.94417470837196,25,0,CN HIY
+port2415,Huangdun,China,CHN,Asia & Pacific,29.475746941298745,121.50695037884876,216,0,
+port2416,Iquitos,Peru,PER,South America,-3.726086915393308,-73.24102943580486,0,0,PE IQT
+port2417,King Island,Australia,AUS,Asia & Pacific,-40.06145548244566,144.06730672699769,60,0,AU KNS
+port2418,Kyrenia,Cyprus,CYP,Europe,35.34298667943288,33.33181693497462,21,0,CY KYR
+port2419,Morelos,Mexico,MEX,North America,20.847145764558142,-86.87260532664415,45,43,
+port2420,Santa Fe,Argentina,ARG,South America,-31.648486163576468,-60.693784901225825,35,0,AR SFN
+port2421,Taizhou (Damaiyu),China,CHN,Asia & Pacific,28.085601396361657,121.145848216685,281,45,
+port2422,Taizhou (Jiantiao),China,CHN,Asia & Pacific,29.04381847479629,121.62825486032823,54,1,
+port2423,Taizhou (Wenling),China,CHN,Asia & Pacific,28.409425930955084,121.6596135530483,37,1,
+port2424,Toumen,China,CHN,Asia & Pacific,28.692958815701967,121.76221039291565,87,1,
+port2425,Wischhafen,Germany,DEU,Europe,53.7812601571632,9.3347904845889,18,0,DE WIF
+port2426,Yueqing,China,CHN,Asia & Pacific,28.184121588309658,121.10648599932168,218,0,CN YUE
+fso0,Brazil - Offshore Oil Terminal 1,Brazil,BRA,South America,-21.339,-40.058,20,0,
+fso1,Brazil - Offshore Oil Terminal 10,Brazil,BRA,South America,-24.776,-42.72,20,0,
+fso2,Brazil - Offshore Oil Terminal 11,Brazil,BRA,South America,-24.951,-42.468,44,0,
+fso3,Brazil - Offshore Oil Terminal 12,Brazil,BRA,South America,-25.49,-42.78,74,0,
+fso4,Brazil - Offshore Oil Terminal 13,Brazil,BRA,South America,-22.229,-40.334,4,0,
+fso5,Brazil - Offshore Oil Terminal 14,Brazil,BRA,South America,-24.583,-42.256,33,0,
+fso6,Brazil - Offshore Oil Terminal 15,Brazil,BRA,South America,-21.885,-39.858,16,0,
+fso7,Brazil - Offshore Oil Terminal 16,Brazil,BRA,South America,-22.952,-40.725,35,0,
+fso8,Brazil - Offshore Oil Terminal 17,Brazil,BRA,South America,-25.517,-43.465,18,0,
+fso9,Brazil - Offshore Oil Terminal 18,Brazil,BRA,South America,-12.814,-38.68,26,0,
+fso10,Brazil - Offshore Oil Terminal 19,Brazil,BRA,South America,-25.226,-42.57,56,0,
+fso11,Brazil - Offshore Oil Terminal 2,Brazil,BRA,South America,-25.393,-42.76,57,0,
+fso12,Brazil - Offshore Oil Terminal 20,Brazil,BRA,South America,-23.135,-41.073,13,0,
+fso13,Brazil - Offshore Oil Terminal 21,Brazil,BRA,South America,-24.787,-42.508,66,0,
+fso14,Brazil - Offshore Oil Terminal 22,Brazil,BRA,South America,-25.672,-43.205,60,0,
+fso15,Brazil - Offshore Oil Terminal 23,Brazil,BRA,South America,-22.495,-39.937,14,0,
+fso16,Brazil - Offshore Oil Terminal 24,Brazil,BRA,South America,-24.687,-42.505,71,0,
+fso17,Brazil - Offshore Oil Terminal 25,Brazil,BRA,South America,-24.648,-42.513,72,0,
+fso18,Brazil - Offshore Oil Terminal 26,Brazil,BRA,South America,-24.301,-42.714,8,0,
+fso19,Brazil - Offshore Oil Terminal 27,Brazil,BRA,South America,-25.657,-42.859,66,0,
+fso20,Brazil - Offshore Oil Terminal 28,Brazil,BRA,South America,-23.317,-41.258,30,0,
+fso21,Brazil - Offshore Oil Terminal 29,Brazil,BRA,South America,-25.798,-43.263,56,0,
+fso22,Brazil - Offshore Oil Terminal 3,Brazil,BRA,South America,-22.462,-40.057,6,0,
+fso23,Brazil - Offshore Oil Terminal 30,Brazil,BRA,South America,-21.214,-39.997,43,0,
+fso24,Brazil - Offshore Oil Terminal 31,Brazil,BRA,South America,-25.14,-42.943,72,0,
+fso25,Brazil - Offshore Oil Terminal 32,Brazil,BRA,South America,-22.132,-39.967,17,0,
+fso26,Brazil - Offshore Oil Terminal 33,Brazil,BRA,South America,-25.543,-42.838,31,0,
+fso27,Brazil - Offshore Oil Terminal 34,Brazil,BRA,South America,-22.392,-40.053,0,0,
+fso28,Brazil - Offshore Oil Terminal 35,Brazil,BRA,South America,-21.939,-39.785,17,0,
+fso29,Brazil - Offshore Oil Terminal 36,Brazil,BRA,South America,-22.55,-40.258,22,0,
+fso30,Brazil - Offshore Oil Terminal 37,Brazil,BRA,South America,-25.328,-42.692,70,0,
+fso31,Brazil - Offshore Oil Terminal 38,Brazil,BRA,South America,-24.558,-42.187,3,0,
+fso32,Brazil - Offshore Oil Terminal 39,Brazil,BRA,South America,-23.513,-41.064,14,0,
+fso33,Brazil - Offshore Oil Terminal 4,Brazil,BRA,South America,-22.486,-40.096,0,0,
+fso34,Brazil - Offshore Oil Terminal 40,Brazil,BRA,South America,-24.63,-42.265,15,0,
+fso35,Brazil - Offshore Oil Terminal 41,Brazil,BRA,South America,-22.344,-40.195,23,0,
+fso36,Brazil - Offshore Oil Terminal 42,Brazil,BRA,South America,-22.428,-40.029,0,0,
+fso37,Brazil - Offshore Oil Terminal 43,Brazil,BRA,South America,-25.202,-42.878,62,0,
+fso38,Brazil - Offshore Oil Terminal 44,Brazil,BRA,South America,-22.662,-40.238,15,0,
+fso39,Brazil - Offshore Oil Terminal 45,Brazil,BRA,South America,-21.993,-39.739,0,0,
+fso40,Brazil - Offshore Oil Terminal 5,Brazil,BRA,South America,-24.685,-42.293,9,0,
+fso41,Brazil - Offshore Oil Terminal 6,Brazil,BRA,South America,-22.439,-40.069,6,0,
+fso42,Brazil - Offshore Oil Terminal 7,Brazil,BRA,South America,-22.158,-40.147,73,0,
+fso43,Brazil - Offshore Oil Terminal 8,Brazil,BRA,South America,-20.042,-39.523,5,0,
+fso44,Brazil - Offshore Oil Terminal 9,Brazil,BRA,South America,-21.208,-39.743,17,0,
+fso45,Equatorial Guinea - Offshore Oil Terminal 1,Equatorial Guinea,GNQ,Africa,3.375,9.14,12,0,
+fso46,Equatorial Guinea - Offshore Oil Terminal 2,Equatorial Guinea,GNQ,Africa,3.802,8.078,12,0,
+fso47,Equatorial Guinea - Offshore Oil Terminal 3,Equatorial Guinea,GNQ,Africa,1.409,9.228,0,0,
+fso48,Guyana - Offshore Oil Terminal 1,Guyana,GUY,South America,8.008,-56.913,43,0,
+fso49,Guyana - Offshore Oil Terminal 2,Guyana,GUY,South America,8.195,-57.003,24,0,
+fso50,Guyana - Offshore Oil Terminal 3,Guyana,GUY,South America,8.01,-56.992,39,0,
+fso51,Guyana - Offshore Oil Terminal 4,Guyana,GUY,South America,7.957,-56.717,4,0,
+fso52,Angola - Offshore Oil Terminal 1,Angola,AGO,Africa,-7.5930000000000035,12.110000000000008,1,0,
+fso53,Angola - Offshore Oil Terminal 2,Angola,AGO,Africa,-7.235000000000002,11.285000000000002,19,0,
+fso54,Angola - Offshore Oil Terminal 3,Angola,AGO,Africa,-7.463000000000004,11.568000000000003,0,0,
+fso55,Angola - Offshore Oil Terminal 4,Angola,AGO,Africa,-5.38,11.442999999999996,0,0,
+fso56,Angola - Offshore Oil Terminal 5,Angola,AGO,Africa,-5.637000000000001,11.852000000000007,12,0,
+fso57,Angola - Offshore Oil Terminal 6,Angola,AGO,Africa,-6.139,11.029999999999998,27,0,
+fso58,Angola - Offshore Oil Terminal 7,Angola,AGO,Africa,-7.543,12.169,1,0,
+fso59,Australia - Offshore Oil Terminal 1,Australia,AUS,Asia & Pacific,-13.964999999999998,123.31500000000003,30,0,
+fso60,Australia - Offshore Oil Terminal 2,Australia,AUS,Asia & Pacific,-12.660000000000005,124.54300000000005,11,0,
+fso61,Australia - Offshore Oil Terminal 3,Australia,AUS,Asia & Pacific,-19.58799999999999,116.44699999999996,6,0,
+fso62,Australia - Offshore Oil Terminal 4,Australia,AUS,Asia & Pacific,-21.540000000000003,114.11600000000007,7,0,
+fso63,Australia - Offshore Oil Terminal 5,Australia,AUS,Asia & Pacific,-21.432499999999994,114.067,15,0,
+fso64,Bangladesh - Offshore Oil Terminal 1,Bangladesh,BGD,Asia & Pacific,21.53699999999999,91.81799999999991,27,0,
+fso65,Cameroon - Offshore Oil Terminal 1,Cameroon,CMR,Africa,2.923,9.801000000000002,47,0,
+fso66,Canada - Offshore Oil Terminal 1,Canada,CAN,North America,46.474999999999994,-48.480999999999995,13,0,
+fso67,China - Offshore Oil Terminal 1,China,CHN,Asia & Pacific,22.155999999999988,113.9639999999999,5,0,
+fso68,China - Offshore Oil Terminal 2,China,CHN,Asia & Pacific,21.352999999999994,114.735,15,0,
+fso69,China - Offshore Oil Terminal 3,China,CHN,Asia & Pacific,21.643,116.045,35,0,
+fso70,China - Offshore Oil Terminal 4,China,CHN,Asia & Pacific,38.391999999999996,120.07999999999993,36,0,
+fso71,Côte d'Ivoire - Offshore Oil Terminal 1,Côte d'Ivoire,CIV,Africa,4.737000000000004,-3.5649999999999995,6,0,
+fso72,Democratic Republic of the Congo - Offshore Oil Terminal 1,Democratic Republic of the Congo,COD,Africa,-6.240999999999999,10.730999999999996,25,0,
+fso73,Democratic Republic of the Congo - Offshore Oil Terminal 2,Democratic Republic of the Congo,COD,Africa,-5.971999999999999,12.108,14,0,
+fso74,Democratic Republic of the Congo - Offshore Oil Terminal 3,Democratic Republic of the Congo,COD,Africa,-6.321000000000001,11.278,11,0,
+fso75,Democratic Republic of the Congo - Offshore Oil Terminal 4,Democratic Republic of the Congo,COD,Africa,-6.068999999999999,11.357999999999999,21,0,
+fso76,Gabon - Offshore Oil Terminal 1,Gabon,GAB,Africa,-4.246999999999999,10.817,8,0,
+fso77,Gabon - Offshore Oil Terminal 2,Gabon,GAB,Africa,-3.885000000000001,10.929999999999998,6,0,
+fso78,Gabon - Offshore Oil Terminal 3,Gabon,GAB,Africa,-0.6320000000000006,8.71700000000001,49,0,
+fso79,Ghana - Offshore Oil Terminal 1,Ghana,GHA,Africa,4.598999999999999,-2.891000000000001,20,0,
+fso80,Ghana - Offshore Oil Terminal 2,Ghana,GHA,Africa,4.5900000000000025,-3.137000000000001,11,0,
+fso81,Ghana - Offshore Oil Terminal 3,Ghana,GHA,Africa,4.468,-2.5540000000000007,14,0,
+fso82,India - Offshore Oil Terminal 1,India,IND,Asia & Pacific,16.553,82.59500000000001,0,0,
+fso83,India - Offshore Oil Terminal 2,India,IND,Asia & Pacific,16.37,82.32199999999999,3,0,
+fso84,India - Offshore Oil Terminal 3,India,IND,Asia & Pacific,18.58699999999999,71.03500000000001,9,0,
+fso85,India - Offshore Oil Terminal 4,India,IND,Asia & Pacific,19.011999999999997,71.78499999999997,4,0,
+fso86,Indonesia - Offshore Oil Terminal 1,Indonesia,IDN,Asia & Pacific,-6.139999999999999,107.742,10,0,
+fso87,Indonesia - Offshore Oil Terminal 10,Indonesia,IDN,Asia & Pacific,-6.649000000000002,111.97800000000008,62,0,
+fso88,Indonesia - Offshore Oil Terminal 11,Indonesia,IDN,Asia & Pacific,-7.371000000000005,113.27800000000005,10,0,
+fso89,Indonesia - Offshore Oil Terminal 12,Indonesia,IDN,Asia & Pacific,-6.710000000000002,112.21700000000004,70,0,
+fso90,Indonesia - Offshore Oil Terminal 13,Indonesia,IDN,Asia & Pacific,-0.9170000000000001,104.06800000000004,14,0,
+fso91,Indonesia - Offshore Oil Terminal 14,Indonesia,IDN,Asia & Pacific,-0.9180000000000004,104.08300000000004,55,0,
+fso92,Indonesia - Offshore Oil Terminal 15,Indonesia,IDN,Asia & Pacific,4.130999999999999,105.12799999999994,12,0,
+fso93,Indonesia - Offshore Oil Terminal 2,Indonesia,IDN,Asia & Pacific,-7.252000000000007,114.91800000000006,0,0,
+fso94,Indonesia - Offshore Oil Terminal 3,Indonesia,IDN,Asia & Pacific,5.022999999999999,105.95199999999998,1,0,
+fso95,Indonesia - Offshore Oil Terminal 4,Indonesia,IDN,Asia & Pacific,-5.443,106.24499999999998,1,0,
+fso96,Indonesia - Offshore Oil Terminal 5,Indonesia,IDN,Asia & Pacific,-5.975,106.79900000000002,33,0,
+fso97,Indonesia - Offshore Oil Terminal 6,Indonesia,IDN,Asia & Pacific,-5.439999999999997,105.93999999999991,5,0,
+fso98,Indonesia - Offshore Oil Terminal 7,Indonesia,IDN,Asia & Pacific,5.222000000000002,105.60500000000002,1,0,
+fso99,Indonesia - Offshore Oil Terminal 8,Indonesia,IDN,Asia & Pacific,4.1670000000000025,106.22800000000005,0,0,
+fso100,Indonesia - Offshore Oil Terminal 9,Indonesia,IDN,Asia & Pacific,1.1900000000000004,102.21800000000003,41,0,
+fso101,Israel - Offshore Oil Terminal 1,Israel,ISR,Asia & Pacific,33.20299999999998,34.283000000000015,2,0,
+fso102,Italy - Offshore Oil Terminal 1,Italy,ITA,Europe,42.19999999999999,14.938,2,0,
+fso103,Italy - Offshore Oil Terminal 2,Italy,ITA,Europe,36.55799999999999,14.639000000000003,17,0,
+fso104,Jamaica - Offshore Oil Terminal 1,Jamaica,JAM,North America,17.842999999999996,-77.11700000000002,85,0,
+fso105,Libya - Offshore Oil Terminal 1,Libya,LBY,Africa,33.902,12.669000000000004,9,0,
+fso106,Malaysia - Offshore Oil Terminal 1,Malaysia,MYS,Asia & Pacific,1.2600000000000005,103.46500000000006,324,42,
+fso107,Malaysia - Offshore Oil Terminal 10,Malaysia,MYS,Asia & Pacific,3.5379999999999994,112.81500000000005,7,0,
+fso108,Malaysia - Offshore Oil Terminal 11,Malaysia,MYS,Asia & Pacific,7.120000000000002,103.43499999999996,1,0,
+fso109,Malaysia - Offshore Oil Terminal 12,Malaysia,MYS,Asia & Pacific,4.268000000000002,103.51300000000003,2,0,
+fso110,Malaysia - Offshore Oil Terminal 13,Malaysia,MYS,Asia & Pacific,5.874999999999999,114.298,6,0,
+fso111,Malaysia - Offshore Oil Terminal 14,Malaysia,MYS,Asia & Pacific,5.173000000000001,115.39800000000002,0,0,
+fso112,Malaysia - Offshore Oil Terminal 15,Malaysia,MYS,Asia & Pacific,7.384000000000001,115.85399999999996,1,0,
+fso113,Malaysia - Offshore Oil Terminal 16,Malaysia,MYS,Asia & Pacific,1.2900000000000007,103.40100000000008,315,2,
+fso114,Malaysia - Offshore Oil Terminal 17,Malaysia,MYS,Asia & Pacific,4.787,113.49600000000001,2,0,
+fso115,Malaysia - Offshore Oil Terminal 18,Malaysia,MYS,Asia & Pacific,4.297000000000002,104.89100000000005,1,0,
+fso116,Malaysia - Offshore Oil Terminal 2,Malaysia,MYS,Asia & Pacific,2.2555,102.101,19,0,
+fso117,Malaysia - Offshore Oil Terminal 3,Malaysia,MYS,Asia & Pacific,6.447000000000002,115.43500000000003,11,0,
+fso118,Malaysia - Offshore Oil Terminal 4,Malaysia,MYS,Asia & Pacific,6.366999999999998,103.81799999999998,3,0,
+fso119,Malaysia - Offshore Oil Terminal 5,Malaysia,MYS,Asia & Pacific,1.2525000000000004,103.55050000000006,993,380,
+fso120,Malaysia - Offshore Oil Terminal 6,Malaysia,MYS,Asia & Pacific,1.2720000000000011,103.4190000000001,304,3,
+fso121,Malaysia - Offshore Oil Terminal 7,Malaysia,MYS,Asia & Pacific,1.2720000000000007,103.4455,145,6,
+fso122,Malaysia - Offshore Oil Terminal 8,Malaysia,MYS,Asia & Pacific,1.2759999999999998,103.43299999999999,213,1,
+fso123,Malaysia - Offshore Oil Terminal 9,Malaysia,MYS,Asia & Pacific,1.2549999999999994,103.47999999999999,465,66,
+fso124,Mauritania - Offshore Oil Terminal 1,Mauritania,MRT,Africa,16.068000000000005,-16.883,0,0,
+fso125,Mexico - Offshore Oil Terminal 1,Mexico,MEX,North America,18.402999999999995,-93.77199999999996,9,0,
+fso126,Mozambique - Offshore Oil Terminal 1,Mozambique,MOZ,Africa,-11.213,41.13699999999999,23,0,
+fso127,New Zealand - Offshore Oil Terminal 1,New Zealand,NZL,Asia & Pacific,-39.97300000000001,173.29799999999997,4,0,
+fso128,Nigeria - Offshore Oil Terminal 1,Nigeria,NGA,Africa,4.558000000000002,4.616,0,0,
+fso129,Nigeria - Offshore Oil Terminal 10,Nigeria,NGA,Africa,5.528000000000001,4.860000000000004,13,0,
+fso130,Nigeria - Offshore Oil Terminal 11,Nigeria,NGA,Africa,4.033999999999999,7.525,11,0,
+fso131,Nigeria - Offshore Oil Terminal 12,Nigeria,NGA,Africa,3.049999999999999,6.697,1,0,
+fso132,Nigeria - Offshore Oil Terminal 13,Nigeria,NGA,Africa,3.461999999999999,5.559999999999998,0,0,
+fso133,Nigeria - Offshore Oil Terminal 14,Nigeria,NGA,Africa,5.387999999999999,4.590999999999998,2,0,
+fso134,Nigeria - Offshore Oil Terminal 15,Nigeria,NGA,Africa,3.5730000000000004,7.393000000000001,2,0,
+fso135,Nigeria - Offshore Oil Terminal 16,Nigeria,NGA,Africa,5.354999999999998,4.342,0,0,
+fso136,Nigeria - Offshore Oil Terminal 17,Nigeria,NGA,Africa,4.003,7.784000000000001,1,0,
+fso137,Nigeria - Offshore Oil Terminal 18,Nigeria,NGA,Africa,4.102,8.174000000000001,7,0,
+fso138,Nigeria - Offshore Oil Terminal 2,Nigeria,NGA,Africa,5.115000000000001,5.2219999999999995,155,0,
+fso139,Nigeria - Offshore Oil Terminal 3,Nigeria,NGA,Africa,4.222000000000001,8.335999999999999,0,0,
+fso140,Nigeria - Offshore Oil Terminal 4,Nigeria,NGA,Africa,5.0980000000000025,5.209,84,0,
+fso141,Nigeria - Offshore Oil Terminal 5,Nigeria,NGA,Africa,3.137999999999998,6.822000000000001,4,0,
+fso142,Nigeria - Offshore Oil Terminal 6,Nigeria,NGA,Africa,4.403000000000003,7.828000000000002,23,0,
+fso143,Nigeria - Offshore Oil Terminal 7,Nigeria,NGA,Africa,3.9909999999999988,7.290999999999999,0,0,
+fso144,Nigeria - Offshore Oil Terminal 8,Nigeria,NGA,Africa,4.218999999999999,7.392,59,0,
+fso145,Nigeria - Offshore Oil Terminal 9,Nigeria,NGA,Africa,4.8039999999999985,5.313000000000001,7,0,
+fso146,Norway - Offshore Oil Terminal 1,Norway,NOR,Europe,64.272,7.251,10,0,
+fso147,Norway - Offshore Oil Terminal 2,Norway,NOR,Europe,59.56699999999999,1.9949999999999994,49,0,
+fso148,Norway - Offshore Oil Terminal 3,Norway,NOR,Europe,60.498000000000005,2.0749999999999997,14,0,
+fso149,Norway - Offshore Oil Terminal 4,Norway,NOR,Europe,65.13199999999999,6.866,51,0,
+fso150,Norway - Offshore Oil Terminal 5,Norway,NOR,Europe,65.34400000000002,7.364999999999998,22,0,
+fso151,Oman - Offshore Oil Terminal 1,Oman,OMN,Asia & Pacific,19.918000000000013,58.080000000000005,16,0,
+fso152,Philippines - Offshore Oil Terminal 1,Philippines,PHL,Asia & Pacific,13.620000000000001,121.08300000000003,7,0,
+fso153,Republic of Congo - Offshore Oil Terminal 1,Republic of Congo,COG,Africa,-4.472999999999999,11.089999999999995,11,0,
+fso154,Republic of Congo - Offshore Oil Terminal 2,Republic of Congo,COG,Africa,-4.893000000000002,11.882000000000005,2,0,
+fso155,Republic of Congo - Offshore Oil Terminal 3,Republic of Congo,COG,Africa,-5.247000000000002,11.577999999999996,9,0,
+fso156,Russian Federation - Offshore Oil Terminal 1,Russian Federation,RUS,Europe,44.425,49.026999999999994,99,0,
+fso157,Russian Federation - Offshore Oil Terminal 2,Russian Federation,RUS,Europe,53.262000000000015,159.80200000000002,5,0,
+fso158,Saudi Arabia - Offshore Oil Terminal 1,Saudi Arabia,SAU,Asia & Pacific,28.16699999999999,49.916999999999994,0,0,
+fso159,Senegal - Offshore Oil Terminal 1,Senegal,SEN,Africa,13.723000000000006,-17.528000000000013,8,0,
+fso160,Senegal - Offshore Oil Terminal 2,Senegal,SEN,Africa,14.668000000000005,-17.41,49,30,
+fso161,Singapore - Offshore Oil Terminal 1,Singapore,SGP,Asia & Pacific,1.2350384776679677,103.57171135573515,1661,1,
+fso162,Thailand - Offshore Oil Terminal 1,Thailand,THA,Asia & Pacific,8.256999999999996,101.79199999999997,6,0,
+fso163,Thailand - Offshore Oil Terminal 2,Thailand,THA,Asia & Pacific,8.067000000000004,102.337,21,0,
+fso164,Thailand - Offshore Oil Terminal 3,Thailand,THA,Asia & Pacific,11.737000000000004,100.55700000000004,3,0,
+fso165,Thailand - Offshore Oil Terminal 4,Thailand,THA,Asia & Pacific,10.505000000000006,100.27300000000001,2,0,
+fso166,Thailand - Offshore Oil Terminal 5,Thailand,THA,Asia & Pacific,10.519999999999998,101.25799999999997,7,0,
+fso167,Timor-Leste - Offshore Oil Terminal 1,Timor-Leste,TLS,Asia & Pacific,-11.049000000000001,126.61899999999999,7,0,
+fso168,Tunisia - Offshore Oil Terminal 1,Tunisia,TUN,Africa,35.925000000000004,11.567,1,0,
+fso169,United Kingdom - Offshore Oil Terminal 1,United Kingdom,GBR,Europe,59.92499999999998,1.293,13,0,
+fso170,United Kingdom - Offshore Oil Terminal 2,United Kingdom,GBR,Europe,59.608,1.0769999999999997,21,0,
+fso171,United Kingdom - Offshore Oil Terminal 3,United Kingdom,GBR,Europe,58.10100000000002,-1.4380000000000004,4,0,
+fso172,United Kingdom - Offshore Oil Terminal 4,United Kingdom,GBR,Europe,58.352000000000004,0.8620000000000003,5,0,
+fso173,United Kingdom - Offshore Oil Terminal 5,United Kingdom,GBR,Europe,59.358,1.5680000000000003,9,0,
+fso174,United Kingdom - Offshore Oil Terminal 6,United Kingdom,GBR,Europe,60.180000000000014,-3.8699999999999997,4,0,
+fso175,United States - Offshore Oil Terminal 1,United States,USA,North America,26.426999999999992,-90.81199999999998,21,0,
+fso176,Venezuela - Offshore Oil Terminal 1,Venezuela,VEN,South America,10.246999999999995,-62.150999999999996,2,0,
+fso177,Vietnam - Offshore Oil Terminal 1,Vietnam,VNM,Asia & Pacific,10.133000000000001,108.56800000000003,3,0,
+fso178,Vietnam - Offshore Oil Terminal 2,Vietnam,VNM,Asia & Pacific,8.477000000000006,108.69200000000001,2,0,
+fso179,Vietnam - Offshore Oil Terminal 3,Vietnam,VNM,Asia & Pacific,7.345000000000004,108.31300000000006,4,0,
+port2427,Dapilon,Guinea,GIN,Africa,10.841710036327802,-14.500653639991873,14,0,
+port2428,Katougouma,Guinea,GIN,Africa,10.877680463789309,-14.464485308886042,1,0,
+port2429,Taressa,Guinea,GIN,Africa,10.751048601438422,-14.560301735752553,142,0,
+port2430,Alang,India,IND,Asia & Pacific,21.410734173909514,72.19845818658709,6,2,
+port2431,Anadyr,Russian Federation,RUS,Europe,64.73374550316446,177.52551002255433,26,4,RU DYR
+port2432,Awajikoryunotsubasa,Japan,JPN,Asia & Pacific,34.43746212985809,134.9169145012391,47,0,
+port2433,BOPEC terminal,"Bonaire,  Saint Eustatius and Saba",BES,North America,12.215460865588039,-68.38233082905191,0,0,
+port2434,Blyth,United Kingdom,GBR,Europe,55.12916483205057,-1.5092935295122643,191,58,GB BLY
+port2435,Bronka,Russian Federation,RUS,Europe,59.93460923528445,29.69316442926754,497,207,
+port2436,Chemainus,Canada,CAN,North America,48.91829053294558,-123.69760932124751,0,0,CA CHM
+port2437,Corner Brook,Canada,CAN,North America,48.968684037151355,-57.95350892600598,84,28,CA CBK
+port2438,Crofton,Canada,CAN,North America,48.87455023023567,-123.63574650102161,50,7,CA CRO
+port2439,Egvekinot,Russian Federation,RUS,Europe,66.31914569377571,-179.1132443365837,26,4,RU EGV
+port2440,Fall River,United States,USA,North America,41.70433076269749,-71.17279858184477,18,9,US FAV
+port2441,Fecamp,France,FRA,Europe,49.76229902931527,0.3740888554910057,65,0,
+port2442,Fort Bay,"Bonaire,  Saint Eustatius and Saba",BES,North America,17.61625855488518,-63.25135458258921,9,0,
+port2443,Jiuzhou,China,CHN,Asia & Pacific,22.239538399902123,113.58619416734092,0,0,
+port2444,Kholmsk,Russian Federation,RUS,Europe,47.05844430107644,142.04559840057576,87,6,RU KHO
+port2445,Kitimat,Canada,CAN,North America,53.99172246535459,-128.674893840359,54,1,CA KTM
+port2446,Kronshtadt,Russian Federation,RUS,Europe,59.98527388167924,29.75936422674343,1362,327,RU KDT
+port2447,Kumai,Indonesia,IDN,Asia & Pacific,-2.7342893429040123,111.7456649182133,122,5,ID KUM
+port2448,Le Verdon,France,FRA,Europe,45.550113227906614,-1.0493301778715098,53,3,
+port2449,Lerwick,United Kingdom,GBR,Europe,60.16781582344193,-1.1513580832606154,263,3,GB LER
+port2450,Macapa,Brazil,BRA,South America,0.03003011810577422,-51.04664591481632,0,0,
+port2451,Magadan,Russian Federation,RUS,Europe,59.54604767731883,150.75029466418138,164,64,RU GDX
+port2452,Matane,Canada,CAN,North America,48.84343736731968,-67.57499384717445,44,0,CA MNE
+port2453,Morebaya,Guinea,GIN,Africa,9.432173255957991,-13.389006267646936,4,0,
+port2454,Newhaven,United Kingdom,GBR,Europe,50.78864734872563,0.05516528056521966,49,4,GB NHV
+port2455,Okgye,Korea,KOR,Asia & Pacific,37.62236074226603,129.05835525752994,190,1,
+port2456,Pensacola,United States,USA,North America,30.403585280001202,-87.20978476399641,26,0,US PNS
+port2457,Pevek,Russian Federation,RUS,Europe,69.68588293664233,170.24078006662083,72,5,RU PWE
+port2458,Port Mellon,Canada,CAN,North America,49.514319528515,-123.48051641566488,34,9,CA PML
+port2459,Port Vendres,France,FRA,Europe,42.5198258956942,3.111868456634454,2,2,
+port2460,Provideniya,Russian Federation,RUS,Europe,64.42216861869375,-173.22437434186446,8,1,RU PVS
+port2461,Pulau Bunyu,Indonesia,IDN,Asia & Pacific,3.459026862431648,117.83641365888933,3,0,ID PBJ
+port2462,Salem,United States,USA,North America,39.574185594527776,-75.48328044100352,49,49,US AAM
+port2463,Santa Rosalia,Mexico,MEX,North America,27.3384394640668,-112.26033438988405,4,0,MX SRL
+port2464,Saraylar,Türkiye,TUR,Europe,40.657505794262725,27.663503631828355,170,6,TR SRL
+port2465,Scrabster,United Kingdom,GBR,Europe,58.610645276628915,-3.545357355597774,72,25,GB SCR
+port2466,Sebastopol,Ukraine,UKR,Europe,44.57730890363777,33.421252275116665,42,1,
+port2467,Sochi,Russian Federation,RUS,Europe,43.578561474743196,39.71576069406015,1,0,RU AER
+port2468,Sorel,Canada,CAN,North America,46.047048732730154,-73.11910276371337,123,0,CA SOR
+port2469,Squamish,Canada,CAN,North America,49.68639518084204,-123.16419889639525,46,6,CA SQA
+port2470,Swansea,United Kingdom,GBR,Europe,51.614526750749334,-3.9145149559901515,106,10,GB SWA
+port2471,Termini Imerese,Italy,ITA,Europe,37.984088354429026,13.716193024057057,100,7,IT TRI
+port2472,Ternate,Indonesia,IDN,Asia & Pacific,0.7805329066067233,127.38986937889668,159,80,
+port2473,Toulon,France,FRA,Europe,43.10366407657891,5.912869683951469,123,1,FR TLN
+port2474,Tual,Indonesia,IDN,Asia & Pacific,-5.629281713994862,132.740419840683,232,41,ID TUA
+port2475,Weitou,China,CHN,Asia & Pacific,24.51874902288014,118.56651138477359,201,162,CN WIT
+port2476,Zarubino,Russian Federation,RUS,Europe,42.638878846025115,131.0843978311918,81,4,RU ZAR
+fso180,Republic of Congo - Offshore Oil Terminal 4,Republic of Congo,COG,Africa,-4.515515601624257,11.525959570376742,0,0,
+port2477,Abadan,Iran,IRN,Asia & Pacific,30.332150759313542,48.27775739385089,0,0,IR ABD
+port2478,Bahregan,Iran,IRN,Asia & Pacific,29.832803889581644,50.25193205108165,0,0,
+port2479,Basrah Oil Terminal,Iraq,IRQ,Asia & Pacific,29.681608480330027,48.824837389348225,0,0,
+port2480,Calcasieu Pass LNG Terminal,United States,USA,North America,29.786461389377635,-93.33329334293619,0,0,
+port2481,Chhara LNG Terminal,India,IND,Asia & Pacific,20.719951844749172,70.7436301260347,0,0,
+port2482,Egyptian LNG Terminal,Egypt,EGY,Africa,31.36463682625328,30.310526699040828,0,0,
+port2483,Guangzhou Nansha LNG Terminal,China,CHN,Asia & Pacific,22.820910287889106,113.56447006438621,0,0,
+port2484,Gulf of Saros FSRU,Türkiye,TUR,Europe,40.63423296960832,26.657554806656645,0,0,
+port2485,Huizhou LNG Terminal,China,CHN,Asia & Pacific,22.604199632050985,114.73995403394875,0,0,
+port2486,Jask,Iran,IRN,Asia & Pacific,25.65683066460673,57.768566432065185,0,0,IR JAK
+port2487,Kiyanly LNG Terminal,Turkmenistan,TKM,Asia & Pacific,40.16366077014843,52.76308109232655,0,0,
+port2488,Kollsnes LNG Terminal,Norway,NOR,Europe,60.54631032827087,4.834858103395113,0,0,
+port2489,Krk,Croatia,HRV,Europe,45.19989780397726,14.53575099722839,0,0,
+port2490,LNG Canada Terminal,Canada,CAN,North America,53.920210933156504,-128.7487636994465,0,0,
+port2491,Liuheng LNG Terminal,China,CHN,Asia & Pacific,29.70801679179115,122.06548383504945,0,0,
+port2492,Lysekil LNG Terminal,Sweden,SWE,Europe,58.271608000259064,11.450667689570995,0,0,
+port2493,Mina Al Zour,Kuwait,KWT,Asia & Pacific,28.709723935656893,48.39148159230054,0,0,
+port2494,Mosjoen LNG Terminal,Norway,NOR,Europe,65.85022880636055,13.182495233285852,0,0,
+port2495,Mowi LNG Terminal,United Kingdom,GBR,Europe,57.27294661122158,-5.72717954218106,0,0,
+port2496,Nagasaki LNG Terminal,Japan,JPN,Asia & Pacific,32.75777415597222,129.80926713254635,0,0,
+port2497,Nakagusuku LNG Terminal,Japan,JPN,Asia & Pacific,26.269535555227186,127.81733581265274,0,0,
+port2498,Paldiski FSRU,Estonia,EST,Europe,59.39054290961446,24.07482548132589,0,0,
+port2499,Portovaya LNG Terminal,Russian Federation,RUS,Europe,60.513176778963526,28.147982384557668,0,0,
+port2500,Qidong,China,CHN,Asia & Pacific,32.06227409518361,121.73260508187505,0,0,
+port2501,Snurrevarden,Norway,NOR,Europe,59.32450602905339,5.3006826624695,0,0,
+port2502,Taoyuan LNG Terminal,Taiwan Province of China,TWN,Asia & Pacific,25.037198317605412,121.05341775399802,0,0,
+port2503,Utrenny LNG terminal,Russian Federation,RUS,Europe,70.9915616738998,73.81754307407516,0,0,
+port2504,Wenzhou Huagang,China,CHN,Asia & Pacific,27.899172214451013,121.12178483241269,0,0,
+port2505,Wenzhou LNG Terminal,China,CHN,Asia & Pacific,28.006254025459647,121.07293351679134,0,0,
+port2506,Woodfibre LNG Terminal,Canada,CAN,North America,49.66464480869747,-123.25162935184521,0,0,
+port2507,Yancheng,China,CHN,Asia & Pacific,34.29697046466422,120.27855945133764,0,0,
+port2508,Zhangzhou LNG Terminal,China,CHN,Asia & Pacific,24.283851978106735,118.12163045108677,0,0,

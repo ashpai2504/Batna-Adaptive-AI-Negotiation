@@ -11,6 +11,7 @@ Outputs
 """
 from __future__ import annotations
 
+import argparse
 import json
 import os
 import shutil
@@ -27,11 +28,13 @@ from negotiation_sim.agents import AGENTS, DynamicBATNAAgent, StaticThresholdAge
 from negotiation_sim.db import NetworkDB
 from negotiation_sim.env import Config, MultiEchelonEnv, ShockProcess, sample_scenario
 from negotiation_sim.geodata import DISTRIBUTOR, PORTS, ShockSampler, load_disruptions
+from negotiation_sim.realdata import load_real_disruptions
 from negotiation_sim.train import cem
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-for d in ("data", "results", "figures"):
-    os.makedirs(os.path.join(ROOT, d), exist_ok=True)
+DATA_MODE = "mock"
+RES = os.path.join(ROOT, "results")
+FIG = os.path.join(ROOT, "figures")
 
 N_EPISODES = 50
 N_REPLICATIONS = 10
@@ -79,7 +82,7 @@ def write_csv(df, name):
             out[c] = out[c].map(lambda x: ASCII_NAMES.get(x, x))
     lead = [c for c in LEAD_COLS if c in out.columns]
     out = out[lead + [c for c in out.columns if c not in lead]]
-    out.round(4).to_csv(os.path.join(ROOT, "results", name), index=False)
+    out.round(4).to_csv(os.path.join(RES, name), index=False)
 
 
 def evaluate(policies, cfg, sampler, n, seed0, db_path=None, conditions=(False, True)):
@@ -101,10 +104,26 @@ def evaluate(policies, cfg, sampler, n, seed0, db_path=None, conditions=(False, 
 
 
 def main():
+    global DATA_MODE, RES, FIG
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--data", choices=["mock", "real"], default="mock",
+                    help="mock = synthetic v0.1 table; real = PortWatch measured impacts + calibrated lambda")
+    DATA_MODE = ap.parse_args().data
+    if DATA_MODE == "real":
+        RES, FIG = os.path.join(ROOT, "results", "real"), os.path.join(ROOT, "figures", "real")
+    for d in (os.path.join(ROOT, "data"), RES, FIG):
+        os.makedirs(d, exist_ok=True)
+
     t0 = time.time()
-    cfg = Config()
-    geo = load_disruptions()
-    geo.to_csv(os.path.join(ROOT, "data", "mock_kaggle_geo_disruptions.csv"), index=False)
+    if DATA_MODE == "real":
+        with open(os.path.join(RES, "calibration.json")) as f:
+            calib = json.load(f)
+        cfg = Config(lam=calib["lambda_per_turn"])
+        geo = load_real_disruptions()
+    else:
+        cfg = Config()
+        geo = load_disruptions()
+        geo.to_csv(os.path.join(ROOT, "data", "mock_kaggle_geo_disruptions.csv"), index=False)
     sampler = ShockSampler(geo)
 
     # ------------------------------------------------------------ training
@@ -124,7 +143,7 @@ def main():
     write_csv(hist_df, "training_history.csv")
 
     # ------------------------------------------------------------ main 50-episode benchmark
-    dbp = os.path.join(ROOT, "results", "network.db")
+    dbp = os.path.join(RES, "network.db")
     if os.path.exists(dbp):
         os.remove(dbp)
     main_df = evaluate(policies, cfg, sampler, N_EPISODES, EVAL_SEED, db_path=dbp)
@@ -204,6 +223,7 @@ def main():
         downstream_contracts=con.execute("SELECT COUNT(*) FROM downstream_contracts").fetchone()[0],
     )
     out = dict(
+        data_mode=DATA_MODE,
         config=cfg.__dict__,
         policies={cls.name: dict(zip(["a_u", "beta_u", "a_d", "beta_d"], np.round(th, 4).tolist()))
                   for cls, th in policies},
@@ -220,13 +240,14 @@ def main():
         db=db_stats,
         runtime_sec=round(time.time() - t0, 1),
     )
-    with open(os.path.join(ROOT, "results", "summary.json"), "w") as f:
+    with open(os.path.join(RES, "summary.json"), "w") as f:
         json.dump(out, f, indent=2, default=float)
     cols = ["agent", "condition", "rho_dn", "dn_deal", "chain_impasse", "avoidable_impasse", "below_true_batna",
             "stockout", "pareto_efficient", "rho_up", "up_deal", "first_bid_ratio", "rho_dn_deliverable", "net_value"]
     print(summ[cols].round(3).to_string(index=False))
     print(tests[tests.metric == "net_value"].round(4).to_string(index=False))
-    build_review_package()
+    if DATA_MODE == "mock":
+        build_review_package()
     print(f"done in {time.time() - t0:.1f}s")
 
 
@@ -242,7 +263,8 @@ def build_review_package():
     for f in REVIEW_FILES:
         shutil.copy2(os.path.join(ROOT, "results", f), os.path.join(pkg, "data", f))
     for f in os.listdir(os.path.join(ROOT, "figures")):
-        shutil.copy2(os.path.join(ROOT, "figures", f), os.path.join(pkg, "figures", f))
+        if f.endswith(".png"):
+            shutil.copy2(os.path.join(ROOT, "figures", f), os.path.join(pkg, "figures", f))
     shutil.copy2(os.path.join(ROOT, "data", "mock_kaggle_geo_disruptions.csv"),
                  os.path.join(pkg, "data", "mock_geo_disruptions_SYNTHETIC.csv"))
     shutil.copy2(os.path.join(ROOT, "Research_Proposal.md"), os.path.join(pkg, "Research_Proposal.md"))
@@ -266,9 +288,13 @@ def fig_geodata(geo, sampler):
     ax.scatter([DISTRIBUTOR[2] % 360], [DISTRIBUTOR[1]], marker="*", s=160, color="k", zorder=5,
                label="Phoenix DC (agent)")
     ax.set_xlabel("longitude (°E, Pacific-centred)"); ax.set_ylabel("latitude")
-    ax.set_title(f"Mock geospatial disruption table (n={len(geo)} events, 2019–2025); marker size ∝ severity")
+    if DATA_MODE == "real":
+        yrs = f"{geo.event_date.min():%Y}–{geo.event_date.max():%Y}"
+        ax.set_title(f"Real port impacts, IMF PortWatch/GDACS (n={len(geo)} event-port pairs, {yrs}); size ∝ measured severity")
+    else:
+        ax.set_title(f"Mock geospatial disruption table (n={len(geo)} events, 2019–2025); marker size ∝ severity")
     ax.legend(fontsize=6, loc="center left", bbox_to_anchor=(1.01, 0.5), markerscale=0.8, frameon=False)
-    fig.savefig(os.path.join(ROOT, "figures", "fig1_geodata.png"))
+    fig.savefig(os.path.join(FIG, "fig1_geodata.png"))
     plt.close(fig)
 
 
@@ -305,7 +331,7 @@ def fig_main(summ):
     fig.legend(h, l, fontsize=7, frameon=False, ncol=4, loc="upper center", bbox_to_anchor=(0.5, 0.965))
     fig.suptitle(f"Preliminary benchmark: {N_EPISODES} paired episodes per condition (95% bootstrap CIs)", fontsize=9)
     fig.tight_layout(rect=(0, 0, 1, 0.94))
-    fig.savefig(os.path.join(ROOT, "figures", "fig2_main_results.png"))
+    fig.savefig(os.path.join(FIG, "fig2_main_results.png"))
     plt.close(fig)
 
 
@@ -337,7 +363,7 @@ def fig_dynamics(main_df, policies, cfg, sampler, sens):
     ax.set_xlabel("true κ (agent assumes κ=0.6)"); ax.set_ylabel("deals below true BATNA (%)")
     ax.set_title("(c) κ misspecification"); ax.legend(fontsize=6, frameon=False)
     fig.tight_layout()
-    fig.savefig(os.path.join(ROOT, "figures", "fig3_dynamics_sensitivity.png"))
+    fig.savefig(os.path.join(FIG, "fig3_dynamics_sensitivity.png"))
     plt.close(fig)
 
 
@@ -354,7 +380,7 @@ def fig_training(hist):
     axs[1].set_xlabel("CEM iteration"); axs[1].set_ylabel("opening aspiration $a_d$")
     axs[1].set_title("(b) Learned downstream opening aspiration"); axs[1].legend(fontsize=6, frameon=False)
     fig.tight_layout()
-    fig.savefig(os.path.join(ROOT, "figures", "fig4_training.png"))
+    fig.savefig(os.path.join(FIG, "fig4_training.png"))
     plt.close(fig)
 
 

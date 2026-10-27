@@ -1,4 +1,6 @@
 # Secrets / local env
+.env
+.env.*
 .venv/
 __pycache__/
 *.pyc
@@ -14,3 +16,9 @@ __pycache__/
 .vscode/
 *.egg-info/
 .pytest_cache/
+
+# LLM response cache (regenerable, large)
+results/llm/cache/
+results/llm/cache_ollama/
+results/llm/cache_azure_v1/
+results/llm/fake/

@@ -1,0 +1,910 @@
+{
+ "A": {
+  "summary": [
+   {
+    "buyer": "Dynamic-BATNA",
+    "seller": "neutral",
+    "condition": "no-shock",
+    "n": 15,
+    "buyer_profit": 0.7152,
+    "buyer_profit_ci": [
+     0.5344,
+     0.9113
+    ],
+    "seller_profit": 0.06,
+    "seller_profit_ci": [
+     0.0178,
+     0.1119
+    ],
+    "joint_profit": 0.7751,
+    "joint_profit_ci": [
+     0.5945,
+     0.9699
+    ],
+    "deal": 0.3333,
+    "deal_ci": [
+     0.1333,
+     0.6
+    ],
+    "below_batna": 0.0,
+    "below_batna_ci": [
+     0.0,
+     0.0
+    ],
+    "below_static_ref": 0.0,
+    "below_static_ref_ci": [
+     0.0,
+     0.0
+    ],
+    "first_bid_ratio": 0.9676,
+    "first_bid_ratio_ci": [
+     0.945,
+     0.9908
+    ],
+    "deal_price_ratio": 0.9709,
+    "deal_price_ratio_ci": [
+     0.9396,
+     0.998
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "buyer": "Dynamic-BATNA",
+    "seller": "neutral",
+    "condition": "shock",
+    "n": 15,
+    "buyer_profit": 0.5807,
+    "buyer_profit_ci": [
+     0.4265,
+     0.7628
+    ],
+    "seller_profit": 0.3118,
+    "seller_profit_ci": [
+     0.2352,
+     0.394
+    ],
+    "joint_profit": 0.8925,
+    "joint_profit_ci": [
+     0.7181,
+     1.0836
+    ],
+    "deal": 1.0,
+    "deal_ci": [
+     1.0,
+     1.0
+    ],
+    "below_batna": 0.0667,
+    "below_batna_ci": [
+     0.0,
+     0.2
+    ],
+    "below_static_ref": 0.8667,
+    "below_static_ref_ci": [
+     0.6667,
+     1.0
+    ],
+    "first_bid_ratio": 0.9769,
+    "first_bid_ratio_ci": [
+     0.9499,
+     1.0031
+    ],
+    "deal_price_ratio": 1.1247,
+    "deal_price_ratio_ci": [
+     1.0626,
+     1.1936
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "buyer": "Static-BATNA",
+    "seller": "neutral",
+    "condition": "no-shock",
+    "n": 14,
+    "buyer_profit": 0.7236,
+    "buyer_profit_ci": [
+     0.5407,
+     0.9278
+    ],
+    "seller_profit": 0.1042,
+    "seller_profit_ci": [
+     0.0441,
+     0.1725
+    ],
+    "joint_profit": 0.8278,
+    "joint_profit_ci": [
+     0.6293,
+     1.0441
+    ],
+    "deal": 0.5,
+    "deal_ci": [
+     0.2143,
+     0.7857
+    ],
+    "below_batna": 0.0714,
+    "below_batna_ci": [
+     0.0,
+     0.2143
+    ],
+    "below_static_ref": 0.0714,
+    "below_static_ref_ci": [
+     0.0,
+     0.2143
+    ],
+    "first_bid_ratio": 0.976,
+    "first_bid_ratio_ci": [
+     0.951,
+     1.0008
+    ],
+    "deal_price_ratio": 1.003,
+    "deal_price_ratio_ci": [
+     0.9862,
+     1.0235
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "buyer": "Static-BATNA",
+    "seller": "neutral",
+    "condition": "shock",
+    "n": 15,
+    "buyer_profit": 0.4649,
+    "buyer_profit_ci": [
+     0.3047,
+     0.6501
+    ],
+    "seller_profit": 0.0545,
+    "seller_profit_ci": [
+     0.0134,
+     0.1064
+    ],
+    "joint_profit": 0.5194,
+    "joint_profit_ci": [
+     0.3371,
+     0.7309
+    ],
+    "deal": 0.3333,
+    "deal_ci": [
+     0.1333,
+     0.6
+    ],
+    "below_batna": 0.0,
+    "below_batna_ci": [
+     0.0,
+     0.0
+    ],
+    "below_static_ref": 0.0,
+    "below_static_ref_ci": [
+     0.0,
+     0.0
+    ],
+    "first_bid_ratio": 0.9617,
+    "first_bid_ratio_ci": [
+     0.9325,
+     0.9905
+    ],
+    "deal_price_ratio": 0.9976,
+    "deal_price_ratio_ci": [
+     0.9927,
+     1.0
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "buyer": "Surplus",
+    "seller": "neutral",
+    "condition": "no-shock",
+    "n": 15,
+    "buyer_profit": 0.6817,
+    "buyer_profit_ci": [
+     0.5044,
+     0.881
+    ],
+    "seller_profit": 0.1264,
+    "seller_profit_ci": [
+     0.0602,
+     0.1961
+    ],
+    "joint_profit": 0.8081,
+    "joint_profit_ci": [
+     0.6051,
+     1.0247
+    ],
+    "deal": 0.6,
+    "deal_ci": [
+     0.3333,
+     0.8667
+    ],
+    "below_batna": 0.3333,
+    "below_batna_ci": [
+     0.1333,
+     0.6
+    ],
+    "below_static_ref": 0.3333,
+    "below_static_ref_ci": [
+     0.1333,
+     0.6
+    ],
+    "first_bid_ratio": 0.9687,
+    "first_bid_ratio_ci": [
+     0.9436,
+     0.9929
+    ],
+    "deal_price_ratio": 1.0396,
+    "deal_price_ratio_ci": [
+     1.0095,
+     1.0743
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "buyer": "Surplus",
+    "seller": "neutral",
+    "condition": "shock",
+    "n": 14,
+    "buyer_profit": 0.5529,
+    "buyer_profit_ci": [
+     0.3591,
+     0.7614
+    ],
+    "seller_profit": 0.2579,
+    "seller_profit_ci": [
+     0.1655,
+     0.349
+    ],
+    "joint_profit": 0.8108,
+    "joint_profit_ci": [
+     0.5849,
+     1.0479
+    ],
+    "deal": 0.8571,
+    "deal_ci": [
+     0.6429,
+     1.0
+    ],
+    "below_batna": 0.0714,
+    "below_batna_ci": [
+     0.0,
+     0.2143
+    ],
+    "below_static_ref": 0.7143,
+    "below_static_ref_ci": [
+     0.4286,
+     0.9286
+    ],
+    "first_bid_ratio": 0.9699,
+    "first_bid_ratio_ci": [
+     0.9471,
+     0.9931
+    ],
+    "deal_price_ratio": 1.1203,
+    "deal_price_ratio_ci": [
+     1.0551,
+     1.1945
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   }
+  ],
+  "tests": [
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "buyer_profit",
+    "n_pairs": 15,
+    "diff": 0.0334,
+    "ci_lo": 0.0129,
+    "ci_hi": 0.0576,
+    "p": 0.0114
+   },
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "seller_profit",
+    "n_pairs": 15,
+    "diff": -0.0664,
+    "ci_lo": -0.1216,
+    "ci_hi": -0.0143,
+    "p": 0.0434
+   },
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "joint_profit",
+    "n_pairs": 15,
+    "diff": -0.033,
+    "ci_lo": -0.0859,
+    "ci_hi": 0.0181,
+    "p": 0.2605
+   },
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "deal",
+    "n_pairs": 15,
+    "diff": -0.2667,
+    "ci_lo": -0.5333,
+    "ci_hi": 0.0,
+    "p": 0.231
+   },
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "below_batna",
+    "n_pairs": 15,
+    "diff": -0.3333,
+    "ci_lo": -0.6,
+    "ci_hi": -0.1333,
+    "p": 0.0608
+   },
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "buyer_profit",
+    "n_pairs": 14,
+    "diff": 0.0119,
+    "ci_lo": -0.0019,
+    "ci_hi": 0.028,
+    "p": 0.1972
+   },
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "seller_profit",
+    "n_pairs": 14,
+    "diff": -0.0474,
+    "ci_lo": -0.1302,
+    "ci_hi": 0.0304,
+    "p": 0.3031
+   },
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "joint_profit",
+    "n_pairs": 14,
+    "diff": -0.0355,
+    "ci_lo": -0.1177,
+    "ci_hi": 0.0441,
+    "p": 0.4221
+   },
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "deal",
+    "n_pairs": 14,
+    "diff": -0.2143,
+    "ci_lo": -0.5714,
+    "ci_hi": 0.1429,
+    "p": 0.4483
+   },
+   {
+    "condition": "no-shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "below_batna",
+    "n_pairs": 14,
+    "diff": -0.0714,
+    "ci_lo": -0.2143,
+    "ci_hi": 0.0,
+    "p": 1.0
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "buyer_profit",
+    "n_pairs": 14,
+    "diff": 0.0152,
+    "ci_lo": -0.0566,
+    "ci_hi": 0.0979,
+    "p": 0.7091
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "seller_profit",
+    "n_pairs": 14,
+    "diff": 0.0654,
+    "ci_lo": -0.0263,
+    "ci_hi": 0.1638,
+    "p": 0.2222
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "joint_profit",
+    "n_pairs": 14,
+    "diff": 0.0806,
+    "ci_lo": 0.0,
+    "ci_hi": 0.2079,
+    "p": 0.4961
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "deal",
+    "n_pairs": 14,
+    "diff": 0.1429,
+    "ci_lo": 0.0,
+    "ci_hi": 0.3571,
+    "p": 0.4961
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Surplus",
+    "metric": "below_batna",
+    "n_pairs": 14,
+    "diff": 0.0,
+    "ci_lo": -0.2143,
+    "ci_hi": 0.2143,
+    "p": 1.0
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "buyer_profit",
+    "n_pairs": 15,
+    "diff": 0.1158,
+    "ci_lo": 0.0095,
+    "ci_hi": 0.2393,
+    "p": 0.0918
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "seller_profit",
+    "n_pairs": 15,
+    "diff": 0.2573,
+    "ci_lo": 0.1542,
+    "ci_hi": 0.3609,
+    "p": 0.0008
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "joint_profit",
+    "n_pairs": 15,
+    "diff": 0.3731,
+    "ci_lo": 0.1993,
+    "ci_hi": 0.5672,
+    "p": 0.0026
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "deal",
+    "n_pairs": 15,
+    "diff": 0.6667,
+    "ci_lo": 0.4,
+    "ci_hi": 0.8667,
+    "p": 0.0026
+   },
+   {
+    "condition": "shock",
+    "comparison": "Dynamic-BATNA - Static-BATNA",
+    "metric": "below_batna",
+    "n_pairs": 15,
+    "diff": 0.0667,
+    "ci_lo": 0.0,
+    "ci_hi": 0.2,
+    "p": 1.0
+   }
+  ],
+  "n_episodes": 88,
+  "outcomes": [
+   {
+    "buyer": "Dynamic-BATNA",
+    "seller": "neutral",
+    "cond": "no-shock",
+    "deal": 5,
+    "impasse": 9,
+    "walk_buyer": 1
+   },
+   {
+    "buyer": "Dynamic-BATNA",
+    "seller": "neutral",
+    "cond": "shock",
+    "deal": 15,
+    "impasse": 0,
+    "walk_buyer": 0
+   },
+   {
+    "buyer": "Static-BATNA",
+    "seller": "neutral",
+    "cond": "no-shock",
+    "deal": 7,
+    "impasse": 5,
+    "walk_buyer": 2
+   },
+   {
+    "buyer": "Static-BATNA",
+    "seller": "neutral",
+    "cond": "shock",
+    "deal": 5,
+    "impasse": 8,
+    "walk_buyer": 2
+   },
+   {
+    "buyer": "Surplus",
+    "seller": "neutral",
+    "cond": "no-shock",
+    "deal": 9,
+    "impasse": 4,
+    "walk_buyer": 2
+   },
+   {
+    "buyer": "Surplus",
+    "seller": "neutral",
+    "cond": "shock",
+    "deal": 12,
+    "impasse": 2,
+    "walk_buyer": 0
+   }
+  ]
+ },
+ "B": {
+  "summary": [
+   {
+    "buyer": "Dynamic-BATNA",
+    "seller": "emotional",
+    "condition": "shock",
+    "n": 15,
+    "buyer_profit": 0.5161,
+    "buyer_profit_ci": [
+     0.3525,
+     0.6986
+    ],
+    "seller_profit": 0.2329,
+    "seller_profit_ci": [
+     0.1254,
+     0.3514
+    ],
+    "joint_profit": 0.749,
+    "joint_profit_ci": [
+     0.5524,
+     0.9642
+    ],
+    "deal": 0.6667,
+    "deal_ci": [
+     0.4,
+     0.8667
+    ],
+    "below_batna": 0.0,
+    "below_batna_ci": [
+     0.0,
+     0.0
+    ],
+    "below_static_ref": 0.6,
+    "below_static_ref_ci": [
+     0.3333,
+     0.8667
+    ],
+    "first_bid_ratio": 0.9649,
+    "first_bid_ratio_ci": [
+     0.9353,
+     0.9939
+    ],
+    "deal_price_ratio": 1.167,
+    "deal_price_ratio_ci": [
+     1.0768,
+     1.2672
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "buyer": "Dynamic-BATNA",
+    "seller": "neutral",
+    "condition": "shock",
+    "n": 14,
+    "buyer_profit": 0.6237,
+    "buyer_profit_ci": [
+     0.4724,
+     0.7968
+    ],
+    "seller_profit": 0.2901,
+    "seller_profit_ci": [
+     0.2072,
+     0.3812
+    ],
+    "joint_profit": 0.9138,
+    "joint_profit_ci": [
+     0.7341,
+     1.1075
+    ],
+    "deal": 1.0,
+    "deal_ci": [
+     1.0,
+     1.0
+    ],
+    "below_batna": 0.0,
+    "below_batna_ci": [
+     0.0,
+     0.0
+    ],
+    "below_static_ref": 0.7143,
+    "below_static_ref_ci": [
+     0.5,
+     0.9286
+    ],
+    "first_bid_ratio": 0.9683,
+    "first_bid_ratio_ci": [
+     0.9402,
+     0.9954
+    ],
+    "deal_price_ratio": 1.0988,
+    "deal_price_ratio_ci": [
+     1.033,
+     1.1733
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "buyer": "Surplus",
+    "seller": "emotional",
+    "condition": "shock",
+    "n": 15,
+    "buyer_profit": 0.4884,
+    "buyer_profit_ci": [
+     0.3301,
+     0.6778
+    ],
+    "seller_profit": 0.2405,
+    "seller_profit_ci": [
+     0.1226,
+     0.3706
+    ],
+    "joint_profit": 0.7289,
+    "joint_profit_ci": [
+     0.5307,
+     0.9451
+    ],
+    "deal": 0.6,
+    "deal_ci": [
+     0.3333,
+     0.8667
+    ],
+    "below_batna": 0.0667,
+    "below_batna_ci": [
+     0.0,
+     0.2
+    ],
+    "below_static_ref": 0.5333,
+    "below_static_ref_ci": [
+     0.2667,
+     0.8
+    ],
+    "first_bid_ratio": 0.9612,
+    "first_bid_ratio_ci": [
+     0.9356,
+     0.9868
+    ],
+    "deal_price_ratio": 1.2054,
+    "deal_price_ratio_ci": [
+     1.0996,
+     1.3127
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   },
+   {
+    "buyer": "Surplus",
+    "seller": "neutral",
+    "condition": "shock",
+    "n": 15,
+    "buyer_profit": 0.5461,
+    "buyer_profit_ci": [
+     0.3687,
+     0.7379
+    ],
+    "seller_profit": 0.2324,
+    "seller_profit_ci": [
+     0.1493,
+     0.3156
+    ],
+    "joint_profit": 0.7784,
+    "joint_profit_ci": [
+     0.5847,
+     0.9918
+    ],
+    "deal": 0.8,
+    "deal_ci": [
+     0.6,
+     1.0
+    ],
+    "below_batna": 0.0667,
+    "below_batna_ci": [
+     0.0,
+     0.2
+    ],
+    "below_static_ref": 0.6,
+    "below_static_ref_ci": [
+     0.3333,
+     0.8667
+    ],
+    "first_bid_ratio": 0.971,
+    "first_bid_ratio_ci": [
+     0.9432,
+     0.9999
+    ],
+    "deal_price_ratio": 1.1051,
+    "deal_price_ratio_ci": [
+     1.0421,
+     1.1796
+    ],
+    "parse_fail": 0.0,
+    "parse_fail_ci": [
+     0.0,
+     0.0
+    ]
+   }
+  ],
+  "tests": [
+   {
+    "condition": "buyer=Surplus",
+    "comparison": "emotional - neutral seller",
+    "metric": "buyer_profit",
+    "n_pairs": 15,
+    "diff": -0.0577,
+    "ci_lo": -0.136,
+    "ci_hi": 0.0213,
+    "p": 0.1878
+   },
+   {
+    "condition": "buyer=Surplus",
+    "comparison": "emotional - neutral seller",
+    "metric": "seller_profit",
+    "n_pairs": 15,
+    "diff": 0.0081,
+    "ci_lo": -0.1491,
+    "ci_hi": 0.1662,
+    "p": 0.926
+   },
+   {
+    "condition": "buyer=Surplus",
+    "comparison": "emotional - neutral seller",
+    "metric": "joint_profit",
+    "n_pairs": 15,
+    "diff": -0.0496,
+    "ci_lo": -0.1981,
+    "ci_hi": 0.1205,
+    "p": 0.5555
+   },
+   {
+    "condition": "buyer=Surplus",
+    "comparison": "emotional - neutral seller",
+    "metric": "deal",
+    "n_pairs": 15,
+    "diff": -0.2,
+    "ci_lo": -0.5333,
+    "ci_hi": 0.1333,
+    "p": 0.4425
+   },
+   {
+    "condition": "buyer=Surplus",
+    "comparison": "emotional - neutral seller",
+    "metric": "below_batna",
+    "n_pairs": 15,
+    "diff": 0.0,
+    "ci_lo": -0.2,
+    "ci_hi": 0.2,
+    "p": 1.0
+   },
+   {
+    "condition": "buyer=Dynamic-BATNA",
+    "comparison": "emotional - neutral seller",
+    "metric": "buyer_profit",
+    "n_pairs": 14,
+    "diff": -0.0975,
+    "ci_lo": -0.1521,
+    "ci_hi": -0.0428,
+    "p": 0.0058
+   },
+   {
+    "condition": "buyer=Dynamic-BATNA",
+    "comparison": "emotional - neutral seller",
+    "metric": "seller_profit",
+    "n_pairs": 14,
+    "diff": -0.0406,
+    "ci_lo": -0.164,
+    "ci_hi": 0.0715,
+    "p": 0.5177
+   },
+   {
+    "condition": "buyer=Dynamic-BATNA",
+    "comparison": "emotional - neutral seller",
+    "metric": "joint_profit",
+    "n_pairs": 14,
+    "diff": -0.1381,
+    "ci_lo": -0.2624,
+    "ci_hi": -0.0317,
+    "p": 0.1256
+   },
+   {
+    "condition": "buyer=Dynamic-BATNA",
+    "comparison": "emotional - neutral seller",
+    "metric": "deal",
+    "n_pairs": 14,
+    "diff": -0.2857,
+    "ci_lo": -0.5714,
+    "ci_hi": -0.0714,
+    "p": 0.1256
+   },
+   {
+    "condition": "buyer=Dynamic-BATNA",
+    "comparison": "emotional - neutral seller",
+    "metric": "below_batna",
+    "n_pairs": 14,
+    "diff": 0.0,
+    "ci_lo": 0.0,
+    "ci_hi": 0.0,
+    "p": 1.0
+   }
+  ],
+  "n_episodes": 59,
+  "outcomes": [
+   {
+    "buyer": "Dynamic-BATNA",
+    "seller": "emotional",
+    "cond": "shock",
+    "deal": 10,
+    "impasse": 2,
+    "walk_buyer": 3
+   },
+   {
+    "buyer": "Dynamic-BATNA",
+    "seller": "neutral",
+    "cond": "shock",
+    "deal": 14,
+    "impasse": 0,
+    "walk_buyer": 0
+   },
+   {
+    "buyer": "Surplus",
+    "seller": "emotional",
+    "cond": "shock",
+    "deal": 9,
+    "impasse": 5,
+    "walk_buyer": 1
+   },
+   {
+    "buyer": "Surplus",
+    "seller": "neutral",
+    "cond": "shock",
+    "deal": 12,
+    "impasse": 3,
+    "walk_buyer": 0
+   }
+  ]
+ }
+}

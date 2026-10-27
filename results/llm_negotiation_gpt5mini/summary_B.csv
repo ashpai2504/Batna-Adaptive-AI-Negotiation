@@ -1,0 +1,5 @@
+buyer,seller,condition,n,buyer_profit,seller_profit,joint_profit,deal,below_batna,below_static_ref,first_bid_ratio,deal_price_ratio,parse_fail
+Dynamic-BATNA,emotional,shock,15,0.5161,0.2329,0.749,0.6667,0.0,0.6,0.9649,1.167,0.0
+Dynamic-BATNA,neutral,shock,14,0.6237,0.2901,0.9138,1.0,0.0,0.7143,0.9683,1.0988,0.0
+Surplus,emotional,shock,15,0.4884,0.2405,0.7289,0.6,0.0667,0.5333,0.9612,1.2054,0.0
+Surplus,neutral,shock,15,0.5461,0.2324,0.7784,0.8,0.0667,0.6,0.971,1.1051,0.0

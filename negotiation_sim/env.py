@@ -269,10 +269,17 @@ class MultiEchelonEnv:
             # ---------------- downstream: multi-issue package ----------------
             if dn["open"]:
                 cap_nom = db.nominal_capacity(ep_id)
-                cap_eff = db.effective_capacity(ep_id, t) if agent.hedge else None
-                agent.observe_capacity(cap_nom, cap_eff)
-                cap_txt = f"nominal={cap_nom:.1f}" + ("" if cap_eff is None else f" effective={cap_eff:.1f}")
-                db.log(ep_id, t, "down", "distributor", "[QUERY_CAPACITY]", cap_txt)
+                if getattr(agent, "tool_driven", False):
+                    # the agent decides whether to call [QUERY_CAPACITY]; each call is logged by the tool
+                    agent.bind_capacity_tool(
+                        lambda: db.nominal_capacity(ep_id),
+                        (lambda: db.effective_capacity(ep_id, t)) if agent.hedge else None,
+                        lambda txt: db.log(ep_id, t, "down", "distributor", "[QUERY_CAPACITY]", txt))
+                else:
+                    cap_eff = db.effective_capacity(ep_id, t) if agent.hedge else None
+                    agent.observe_capacity(cap_nom, cap_eff)
+                    cap_txt = f"nominal={cap_nom:.1f}" + ("" if cap_eff is None else f" effective={cap_eff:.1f}")
+                    db.log(ep_id, t, "down", "distributor", "[QUERY_CAPACITY]", cap_txt)
                 if cap_nom < QTY.min():
                     gated_turns += 1
                 c = dn["counter"]

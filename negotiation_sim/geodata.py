@@ -145,6 +145,8 @@ class ShockSampler:
     def sample(self, lane: Lane, rng):
         s_eff, _, _ = self._exposure(lane)
         idx = np.flatnonzero(s_eff >= self.min_effective)
+        if idx.size == 0:  # no material event near this lane: draw from its closest events
+            idx = np.argsort(-s_eff)[:5]
         w = s_eff[idx] / s_eff[idx].sum()
         i = int(rng.choice(idx, p=w))
         row = self.df.iloc[i]
@@ -152,6 +154,7 @@ class ShockSampler:
             "event_id": row["event_id"],
             "disruption_type": row["disruption_type"],
             "event_port": row["nearest_port"],
+            "event_name": row.get("event_name", row["disruption_type"]),
             "severity_eff": float(min(1.0, s_eff[i])),
             "lead_time_delay_days": float(row["lead_time_delay_days"]),
         }

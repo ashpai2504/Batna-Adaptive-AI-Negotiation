@@ -1,0 +1,21 @@
+condition,comparison,metric,n_pairs,diff,ci_lo,ci_hi,p
+no-shock,Dynamic-BATNA - Surplus,buyer_profit,15,0.0334,0.0129,0.0576,0.0114
+no-shock,Dynamic-BATNA - Surplus,seller_profit,15,-0.0664,-0.1216,-0.0143,0.0434
+no-shock,Dynamic-BATNA - Surplus,joint_profit,15,-0.033,-0.0859,0.0181,0.2605
+no-shock,Dynamic-BATNA - Surplus,deal,15,-0.2667,-0.5333,0.0,0.231
+no-shock,Dynamic-BATNA - Surplus,below_batna,15,-0.3333,-0.6,-0.1333,0.0608
+no-shock,Dynamic-BATNA - Static-BATNA,buyer_profit,14,0.0119,-0.0019,0.028,0.1972
+no-shock,Dynamic-BATNA - Static-BATNA,seller_profit,14,-0.0474,-0.1302,0.0304,0.3031
+no-shock,Dynamic-BATNA - Static-BATNA,joint_profit,14,-0.0355,-0.1177,0.0441,0.4221
+no-shock,Dynamic-BATNA - Static-BATNA,deal,14,-0.2143,-0.5714,0.1429,0.4483
+no-shock,Dynamic-BATNA - Static-BATNA,below_batna,14,-0.0714,-0.2143,0.0,1.0
+shock,Dynamic-BATNA - Surplus,buyer_profit,14,0.0152,-0.0566,0.0979,0.7091
+shock,Dynamic-BATNA - Surplus,seller_profit,14,0.0654,-0.0263,0.1638,0.2222
+shock,Dynamic-BATNA - Surplus,joint_profit,14,0.0806,0.0,0.2079,0.4961
+shock,Dynamic-BATNA - Surplus,deal,14,0.1429,0.0,0.3571,0.4961
+shock,Dynamic-BATNA - Surplus,below_batna,14,0.0,-0.2143,0.2143,1.0
+shock,Dynamic-BATNA - Static-BATNA,buyer_profit,15,0.1158,0.0095,0.2393,0.0918
+shock,Dynamic-BATNA - Static-BATNA,seller_profit,15,0.2573,0.1542,0.3609,0.0008
+shock,Dynamic-BATNA - Static-BATNA,joint_profit,15,0.3731,0.1993,0.5672,0.0026
+shock,Dynamic-BATNA - Static-BATNA,deal,15,0.6667,0.4,0.8667,0.0026
+shock,Dynamic-BATNA - Static-BATNA,below_batna,15,0.0667,0.0,0.2,1.0

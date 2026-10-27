@@ -1,0 +1,7 @@
+{
+ "calls": 77,
+ "cached": 12,
+ "prompt_tokens": 48496,
+ "completion_tokens": 9354,
+ "seconds": 564.8499914110004
+}
