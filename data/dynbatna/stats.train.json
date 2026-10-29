@@ -1,0 +1,62 @@
+{
+ "amazon": {
+  "episodes": 150,
+  "with_events": 115,
+  "notices": 214,
+  "up_events": 85,
+  "down_events": 76,
+  "llm_notices_verified": 214,
+  "llm_notices_attempted": 214,
+  "by_type": {
+   "NEW_OFFER": 72,
+   "PRICE_MOVE": 62,
+   "OFFER_EXPIRY": 14,
+   "RECOVERY": 13
+  }
+ },
+ "craigslist": {
+  "episodes": 150,
+  "with_events": 108,
+  "notices": 202,
+  "up_events": 84,
+  "down_events": 70,
+  "llm_notices_verified": 202,
+  "llm_notices_attempted": 202,
+  "by_type": {
+   "NEW_OFFER": 73,
+   "PRICE_MOVE": 61,
+   "RECOVERY": 11,
+   "OFFER_EXPIRY": 9
+  }
+ },
+ "casino": {
+  "episodes": 150,
+  "with_events": 115,
+  "notices": 193,
+  "up_events": 82,
+  "down_events": 84,
+  "llm_notices_verified": 193,
+  "llm_notices_attempted": 193,
+  "by_type": {
+   "NEW_OFFER": 72,
+   "PRICE_MOVE": 71,
+   "OFFER_EXPIRY": 13,
+   "RECOVERY": 10
+  }
+ },
+ "dnd": {
+  "episodes": 150,
+  "with_events": 100,
+  "notices": 159,
+  "up_events": 67,
+  "down_events": 74,
+  "llm_notices_verified": 159,
+  "llm_notices_attempted": 159,
+  "by_type": {
+   "PRICE_MOVE": 62,
+   "NEW_OFFER": 58,
+   "OFFER_EXPIRY": 12,
+   "RECOVERY": 9
+  }
+ }
+}

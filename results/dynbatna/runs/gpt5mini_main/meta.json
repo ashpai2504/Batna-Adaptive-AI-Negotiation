@@ -1,0 +1,32 @@
+{
+ "name": "gpt5mini_main",
+ "panel": "main",
+ "datasets": [
+  "amazon",
+  "craigslist",
+  "casino",
+  "dnd",
+  "ji"
+ ],
+ "conditions": [
+  "none",
+  "static",
+  "dynamic"
+ ],
+ "learner": {
+  "model": "gpt-5-mini",
+  "max_tokens": 512,
+  "reasoning_effort": "minimal",
+  "sampling": "provider default (temperature=1) for reasoning models"
+ },
+ "opponent": {
+  "model": "gpt-5-mini",
+  "max_tokens": 512,
+  "reasoning_effort": "minimal",
+  "sampling": "provider default (temperature=1) for reasoning models"
+ },
+ "max_turns": 12,
+ "economic_regulation": true,
+ "protocol": "rlvr-batna explicit-allocation-v3 + private event notices",
+ "limit_per_dataset": 0
+}

@@ -1,0 +1,8 @@
+metric,n,diff,ci_lo,ci_hi,p
+deal_rate,125,-0.016,-0.12,0.088,0.8862
+bargained_ratio_dyn,47,0.0158,-0.047,0.0689,0.6069
+reward_dynamic_tau,125,0.0284,-0.0405,0.0979,0.4219
+deal_below_batna,47,-0.0426,-0.1702,0.0851,0.7578
+decision_accuracy,63,0.1132,-0.0172,0.2437,0.1034
+regret,125,-0.0053,-0.056,0.045,0.8508
+learner_format_rate,125,0.0532,-0.0261,0.1348,0.209

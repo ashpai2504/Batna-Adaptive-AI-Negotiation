@@ -1,0 +1,46 @@
+Loading pretrained model
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]Fetching 9 files: 100%|██████████| 9/9 [00:00<00:00, 4442.07it/s]
+Loading datasets
+Training
+Loading fine-tuned weights from results/dynbatna/lora/adapters/0000300_adapters.safetensors
+╭─ [1mmlx_lm.lora[0m ────────────────────────────────────────────────────────────────╮
+│    model           [1mmlx-community/Qwen2.5-1.5B-Instruct-4bit[0m                  │
+│    type            [1mlora · 8 layers · rank 8[0m                                  │
+│    dataset         [1mdata/dynbatna/sft[0m                                         │
+│    optimizer       [1madam · lr 1.0e-04[0m                                         │
+│    batch · iters   [1m1 · 400[0m                                                   │
+│    max seq         [1m2,048[0m                                                     │
+╰──────────────────────────────────────────────────────────────────────────────╯
+Trainable parameters: 0.171% (2.638M/1543.714M)
+  [1miter   train_loss     tok/s     tokens[0m
+     1    [1mval[0m [1m0.880[0m    17.33s
+    20    [1m0.979 ▼[0m    [1m   25[0m      1.4k
+    40    [1m1.178 ▲[0m    [1m   19[0m      2.9k
+    60    [1m1.174 ▼[0m    [1m   15[0m      4.4k
+    80    [1m1.092 ▼[0m    [1m   20[0m      6.0k
+   100    [1mval[0m [1m1.237[0m    24.76s
+   100    [1m1.080 ▼[0m    [1m   17[0m      7.5k
+  [1msave[0m  0000100_adapters.safetensors
+   120    [1m0.934 ▼[0m    [1m   15[0m      8.9k
+   140    [1m0.948 ▲[0m    [1m   14[0m     10.2k
+   160    [1m0.888 ▼[0m    [1m   15[0m     11.7k
+   180    [1m0.977 ▲[0m    [1m   14[0m     13.1k
+   200    [1mval[0m [1m1.073[0m    23.90s
+   200    [1m0.908 ▼[0m    [1m   16[0m     14.6k
+  [1msave[0m  0000200_adapters.safetensors
+   220    [1m0.967 ▲[0m    [1m   14[0m     16.0k
+   240    [1m0.936 ▼[0m    [1m   14[0m     17.4k
+   260    [1m0.849 ▼[0m    [1m   15[0m     19.0k
+   280    [1m0.844 ▼[0m    [1m   14[0m     20.6k
+   300    [1mval[0m [1m0.845[0m    25.47s
+   300    [1m0.884 ▲[0m    [1m   13[0m     22.0k
+  [1msave[0m  0000300_adapters.safetensors
+   320    [1m0.890 ▲[0m    [1m   13[0m     23.3k
+   340    [1m0.879 ▼[0m    [1m   12[0m     24.7k
+   360    [1m0.982 ▲[0m    [1m   13[0m     26.2k
+   380    [1m0.890 ▼[0m    [1m   14[0m     27.7k
+   400    [1mval[0m [1m0.942[0m    26.61s
+   400    [1m0.895 ▲[0m    [1m   13[0m     29.2k
+  [1msave[0m  0000400_adapters.safetensors
+[1mtrain[0m ██████████████████████████████ [1m100%[0m · [1m  400[0m/400
+

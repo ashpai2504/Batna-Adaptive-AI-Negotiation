@@ -1,0 +1,30 @@
+{
+ "name": "qwen1.5b_base_baseline",
+ "panel": "baseline",
+ "datasets": [
+  "amazon",
+  "craigslist",
+  "casino",
+  "dnd",
+  "ji"
+ ],
+ "conditions": [
+  "dynamic"
+ ],
+ "learner": {
+  "model": "mlx-community/Qwen2.5-1.5B-Instruct-4bit",
+  "max_tokens": 400,
+  "reasoning_effort": null,
+  "sampling": "T/top_p as passed"
+ },
+ "opponent": {
+  "model": "gpt-5-mini",
+  "max_tokens": 400,
+  "reasoning_effort": "minimal",
+  "sampling": "provider default (temperature=1) for reasoning models"
+ },
+ "max_turns": 12,
+ "economic_regulation": true,
+ "protocol": "rlvr-batna explicit-allocation-v3 + private event notices",
+ "limit_per_dataset": 25
+}

@@ -1,0 +1,90 @@
+{
+  "schema_version": 1,
+  "seed": 42,
+  "persona_weights": {
+    "none": 1
+  },
+  "panels": [
+    {
+      "panel": "main",
+      "dataset": "amazon",
+      "data_path": "data/ahp/test",
+      "manifest_path": "data/evaluation_manifests/revision/main/amazon.json",
+      "manifest_sha256": "48fae3ffc2141a4343ac12ad050983bdbaeddc2fb91108210db75003e5ae9269",
+      "episodes": 93
+    },
+    {
+      "panel": "baseline",
+      "dataset": "amazon",
+      "data_path": "data/ahp/test",
+      "manifest_path": "data/evaluation_manifests/revision/baseline/amazon.json",
+      "manifest_sha256": "fc11d2e1e6e1c403e4db703f772eab8f590a5c96249e291701aaf365413448e4",
+      "episodes": 50
+    },
+    {
+      "panel": "main",
+      "dataset": "casino",
+      "data_path": "data/casino/ca.test.csv",
+      "manifest_path": "data/evaluation_manifests/revision/main/casino.json",
+      "manifest_sha256": "b5266ddfe9b89f9d233c705642b5a0fb6090e860ef6fed40a44367a4d39d6c8c",
+      "episodes": 124
+    },
+    {
+      "panel": "baseline",
+      "dataset": "casino",
+      "data_path": "data/casino/ca.test.csv",
+      "manifest_path": "data/evaluation_manifests/revision/baseline/casino.json",
+      "manifest_sha256": "3237b6daf4d0059cc1032d0ed9d18fd9a2083c3008b7c906022ab1d10026de69",
+      "episodes": 50
+    },
+    {
+      "panel": "main",
+      "dataset": "dnd",
+      "data_path": "data/dnd/dnd.test.csv",
+      "manifest_path": "data/evaluation_manifests/revision/main/dnd.json",
+      "manifest_sha256": "b1007479ca5c48b028770d1c2b05a6a8958751baec90ef049dd4900e627b9fbd",
+      "episodes": 100
+    },
+    {
+      "panel": "baseline",
+      "dataset": "dnd",
+      "data_path": "data/dnd/dnd.test.csv",
+      "manifest_path": "data/evaluation_manifests/revision/baseline/dnd.json",
+      "manifest_sha256": "a92cb90d01986724be3a06e00595aad281c3708131f3d297a46e4c6db0af0a04",
+      "episodes": 50
+    },
+    {
+      "panel": "main",
+      "dataset": "craigslist",
+      "data_path": "data/craigslist/revision/test.json",
+      "manifest_path": "data/evaluation_manifests/revision/main/craigslist.json",
+      "manifest_sha256": "9811a2565207b4a706fbc5e4d8d0e5160447f44f2ce1c4cd061d1136a46dde09",
+      "episodes": 100
+    },
+    {
+      "panel": "baseline",
+      "dataset": "craigslist",
+      "data_path": "data/craigslist/revision/test.json",
+      "manifest_path": "data/evaluation_manifests/revision/baseline/craigslist.json",
+      "manifest_sha256": "5e1c84ecbe84e683023d0a71572a24c0aeb076d7ed884c26596b203f88d3c0d5",
+      "episodes": 50
+    },
+    {
+      "panel": "main",
+      "dataset": "ji",
+      "data_path": "data/ji/ji.test.json",
+      "manifest_path": "data/evaluation_manifests/revision/main/ji.json",
+      "manifest_sha256": "c3932b5c094c2de940aff43ab853eb629fe1db19809aba9dd46acd6a0c803589",
+      "episodes": 100
+    },
+    {
+      "panel": "baseline",
+      "dataset": "ji",
+      "data_path": "data/ji/ji.test.json",
+      "manifest_path": "data/evaluation_manifests/revision/baseline/ji.json",
+      "manifest_sha256": "282732ee35fc1d3e89eb9674ab8eedfe82f9d7f5654e45523fc51b951eb0a0bb",
+      "episodes": 50
+    }
+  ],
+  "note": "Schedules only. No inference performed. Join panels by scenario_id and repeat; episode_id is panel-local."
+}

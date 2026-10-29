@@ -1,0 +1,15 @@
+{
+ "learner": {
+  "calls": 4561,
+  "cached": 26,
+  "prompt_tokens": 4716155,
+  "completion_tokens": 355859
+ },
+ "opponent": {
+  "calls": 4640,
+  "cached": 27,
+  "prompt_tokens": 4448294,
+  "completion_tokens": 356577
+ },
+ "seconds": 2356.3681128025055
+}

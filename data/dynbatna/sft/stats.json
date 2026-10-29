@@ -1,0 +1,27 @@
+{
+ "rollouts": 594,
+ "kept_episodes": 342,
+ "kept_by_dataset": {
+  "amazon": 61,
+  "craigslist": 49,
+  "casino": 92,
+  "dnd": 140
+ },
+ "kept_outcomes": {
+  "deal": 296,
+  "walk_away": 46
+ },
+ "sft_examples": 687,
+ "valid_episodes": 34,
+ "selection_rule": {
+  "min_reward_dynamic_tau": 0.4,
+  "no_violations": true,
+  "all_turns_well_formed": true,
+  "rational_learner_walkaway_kept": true
+ },
+ "rollout_outcomes": {
+  "deal": 493,
+  "walk_away": 70,
+  "max_turns": 31
+ }
+}

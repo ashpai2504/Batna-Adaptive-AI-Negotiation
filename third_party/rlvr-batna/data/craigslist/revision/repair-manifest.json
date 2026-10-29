@@ -1,0 +1,3106 @@
+{
+  "schema_version": 1,
+  "policy": "test > validation > train; retain source row order; no scenario-UUID grouping",
+  "sources": {
+    "train": {
+      "path": "data/craigslist/train.json",
+      "sha256": "34033ff87565b9fc9eb0efe867e9d3e32456dbe1528cd1683f94a84b09f66ace",
+      "raw_rows": 5247
+    },
+    "validation": {
+      "path": "data/craigslist/validation.json",
+      "sha256": "03b35dc18bd90d87dac46893ac4db8ab3eed51786d192975be68d3bab38e306e",
+      "raw_rows": 597
+    },
+    "test": {
+      "path": "data/craigslist/test.json",
+      "sha256": "c802f15f80ea3066d429375393319d7234daacbd6a26a6ad5afd0ad78a2f7736",
+      "raw_rows": 838
+    }
+  },
+  "outputs": {
+    "train": {
+      "path": "data/craigslist/revision/train.json",
+      "sha256": "7a4e3215bbf82667690e61e972338488c3a1949b439a09bbe57bbb2d7feeea50",
+      "raw_rows": 5190,
+      "removed_rows": 57
+    },
+    "validation": {
+      "path": "data/craigslist/revision/validation.json",
+      "sha256": "006a0a8efc54abd03bab82ad2d1d06b87890ac27de08e9947ca164d900821b98",
+      "raw_rows": 593,
+      "removed_rows": 4
+    },
+    "test": {
+      "path": "data/craigslist/revision/test.json",
+      "sha256": "c802f15f80ea3066d429375393319d7234daacbd6a26a6ad5afd0ad78a2f7736",
+      "raw_rows": 838,
+      "removed_rows": 0
+    }
+  },
+  "excluded_rows": [
+    {
+      "source_split": "train",
+      "source_row_index": 18,
+      "dialogue_uuid": "C_e2781ecd69264b00a4cc25ee96d271c5",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_e2781ecd69264b00a4cc25ee96d271c5"
+        ],
+        [
+          "listing_post_id",
+          "6142745873"
+        ],
+        [
+          "listing_content",
+          "ee434693d93122fce91ee82ef52c39e063069fad3a8e23d77c616204bfb52d2a"
+        ],
+        [
+          "loaded_context",
+          "a49e0871fbb4289d7dcbe0cd95d52090892e961f56583ec004667a317dd707cc"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 329
+        },
+        {
+          "split": "test",
+          "row_index": 342
+        },
+        {
+          "split": "test",
+          "row_index": 362
+        },
+        {
+          "split": "test",
+          "row_index": 377
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 99,
+      "dialogue_uuid": "C_80c3fa18cc89426489b2b2bd9e4ba874",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_80c3fa18cc89426489b2b2bd9e4ba874"
+        ],
+        [
+          "listing_post_id",
+          "6131459128"
+        ],
+        [
+          "listing_content",
+          "fd96d76ebe4ca430118a20a03452750f6fd6adfd6962c966a3748025cd5fbf87"
+        ],
+        [
+          "loaded_context",
+          "17c79b84ca80ea5a7f8248f29a8cde3a6ecf3b2f7d547f3a8e29637f4e404476"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 35
+        },
+        {
+          "split": "test",
+          "row_index": 56
+        },
+        {
+          "split": "test",
+          "row_index": 61
+        },
+        {
+          "split": "test",
+          "row_index": 171
+        },
+        {
+          "split": "test",
+          "row_index": 501
+        },
+        {
+          "split": "test",
+          "row_index": 524
+        },
+        {
+          "split": "test",
+          "row_index": 527
+        },
+        {
+          "split": "test",
+          "row_index": 531
+        },
+        {
+          "split": "test",
+          "row_index": 532
+        },
+        {
+          "split": "test",
+          "row_index": 557
+        },
+        {
+          "split": "test",
+          "row_index": 562
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 125,
+      "dialogue_uuid": "C_a6140f04cffe4df48322fef4d7b1e6de",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_a6140f04cffe4df48322fef4d7b1e6de"
+        ],
+        [
+          "listing_post_id",
+          "6133091704"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "a3817575ccc1b5e054652511a6a4bfeb2a715313e89bb00c4917486ba85db7e9"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 185,
+      "dialogue_uuid": "C_b297de20292d4a3dbbe05bdeae863c52",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_b297de20292d4a3dbbe05bdeae863c52"
+        ],
+        [
+          "listing_post_id",
+          "6131459128"
+        ],
+        [
+          "listing_content",
+          "fd96d76ebe4ca430118a20a03452750f6fd6adfd6962c966a3748025cd5fbf87"
+        ],
+        [
+          "loaded_context",
+          "64ec41f2df1b0b6fd378605b7fcd0d2fe1333c5f49a6c57c763a803ae4e7eb24"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 35
+        },
+        {
+          "split": "test",
+          "row_index": 56
+        },
+        {
+          "split": "test",
+          "row_index": 61
+        },
+        {
+          "split": "test",
+          "row_index": 171
+        },
+        {
+          "split": "test",
+          "row_index": 501
+        },
+        {
+          "split": "test",
+          "row_index": 524
+        },
+        {
+          "split": "test",
+          "row_index": 527
+        },
+        {
+          "split": "test",
+          "row_index": 531
+        },
+        {
+          "split": "test",
+          "row_index": 532
+        },
+        {
+          "split": "test",
+          "row_index": 557
+        },
+        {
+          "split": "test",
+          "row_index": 562
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 313,
+      "dialogue_uuid": "C_5c4c0699d499465d9ca1c3fe4bcfc716",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_5c4c0699d499465d9ca1c3fe4bcfc716"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "bc65990535afbaf386624e286a3a21aa3eea7e24c1af97a8385fce1738adb522"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 326,
+      "dialogue_uuid": "C_1dd61b711a6a4357a458b59bbf46fd4a",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_1dd61b711a6a4357a458b59bbf46fd4a"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "bc65990535afbaf386624e286a3a21aa3eea7e24c1af97a8385fce1738adb522"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 329,
+      "dialogue_uuid": "C_0ef2891eabc147769250e55afbc71c2b",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_0ef2891eabc147769250e55afbc71c2b"
+        ],
+        [
+          "listing_post_id",
+          "6131459128"
+        ],
+        [
+          "listing_content",
+          "fd96d76ebe4ca430118a20a03452750f6fd6adfd6962c966a3748025cd5fbf87"
+        ],
+        [
+          "loaded_context",
+          "17c79b84ca80ea5a7f8248f29a8cde3a6ecf3b2f7d547f3a8e29637f4e404476"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 35
+        },
+        {
+          "split": "test",
+          "row_index": 56
+        },
+        {
+          "split": "test",
+          "row_index": 61
+        },
+        {
+          "split": "test",
+          "row_index": 171
+        },
+        {
+          "split": "test",
+          "row_index": 501
+        },
+        {
+          "split": "test",
+          "row_index": 524
+        },
+        {
+          "split": "test",
+          "row_index": 527
+        },
+        {
+          "split": "test",
+          "row_index": 531
+        },
+        {
+          "split": "test",
+          "row_index": 532
+        },
+        {
+          "split": "test",
+          "row_index": 557
+        },
+        {
+          "split": "test",
+          "row_index": 562
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 425,
+      "dialogue_uuid": "C_880ce47dc8954bfd940c755888987e46",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_880ce47dc8954bfd940c755888987e46"
+        ],
+        [
+          "listing_post_id",
+          "6132607531"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "d02ad190f3bd049ed9823ddcd90d00a29cafe2c198b2345809198df3aa795818"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 594,
+      "dialogue_uuid": "C_275742bf2ed74df991b1e8be83895dfa",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_275742bf2ed74df991b1e8be83895dfa"
+        ],
+        [
+          "listing_post_id",
+          "6133091704"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "1a1450380524bd187fc87e55bfc3dfef61363741bde82a7af3e903b85ba467d1"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 842,
+      "dialogue_uuid": "C_c1549d559b5d4a01b1e396b3e4dc7ce6",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_c1549d559b5d4a01b1e396b3e4dc7ce6"
+        ],
+        [
+          "listing_post_id",
+          "6132607531"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "a3817575ccc1b5e054652511a6a4bfeb2a715313e89bb00c4917486ba85db7e9"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 894,
+      "dialogue_uuid": "C_64c342105e294e7780d7d5487f6c3a5e",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_64c342105e294e7780d7d5487f6c3a5e"
+        ],
+        [
+          "listing_post_id",
+          "6142745873"
+        ],
+        [
+          "listing_content",
+          "ee434693d93122fce91ee82ef52c39e063069fad3a8e23d77c616204bfb52d2a"
+        ],
+        [
+          "loaded_context",
+          "a49e0871fbb4289d7dcbe0cd95d52090892e961f56583ec004667a317dd707cc"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 329
+        },
+        {
+          "split": "test",
+          "row_index": 342
+        },
+        {
+          "split": "test",
+          "row_index": 362
+        },
+        {
+          "split": "test",
+          "row_index": 377
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 985,
+      "dialogue_uuid": "C_5efa990998d8468bae5a86282306ee4f",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_5efa990998d8468bae5a86282306ee4f"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "0e3a8e662d2cff0f7975728e89ad4aaaa896d2f530a27be6a2ce79a51fbd5a02"
+        ],
+        [
+          "loaded_context",
+          "585bac2d913e126de0c1b69ab6a146dac6a0b9abfd51f19b28ccda0bf8f87dee"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1108,
+      "dialogue_uuid": "C_c8189a72f6ee489ba4a83b06bd45d65f",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_c8189a72f6ee489ba4a83b06bd45d65f"
+        ],
+        [
+          "listing_post_id",
+          "6132607531"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "1a1450380524bd187fc87e55bfc3dfef61363741bde82a7af3e903b85ba467d1"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1113,
+      "dialogue_uuid": "C_ef93b78ef0ab451897661635b1564a27",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_ef93b78ef0ab451897661635b1564a27"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "0e3a8e662d2cff0f7975728e89ad4aaaa896d2f530a27be6a2ce79a51fbd5a02"
+        ],
+        [
+          "loaded_context",
+          "4e5b803623001ac790207367800c5b7b7d9e6549c0ae5bf5bb21356adef325e0"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1255,
+      "dialogue_uuid": "C_0cca982c58084cb0a0bfb0b4b9cc0707",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_0cca982c58084cb0a0bfb0b4b9cc0707"
+        ],
+        [
+          "listing_post_id",
+          "6132607531"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "1a1450380524bd187fc87e55bfc3dfef61363741bde82a7af3e903b85ba467d1"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1360,
+      "dialogue_uuid": "C_bd8aaf17f601469c8f94a3a71d8d6de5",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_bd8aaf17f601469c8f94a3a71d8d6de5"
+        ],
+        [
+          "listing_post_id",
+          "6142745873"
+        ],
+        [
+          "listing_content",
+          "ee434693d93122fce91ee82ef52c39e063069fad3a8e23d77c616204bfb52d2a"
+        ],
+        [
+          "loaded_context",
+          "d6f56bf19245d1dfe70d38b1f5d8a0077dbfca97fb52b997e1f52ec5809cb631"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 329
+        },
+        {
+          "split": "test",
+          "row_index": 342
+        },
+        {
+          "split": "test",
+          "row_index": 362
+        },
+        {
+          "split": "test",
+          "row_index": 377
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1537,
+      "dialogue_uuid": "C_e0f48b71717749bfbae94fda8ace627b",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_e0f48b71717749bfbae94fda8ace627b"
+        ],
+        [
+          "listing_post_id",
+          "6131459128"
+        ],
+        [
+          "listing_content",
+          "fd96d76ebe4ca430118a20a03452750f6fd6adfd6962c966a3748025cd5fbf87"
+        ],
+        [
+          "loaded_context",
+          "64ec41f2df1b0b6fd378605b7fcd0d2fe1333c5f49a6c57c763a803ae4e7eb24"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 35
+        },
+        {
+          "split": "test",
+          "row_index": 56
+        },
+        {
+          "split": "test",
+          "row_index": 61
+        },
+        {
+          "split": "test",
+          "row_index": 171
+        },
+        {
+          "split": "test",
+          "row_index": 501
+        },
+        {
+          "split": "test",
+          "row_index": 524
+        },
+        {
+          "split": "test",
+          "row_index": 527
+        },
+        {
+          "split": "test",
+          "row_index": 531
+        },
+        {
+          "split": "test",
+          "row_index": 532
+        },
+        {
+          "split": "test",
+          "row_index": 557
+        },
+        {
+          "split": "test",
+          "row_index": 562
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1568,
+      "dialogue_uuid": "C_1317ff45a2ba4cf7ae62b931b814da73",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_1317ff45a2ba4cf7ae62b931b814da73"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "a70201ff4af7f3f0bc6334be7d4dc18ed838752e1d7ef94beb21ff0e9ac2abe5"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1588,
+      "dialogue_uuid": "C_b350f64ba6e2498f8b34cb3066a961bf",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_b350f64ba6e2498f8b34cb3066a961bf"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "04873cabc29ada7260e62fb85e8f926fc76269eb34c30ca5755155b698b6b900"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1598,
+      "dialogue_uuid": "C_ae3e64559ebc4a40bbe9c4b5e9cf9ceb",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_ae3e64559ebc4a40bbe9c4b5e9cf9ceb"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "04873cabc29ada7260e62fb85e8f926fc76269eb34c30ca5755155b698b6b900"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1681,
+      "dialogue_uuid": "C_8207fb25303b4c7a88c1fe8ab4601dc3",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_8207fb25303b4c7a88c1fe8ab4601dc3"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "04873cabc29ada7260e62fb85e8f926fc76269eb34c30ca5755155b698b6b900"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1740,
+      "dialogue_uuid": "C_fb9b2093cc4e4cac8189fb8836015dec",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_fb9b2093cc4e4cac8189fb8836015dec"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1830,
+      "dialogue_uuid": "C_0b487c208683409aa23f5b4215e61f6f",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_0b487c208683409aa23f5b4215e61f6f"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "04873cabc29ada7260e62fb85e8f926fc76269eb34c30ca5755155b698b6b900"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1865,
+      "dialogue_uuid": "C_7589ce78fafc48efbb453054a21172d0",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_7589ce78fafc48efbb453054a21172d0"
+        ],
+        [
+          "listing_post_id",
+          "6150690653"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ],
+        [
+          "loaded_context",
+          "5dbd005bba1d74fa719b2d06189b1ffbfd00182d9390b2556c89f947854aecc2"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1930,
+      "dialogue_uuid": "C_a7e3f58105104a5d9f0879379653a5dd",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_a7e3f58105104a5d9f0879379653a5dd"
+        ],
+        [
+          "listing_post_id",
+          "6150690653"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1939,
+      "dialogue_uuid": "C_5f01b4a3fb3b40b9832799c1ae80a3e1",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_5f01b4a3fb3b40b9832799c1ae80a3e1"
+        ],
+        [
+          "listing_post_id",
+          "6150690653"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ],
+        [
+          "loaded_context",
+          "2e6b4c1585010cd56a6b00f49a8d3cb9ef11e28605295fd00143f5125be2b95e"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 1987,
+      "dialogue_uuid": "C_8b7d23c0f5944ff0a3280ed0da303399",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_8b7d23c0f5944ff0a3280ed0da303399"
+        ],
+        [
+          "listing_post_id",
+          "6150690653"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2039,
+      "dialogue_uuid": "C_88aac40e0e874f94aeb03c06c550d3e2",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_88aac40e0e874f94aeb03c06c550d3e2"
+        ],
+        [
+          "listing_post_id",
+          "6144471704"
+        ],
+        [
+          "listing_content",
+          "ee434693d93122fce91ee82ef52c39e063069fad3a8e23d77c616204bfb52d2a"
+        ],
+        [
+          "loaded_context",
+          "b9cf12b1d87de0f0fbd5bd14f04f60f1da4c76cac9d3c1c80bfc95a1893fad66"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 329
+        },
+        {
+          "split": "test",
+          "row_index": 342
+        },
+        {
+          "split": "test",
+          "row_index": 362
+        },
+        {
+          "split": "test",
+          "row_index": 377
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2116,
+      "dialogue_uuid": "C_157d93ae39024985ad90240de9b181ca",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_157d93ae39024985ad90240de9b181ca"
+        ],
+        [
+          "listing_post_id",
+          "6151490235"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ],
+        [
+          "loaded_context",
+          "5dbd005bba1d74fa719b2d06189b1ffbfd00182d9390b2556c89f947854aecc2"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2153,
+      "dialogue_uuid": "C_7422b447cf744c13ad07b9273f31bb3c",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_7422b447cf744c13ad07b9273f31bb3c"
+        ],
+        [
+          "listing_post_id",
+          "6151490235"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ],
+        [
+          "loaded_context",
+          "2e6b4c1585010cd56a6b00f49a8d3cb9ef11e28605295fd00143f5125be2b95e"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2185,
+      "dialogue_uuid": "C_80f7a289c98c4131863cede7a9b3fa28",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_80f7a289c98c4131863cede7a9b3fa28"
+        ],
+        [
+          "listing_post_id",
+          "6151490235"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2243,
+      "dialogue_uuid": "C_bf47a3374a4e4bbe8de9b424d1b80c53",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_bf47a3374a4e4bbe8de9b424d1b80c53"
+        ],
+        [
+          "listing_post_id",
+          "6151490235"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ],
+        [
+          "loaded_context",
+          "2e6b4c1585010cd56a6b00f49a8d3cb9ef11e28605295fd00143f5125be2b95e"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2341,
+      "dialogue_uuid": "C_4e7d719597f54bdaa602ddf528fabc14",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_4e7d719597f54bdaa602ddf528fabc14"
+        ],
+        [
+          "listing_post_id",
+          "6151490235"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ],
+        [
+          "loaded_context",
+          "2e6b4c1585010cd56a6b00f49a8d3cb9ef11e28605295fd00143f5125be2b95e"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2424,
+      "dialogue_uuid": "C_c689204484444766b3dbd9c51a651fd0",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_c689204484444766b3dbd9c51a651fd0"
+        ],
+        [
+          "listing_post_id",
+          "6151490235"
+        ],
+        [
+          "listing_content",
+          "cea93f5f56c33a2e383a2256d3f0f0c0e8a1068b04f24da7ba21cc757cf6da20"
+        ],
+        [
+          "loaded_context",
+          "2e6b4c1585010cd56a6b00f49a8d3cb9ef11e28605295fd00143f5125be2b95e"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 106
+        },
+        {
+          "split": "validation",
+          "row_index": 159
+        },
+        {
+          "split": "validation",
+          "row_index": 536
+        },
+        {
+          "split": "validation",
+          "row_index": 541
+        },
+        {
+          "split": "validation",
+          "row_index": 547
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2631,
+      "dialogue_uuid": "C_6fbaf8efc2fb4b9890328690bc0495a8",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_6fbaf8efc2fb4b9890328690bc0495a8"
+        ],
+        [
+          "listing_post_id",
+          "6132877940"
+        ],
+        [
+          "listing_content",
+          "7eb4d58d9bcd9dfb6367f129531a343590bc23c894b1a0b0e948011857fd4852"
+        ],
+        [
+          "loaded_context",
+          "1c23d2669407d2f88a93a4323877df6d22a3ac4f994d424808c8e9dc87491f45"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 1
+        },
+        {
+          "split": "test",
+          "row_index": 146
+        },
+        {
+          "split": "test",
+          "row_index": 197
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2698,
+      "dialogue_uuid": "C_d17341ddcc814ab9b3294e7f6d085cb3",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_d17341ddcc814ab9b3294e7f6d085cb3"
+        ],
+        [
+          "listing_post_id",
+          "6132877940"
+        ],
+        [
+          "listing_content",
+          "7eb4d58d9bcd9dfb6367f129531a343590bc23c894b1a0b0e948011857fd4852"
+        ],
+        [
+          "loaded_context",
+          "8f201e0060a89360c806ae2620e91272c2aa0ca2c858e79b88b468b937773f6a"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 1
+        },
+        {
+          "split": "test",
+          "row_index": 146
+        },
+        {
+          "split": "test",
+          "row_index": 197
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2700,
+      "dialogue_uuid": "C_06d54b84b69e46c99cf01b12b8868831",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_06d54b84b69e46c99cf01b12b8868831"
+        ],
+        [
+          "listing_post_id",
+          "6132877940"
+        ],
+        [
+          "listing_content",
+          "7eb4d58d9bcd9dfb6367f129531a343590bc23c894b1a0b0e948011857fd4852"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 1
+        },
+        {
+          "split": "test",
+          "row_index": 146
+        },
+        {
+          "split": "test",
+          "row_index": 197
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2841,
+      "dialogue_uuid": "C_6a5a6a27bdad45f699df9ad6b617b1c0",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_6a5a6a27bdad45f699df9ad6b617b1c0"
+        ],
+        [
+          "listing_post_id",
+          "6132877940"
+        ],
+        [
+          "listing_content",
+          "7eb4d58d9bcd9dfb6367f129531a343590bc23c894b1a0b0e948011857fd4852"
+        ],
+        [
+          "loaded_context",
+          "1c23d2669407d2f88a93a4323877df6d22a3ac4f994d424808c8e9dc87491f45"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 1
+        },
+        {
+          "split": "test",
+          "row_index": 146
+        },
+        {
+          "split": "test",
+          "row_index": 197
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2846,
+      "dialogue_uuid": "C_703e0a2c1fc246e9bdcc7453a94dafff",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_703e0a2c1fc246e9bdcc7453a94dafff"
+        ],
+        [
+          "listing_post_id",
+          "6132877940"
+        ],
+        [
+          "listing_content",
+          "7eb4d58d9bcd9dfb6367f129531a343590bc23c894b1a0b0e948011857fd4852"
+        ],
+        [
+          "loaded_context",
+          "1c23d2669407d2f88a93a4323877df6d22a3ac4f994d424808c8e9dc87491f45"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 1
+        },
+        {
+          "split": "test",
+          "row_index": 146
+        },
+        {
+          "split": "test",
+          "row_index": 197
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2847,
+      "dialogue_uuid": "C_6981909a879f4abb9eb902a498601ab3",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_6981909a879f4abb9eb902a498601ab3"
+        ],
+        [
+          "listing_post_id",
+          "6132877940"
+        ],
+        [
+          "listing_content",
+          "7eb4d58d9bcd9dfb6367f129531a343590bc23c894b1a0b0e948011857fd4852"
+        ],
+        [
+          "loaded_context",
+          "1c23d2669407d2f88a93a4323877df6d22a3ac4f994d424808c8e9dc87491f45"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 1
+        },
+        {
+          "split": "test",
+          "row_index": 146
+        },
+        {
+          "split": "test",
+          "row_index": 197
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2888,
+      "dialogue_uuid": "C_6ffce542a6b14b0381d3ddf2417428f2",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_6ffce542a6b14b0381d3ddf2417428f2"
+        ],
+        [
+          "listing_post_id",
+          "6132877940"
+        ],
+        [
+          "listing_content",
+          "7eb4d58d9bcd9dfb6367f129531a343590bc23c894b1a0b0e948011857fd4852"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 1
+        },
+        {
+          "split": "test",
+          "row_index": 146
+        },
+        {
+          "split": "test",
+          "row_index": 197
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 2924,
+      "dialogue_uuid": "C_1aa278381a324468a0af34263e09741d",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_1aa278381a324468a0af34263e09741d"
+        ],
+        [
+          "listing_post_id",
+          "6132877940"
+        ],
+        [
+          "listing_content",
+          "7eb4d58d9bcd9dfb6367f129531a343590bc23c894b1a0b0e948011857fd4852"
+        ],
+        [
+          "loaded_context",
+          "1c23d2669407d2f88a93a4323877df6d22a3ac4f994d424808c8e9dc87491f45"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 1
+        },
+        {
+          "split": "test",
+          "row_index": 146
+        },
+        {
+          "split": "test",
+          "row_index": 197
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3237,
+      "dialogue_uuid": "C_3adb9d06769440a1a9146d9bd56d903a",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_3adb9d06769440a1a9146d9bd56d903a"
+        ],
+        [
+          "listing_post_id",
+          "6133091704"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "0c58ddd721bdc874e29a90c3e556748ffd473bd102beb436f09dde33c6bee639"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3339,
+      "dialogue_uuid": "C_a8668196472d4f64b7e3c25460432258",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_a8668196472d4f64b7e3c25460432258"
+        ],
+        [
+          "listing_post_id",
+          "6133091704"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3406,
+      "dialogue_uuid": "C_0c3a4b6492714e79b57ae5e36bb3c058",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_0c3a4b6492714e79b57ae5e36bb3c058"
+        ],
+        [
+          "listing_post_id",
+          "6133091704"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "5063fcdbdcde6bbf24af235fdfad8bdb439c607451dd7bfd561b71cf8556e8e4"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3417,
+      "dialogue_uuid": "C_a009969633fd4f3da1ff09e1495d96c0",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_a009969633fd4f3da1ff09e1495d96c0"
+        ],
+        [
+          "listing_post_id",
+          "6133091704"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "5063fcdbdcde6bbf24af235fdfad8bdb439c607451dd7bfd561b71cf8556e8e4"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3435,
+      "dialogue_uuid": "C_d60394ca10d048b681ab798408661351",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_d60394ca10d048b681ab798408661351"
+        ],
+        [
+          "listing_post_id",
+          "6133091704"
+        ],
+        [
+          "listing_content",
+          "81dcaf60ccab4463e7b89e2370168970e1fc931c3fb6d1afc28844693979427e"
+        ],
+        [
+          "loaded_context",
+          "5063fcdbdcde6bbf24af235fdfad8bdb439c607451dd7bfd561b71cf8556e8e4"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 49
+        },
+        {
+          "split": "validation",
+          "row_index": 95
+        },
+        {
+          "split": "validation",
+          "row_index": 188
+        },
+        {
+          "split": "validation",
+          "row_index": 561
+        },
+        {
+          "split": "validation",
+          "row_index": 576
+        },
+        {
+          "split": "validation",
+          "row_index": 583
+        },
+        {
+          "split": "validation",
+          "row_index": 586
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3676,
+      "dialogue_uuid": "C_6af54184b8354a059abaf4dded1072de",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_6af54184b8354a059abaf4dded1072de"
+        ],
+        [
+          "listing_post_id",
+          "6120863163"
+        ],
+        [
+          "listing_content",
+          "e0731c3fd59bd99d063dbf4a3effdbd92b1a53f06f7e3075e28587546fae77ad"
+        ],
+        [
+          "loaded_context",
+          "b08ec5197ffbd9f1707770ccf2ad31b1aed86b023cfd09838f80c82cfd688a0d"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 32
+        },
+        {
+          "split": "test",
+          "row_index": 158
+        },
+        {
+          "split": "test",
+          "row_index": 204
+        },
+        {
+          "split": "test",
+          "row_index": 240
+        },
+        {
+          "split": "test",
+          "row_index": 253
+        },
+        {
+          "split": "test",
+          "row_index": 258
+        },
+        {
+          "split": "test",
+          "row_index": 259
+        },
+        {
+          "split": "test",
+          "row_index": 267
+        },
+        {
+          "split": "test",
+          "row_index": 269
+        },
+        {
+          "split": "test",
+          "row_index": 273
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3773,
+      "dialogue_uuid": "C_b1c1936b420443a6ad17a628ef604615",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_b1c1936b420443a6ad17a628ef604615"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3828,
+      "dialogue_uuid": "C_f2f294e25c4344018db9e481888bfdef",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_f2f294e25c4344018db9e481888bfdef"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "a70201ff4af7f3f0bc6334be7d4dc18ed838752e1d7ef94beb21ff0e9ac2abe5"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3919,
+      "dialogue_uuid": "C_1cf0d6b5385945929398474e8429fff2",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_1cf0d6b5385945929398474e8429fff2"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "04873cabc29ada7260e62fb85e8f926fc76269eb34c30ca5755155b698b6b900"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 3987,
+      "dialogue_uuid": "C_5b1a294745ec4bf491d5156818eab3a8",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_5b1a294745ec4bf491d5156818eab3a8"
+        ],
+        [
+          "listing_post_id",
+          "6120863163"
+        ],
+        [
+          "listing_content",
+          "e0731c3fd59bd99d063dbf4a3effdbd92b1a53f06f7e3075e28587546fae77ad"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 32
+        },
+        {
+          "split": "test",
+          "row_index": 158
+        },
+        {
+          "split": "test",
+          "row_index": 204
+        },
+        {
+          "split": "test",
+          "row_index": 240
+        },
+        {
+          "split": "test",
+          "row_index": 253
+        },
+        {
+          "split": "test",
+          "row_index": 258
+        },
+        {
+          "split": "test",
+          "row_index": 259
+        },
+        {
+          "split": "test",
+          "row_index": 267
+        },
+        {
+          "split": "test",
+          "row_index": 269
+        },
+        {
+          "split": "test",
+          "row_index": 273
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 4227,
+      "dialogue_uuid": "C_fb43751786c24f12815fcc503c633171",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_fb43751786c24f12815fcc503c633171"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 4335,
+      "dialogue_uuid": "C_2a8bf20a8f954761b79ea73aecd88594",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_2a8bf20a8f954761b79ea73aecd88594"
+        ],
+        [
+          "listing_post_id",
+          "6120863163"
+        ],
+        [
+          "listing_content",
+          "e0731c3fd59bd99d063dbf4a3effdbd92b1a53f06f7e3075e28587546fae77ad"
+        ],
+        [
+          "loaded_context",
+          "b08ec5197ffbd9f1707770ccf2ad31b1aed86b023cfd09838f80c82cfd688a0d"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 32
+        },
+        {
+          "split": "test",
+          "row_index": 158
+        },
+        {
+          "split": "test",
+          "row_index": 204
+        },
+        {
+          "split": "test",
+          "row_index": 240
+        },
+        {
+          "split": "test",
+          "row_index": 253
+        },
+        {
+          "split": "test",
+          "row_index": 258
+        },
+        {
+          "split": "test",
+          "row_index": 259
+        },
+        {
+          "split": "test",
+          "row_index": 267
+        },
+        {
+          "split": "test",
+          "row_index": 269
+        },
+        {
+          "split": "test",
+          "row_index": 273
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 4357,
+      "dialogue_uuid": "C_017876ef2f1e4221ae80dfc496677337",
+      "retained_split": "validation",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_017876ef2f1e4221ae80dfc496677337"
+        ],
+        [
+          "listing_post_id",
+          "6140601964"
+        ],
+        [
+          "listing_content",
+          "e24b6be49cbb48f74d8ba5744ec3c399f2cc71e79ebc22720bb81f22f17824d7"
+        ],
+        [
+          "loaded_context",
+          "a70201ff4af7f3f0bc6334be7d4dc18ed838752e1d7ef94beb21ff0e9ac2abe5"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "validation",
+          "row_index": 8
+        },
+        {
+          "split": "validation",
+          "row_index": 15
+        },
+        {
+          "split": "validation",
+          "row_index": 21
+        },
+        {
+          "split": "validation",
+          "row_index": 86
+        },
+        {
+          "split": "validation",
+          "row_index": 114
+        },
+        {
+          "split": "validation",
+          "row_index": 144
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 4541,
+      "dialogue_uuid": "C_c3684e2a1541484aa4f8f398bc229c90",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_c3684e2a1541484aa4f8f398bc229c90"
+        ],
+        [
+          "listing_post_id",
+          "6120863163"
+        ],
+        [
+          "listing_content",
+          "e0731c3fd59bd99d063dbf4a3effdbd92b1a53f06f7e3075e28587546fae77ad"
+        ],
+        [
+          "loaded_context",
+          "10afbd02789f1e4e2de3b5fb009efee03c118a0b743b0470ab910c89e6249362"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 32
+        },
+        {
+          "split": "test",
+          "row_index": 158
+        },
+        {
+          "split": "test",
+          "row_index": 204
+        },
+        {
+          "split": "test",
+          "row_index": 240
+        },
+        {
+          "split": "test",
+          "row_index": 253
+        },
+        {
+          "split": "test",
+          "row_index": 258
+        },
+        {
+          "split": "test",
+          "row_index": 259
+        },
+        {
+          "split": "test",
+          "row_index": 267
+        },
+        {
+          "split": "test",
+          "row_index": 269
+        },
+        {
+          "split": "test",
+          "row_index": 273
+        }
+      ]
+    },
+    {
+      "source_split": "train",
+      "source_row_index": 5147,
+      "dialogue_uuid": "C_22a378caea404e948e9de5f994770038",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_22a378caea404e948e9de5f994770038"
+        ],
+        [
+          "listing_post_id",
+          "6143935669"
+        ],
+        [
+          "listing_content",
+          "5480f005a0f7d91e06a0ee7ada09dc15b0c18e1900a9c9de6f206b712db65705"
+        ],
+        [
+          "loaded_context",
+          "32b7d848fbfd8edc870db5c458436efc7e3efe006e5e9c1333cb45c402531ab3"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 70
+        },
+        {
+          "split": "test",
+          "row_index": 143
+        },
+        {
+          "split": "test",
+          "row_index": 164
+        },
+        {
+          "split": "test",
+          "row_index": 181
+        },
+        {
+          "split": "test",
+          "row_index": 263
+        },
+        {
+          "split": "test",
+          "row_index": 265
+        },
+        {
+          "split": "test",
+          "row_index": 268
+        },
+        {
+          "split": "test",
+          "row_index": 275
+        },
+        {
+          "split": "test",
+          "row_index": 632
+        },
+        {
+          "split": "test",
+          "row_index": 661
+        },
+        {
+          "split": "test",
+          "row_index": 692
+        }
+      ]
+    },
+    {
+      "source_split": "validation",
+      "source_row_index": 43,
+      "dialogue_uuid": "C_73f71ce82bf54d01b6d0664644cbaccd",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_73f71ce82bf54d01b6d0664644cbaccd"
+        ],
+        [
+          "listing_post_id",
+          "6133092673"
+        ],
+        [
+          "listing_content",
+          "75b2d63d5c0a1ae74992dbf26848735ab1a8c1101d82b3ae857406b58f130f04"
+        ],
+        [
+          "loaded_context",
+          "1a4e92a35f81cbf1a12b91bd6205fd22effccbb3aadce9f83c9c5aed6ea4d3c9"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 106
+        },
+        {
+          "split": "test",
+          "row_index": 109
+        },
+        {
+          "split": "test",
+          "row_index": 154
+        }
+      ]
+    },
+    {
+      "source_split": "validation",
+      "source_row_index": 84,
+      "dialogue_uuid": "C_dec24c0f65fc48dea0820feaf16318f0",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_dec24c0f65fc48dea0820feaf16318f0"
+        ],
+        [
+          "listing_post_id",
+          "6133092673"
+        ],
+        [
+          "listing_content",
+          "75b2d63d5c0a1ae74992dbf26848735ab1a8c1101d82b3ae857406b58f130f04"
+        ],
+        [
+          "loaded_context",
+          "1a4e92a35f81cbf1a12b91bd6205fd22effccbb3aadce9f83c9c5aed6ea4d3c9"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 106
+        },
+        {
+          "split": "test",
+          "row_index": 109
+        },
+        {
+          "split": "test",
+          "row_index": 154
+        }
+      ]
+    },
+    {
+      "source_split": "validation",
+      "source_row_index": 141,
+      "dialogue_uuid": "C_a9f7d47c8f604391bc455b6c4f22349f",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_a9f7d47c8f604391bc455b6c4f22349f"
+        ],
+        [
+          "listing_post_id",
+          "6133092673"
+        ],
+        [
+          "listing_content",
+          "75b2d63d5c0a1ae74992dbf26848735ab1a8c1101d82b3ae857406b58f130f04"
+        ],
+        [
+          "loaded_context",
+          "1a4e92a35f81cbf1a12b91bd6205fd22effccbb3aadce9f83c9c5aed6ea4d3c9"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 106
+        },
+        {
+          "split": "test",
+          "row_index": 109
+        },
+        {
+          "split": "test",
+          "row_index": 154
+        }
+      ]
+    },
+    {
+      "source_split": "validation",
+      "source_row_index": 165,
+      "dialogue_uuid": "C_0c72441692054f118d85af85fa7230d3",
+      "retained_split": "test",
+      "reason": "Connected listing/context group occurs in higher-priority split",
+      "identity_keys": [
+        [
+          "dialogue_uuid",
+          "C_0c72441692054f118d85af85fa7230d3"
+        ],
+        [
+          "listing_post_id",
+          "6133092673"
+        ],
+        [
+          "listing_content",
+          "75b2d63d5c0a1ae74992dbf26848735ab1a8c1101d82b3ae857406b58f130f04"
+        ],
+        [
+          "loaded_context",
+          "1dbe5d6adf8cd556e5e0b68355c99200afca89f98500b5b392e715580de92c34"
+        ]
+      ],
+      "retained_rows": [
+        {
+          "split": "test",
+          "row_index": 106
+        },
+        {
+          "split": "test",
+          "row_index": 109
+        },
+        {
+          "split": "test",
+          "row_index": 154
+        }
+      ]
+    }
+  ]
+}

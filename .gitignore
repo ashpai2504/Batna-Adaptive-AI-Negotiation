@@ -22,3 +22,7 @@ results/llm/cache/
 results/llm/cache_ollama/
 results/llm/cache_azure_v1/
 results/llm/fake/
+
+# Dynamic-BATNA LLM response cache (regenerable)
+results/dynbatna/cache/
+results/dynbatna/lora/adapters/0*_adapters.safetensors

@@ -1,0 +1,942 @@
+{
+  "schema_version": 1,
+  "dataset": "amazon",
+  "seed": 42,
+  "pool_sha256": "63464f0e5d0f86cd481c167eff08d4a704a413b148644314d5c490daab8456dd",
+  "requested_unique_scenarios": 93,
+  "available_unique_scenarios": 93,
+  "selected_unique_scenarios": 93,
+  "repeats": 1,
+  "episodes": [
+    {
+      "episode_id": 0,
+      "scenario_id": "25abc9b1a7bba15ea9945f2c16745eb407e6e29648d73211092801cb8cf22a95",
+      "scenario_index": 59,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 1,
+      "scenario_id": "c635f7e2b997867663ad73f6523340923c9a07f9d5209dc4dc7124930e4265d6",
+      "scenario_index": 91,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 2,
+      "scenario_id": "bde6f589e0677c75d6f59537c4373775bf1d4cba85a1bbdc708198a439a258e7",
+      "scenario_index": 62,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 3,
+      "scenario_id": "7edd780d12525e14274e9f13d7b4f9ccbbe6f0dc76e4ec6e5e9ce61b022ca076",
+      "scenario_index": 37,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 4,
+      "scenario_id": "7058c1cd676bfa15cb618e3be818d2f75c6b8cfb48d2806bd41d23750433e687",
+      "scenario_index": 17,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 5,
+      "scenario_id": "76b2005412d9ca199816d8ba65754ce71a3edfc11d6fc43690bb81e121bb21b2",
+      "scenario_index": 45,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 6,
+      "scenario_id": "7d24bcaf8c2408fe2aafdb3c6192c30e940d3c86a7153669284a471a7e90b8a7",
+      "scenario_index": 47,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 7,
+      "scenario_id": "4421415d82fe8418bb2d1cb66286f28891ca847e0fe6a456433c750caca87a9c",
+      "scenario_index": 29,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 8,
+      "scenario_id": "65e9ef0338b5294d3ad199742e0e2df5bd2373c87e1fbb9ec52761ab580123e7",
+      "scenario_index": 49,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 9,
+      "scenario_id": "6aba504bf225f0cd29b4c42b721d5e2fa3578b5bab05e028dae5483b47ddec19",
+      "scenario_index": 10,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 10,
+      "scenario_id": "659c4a8aeb66de1bdef4745834f563546fa2475cd85b9b41aadb97ebe2554a9d",
+      "scenario_index": 23,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 11,
+      "scenario_id": "4a0b1680404d9ea7c06b24828db3f37a85cbda0248e2395206bb3ac761632b90",
+      "scenario_index": 2,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 12,
+      "scenario_id": "227bc45669a1db102801124d00f5907b47430181399e48ac2fc1fd221a1af0a6",
+      "scenario_index": 40,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 13,
+      "scenario_id": "7b038bfe3ba60427fa440164e9352e2a602e1372aa8072f917cdf05d37bc171d",
+      "scenario_index": 4,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 14,
+      "scenario_id": "050743dd93fc7ca0a694f0652db05d2b994b698bd33cc0e0dee2d4a1ee313c9a",
+      "scenario_index": 46,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 15,
+      "scenario_id": "17c4491df66daf7d110bdec433df98ef3eeaff7231640d896aafc9e50e66f987",
+      "scenario_index": 89,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 16,
+      "scenario_id": "5fb48f17cacf0c575dd112e0d5aac5a697b8bc37d544b22f0b7d68997807b4b0",
+      "scenario_index": 70,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 17,
+      "scenario_id": "52b4056d3ae075306be8636902fa988417aa568ec7e4f189f9ee67556a712d86",
+      "scenario_index": 76,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 18,
+      "scenario_id": "801b3470dc31da231b7c1ea82086fe4c9bb29f104074d561f95bd6d06aeae7dd",
+      "scenario_index": 84,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 19,
+      "scenario_id": "61edc7c7bcea13665bc3d36ecae23ec7613cae87d13c721156ccbdcc09aca670",
+      "scenario_index": 78,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 20,
+      "scenario_id": "6e43ba70660b75f793ee3abf8bce04b0be2a6b38917b3192874f40a6d2e24810",
+      "scenario_index": 86,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 21,
+      "scenario_id": "2f10422d5ad000890e75e331de22f1c693213eed8ec1405e3d350722d881f141",
+      "scenario_index": 13,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 22,
+      "scenario_id": "9d8b19296bd6168814eebe91849c793312563487876236de7dc931a03aa9edfa",
+      "scenario_index": 74,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 23,
+      "scenario_id": "2bc307b6b56dec9f5e08f63ed05d508f716aa321b9f101bef1d9fb8afa982fda",
+      "scenario_index": 1,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 24,
+      "scenario_id": "e5128da7d8e53e908f861f2b856e3b09cfd06ebf42093ea56bae01095839a4a4",
+      "scenario_index": 16,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 25,
+      "scenario_id": "b4fbf8e173787ba365eca03aa3db02af90a88060f5da6f963091f1c63f9dc0ce",
+      "scenario_index": 18,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 26,
+      "scenario_id": "69e9374418eeded439dfb100b6c11bb719c58edc175a96eab63d0fc0d599eb88",
+      "scenario_index": 30,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 27,
+      "scenario_id": "b5fe0d3c94f959886e55a4f2d7d1730faf10cf7add79b523cef2980fd0986e84",
+      "scenario_index": 81,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 28,
+      "scenario_id": "e7c47088afd59d9f2745d7d5df713bf3ee9d617a436d43feeea7db238a27fc96",
+      "scenario_index": 19,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 29,
+      "scenario_id": "fec8a78bc3d3f7ee06156c34c22c0f5fd9f26ddcae12e36760efdbfad67e6e21",
+      "scenario_index": 42,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 30,
+      "scenario_id": "8dc15ba31956ef2d954c3f36794ead433850abc6c54e43386172a5ee1abfa206",
+      "scenario_index": 56,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 31,
+      "scenario_id": "f366485f48bd0a7480cab771d66e7df02b0ff03eda2cb63be5f3f2093d19a894",
+      "scenario_index": 36,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 32,
+      "scenario_id": "454d1b1e0bb966bbf7b91ab9db2a329c6501ad261dc7ca6c810ad3b9356c07ce",
+      "scenario_index": 44,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 33,
+      "scenario_id": "4d63a3bd9b4ba4f0a2cd0c7d81fc9e5d472d2638375cdcee8698f123e7c9e944",
+      "scenario_index": 25,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 34,
+      "scenario_id": "3f32566185ae2a1fa017c82b555d238cfd0291d276d254f56beef35ec705584a",
+      "scenario_index": 33,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 35,
+      "scenario_id": "8e96a74190560ae1cca3bb1df4759a6b8fc5967ad95a5131c86d8c05bd6c979a",
+      "scenario_index": 14,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 36,
+      "scenario_id": "643346c6d30fb6ce012327620fe774bc215a09eac584a9d31d72351ab015d6ec",
+      "scenario_index": 83,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 37,
+      "scenario_id": "2820e5fb12827448b8024264474bbeb2d38da6f581496cf0ef360bf4640ef64a",
+      "scenario_index": 9,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 38,
+      "scenario_id": "8025fcdceaa295ce65e7869b5f61290b21db6f0dbd46f26f0acd231bd3955c51",
+      "scenario_index": 55,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 39,
+      "scenario_id": "63cf2c778c10c3916a6baa38e0b1f56f98e27addd6344b074b4fac7256fd11f4",
+      "scenario_index": 38,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 40,
+      "scenario_id": "b22d3e2f9305cd889d755f374f70747cf2e480fabe9a62f44a0e67f3a486287a",
+      "scenario_index": 85,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 41,
+      "scenario_id": "34a4b67a0b4d167bb171ec42dee067d6cf4a7ca5031e7720df6588cefb5da403",
+      "scenario_index": 6,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 42,
+      "scenario_id": "c636111f2590a21f735e22a7526d4a53c7845e2f890e534dbf4457e9f246742c",
+      "scenario_index": 77,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 43,
+      "scenario_id": "8eb7790caa2b04fb18ab9ff8c5c9dd8d635aeb556181be721e3708f3ededde8a",
+      "scenario_index": 66,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 44,
+      "scenario_id": "6f646d3aeaaf9cd214d55bf703d3390bfd56d0c6afac250a318340343ddaeeba",
+      "scenario_index": 26,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 45,
+      "scenario_id": "4d004e5c72b74662901b2e33aa979112edc668cb0d05460bbad0e90e33e6311c",
+      "scenario_index": 72,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 46,
+      "scenario_id": "6cc85b8a593542029b34352ff993f0b03ef2fddc0a9d4a23aa9f0b92fa8963e8",
+      "scenario_index": 48,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 47,
+      "scenario_id": "744a636b98a4962984af8e59e656c3810fb770c3bf27cd04f924897825a85fb1",
+      "scenario_index": 63,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 48,
+      "scenario_id": "ed9d5542897ca18af0e2bb13bf1c93a3f191f6a34ac662d640e3cd0aef20cb55",
+      "scenario_index": 22,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 49,
+      "scenario_id": "d355b012c46794fcdfae2e22c03f6dc149277dedc12d888237ed459cfddb3846",
+      "scenario_index": 11,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 50,
+      "scenario_id": "902c70531c4604ea3d0f818d1774bf50d9b44199d32549721a8621bd60007f0f",
+      "scenario_index": 50,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 51,
+      "scenario_id": "574d9f7112257824ed6e3b67dd9ecac9c82586e12ca07fcd4e1d72a0a56bfdfb",
+      "scenario_index": 65,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 52,
+      "scenario_id": "d2950bc77cb86d817d5160a3f302a976864b85b9f7ef8245fb7276009f485e6c",
+      "scenario_index": 57,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 53,
+      "scenario_id": "8b50d0d3a63f0474a4fa84af78d879080f978deaf86d565dc2f748aef40c5271",
+      "scenario_index": 35,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 54,
+      "scenario_id": "4874f00eef51b30d6ace0fa882a0789b6270469917de6b34e0a2b187cfe07774",
+      "scenario_index": 87,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 55,
+      "scenario_id": "5d8572d0f93b895dddd2207be69ae7aca193e5b398efaaa5705076cfcf3adfaa",
+      "scenario_index": 60,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 56,
+      "scenario_id": "c3a707445a4b4ddb51ef47b2c2141ea6ca786a1892015fe8b5b9df860001652d",
+      "scenario_index": 8,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 57,
+      "scenario_id": "0e19e326c8fddb54a2361384767b6c1679046ec131b34ceaf23ed5b106f36580",
+      "scenario_index": 82,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 58,
+      "scenario_id": "a782c78a96b09616aefea4cea022241e3a87cadec8e0cadd73e4165bda2fb086",
+      "scenario_index": 68,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 59,
+      "scenario_id": "32c6f6f808cc3bd7485a37e6071ea82452505e39f5cc5df8005fe43ad4d5b827",
+      "scenario_index": 88,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 60,
+      "scenario_id": "fd2663ed0c33118944545c85c132e5cb2dfad6c7f8928ae3df31ba46bd6d7bc3",
+      "scenario_index": 58,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 61,
+      "scenario_id": "6e00958306f675e928d01ee1113dc9f23a3dc09ef736a2cee5d5c0be8e2f65ba",
+      "scenario_index": 31,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 62,
+      "scenario_id": "626aecedb2c04f34e5ff6bb3c5db43acde2f19aa598ee0f9d4872b4e84250713",
+      "scenario_index": 32,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 63,
+      "scenario_id": "653dba472cfe2dfcd7a0ed8d344e957b38b47b9247f1335748f1cd29466b43e5",
+      "scenario_index": 52,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 64,
+      "scenario_id": "da3ea9aae224711d78dab4a9cad60d9af125367147179c15c96e611382ad99b6",
+      "scenario_index": 71,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 65,
+      "scenario_id": "680a3672c53390800f4a3de38c61a5e04dabaa79993179cdddc93280f1e21ce7",
+      "scenario_index": 43,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 66,
+      "scenario_id": "f67e9e858652a72c400b7d9aa725d69725df69d7714d9863c414f924d6ec2d06",
+      "scenario_index": 51,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 67,
+      "scenario_id": "447cfa62ff0dfdf78c9701f19e6674dc04dcf3268a04d01b7ccb43c2289aba2e",
+      "scenario_index": 3,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 68,
+      "scenario_id": "062d37cf8c93ecf1c95901ac3050cbbec2dcac2bd194cc6be475007249ca2c34",
+      "scenario_index": 61,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 69,
+      "scenario_id": "738957257ac5870ee85f0134920ca227797c53f089b6ff86e05f8777ad8150f9",
+      "scenario_index": 27,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 70,
+      "scenario_id": "46c632d5f199941bdab3cb2327e3c103c0928bdacd0c2525f5aacf7c35029315",
+      "scenario_index": 5,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 71,
+      "scenario_id": "1ffb75f047b1e827eb452ec16627d3648c4b293969eac9c3b73c9badca927e47",
+      "scenario_index": 54,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 72,
+      "scenario_id": "f6aa8f9d8eb017276c0a3d09585adcfe496d75c9ab7bd522200cacf59c991ca2",
+      "scenario_index": 80,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 73,
+      "scenario_id": "2d27e13d6401a8c5c121ed5080115f70ee89d1e219df0b18ce61111fb0d6cb90",
+      "scenario_index": 21,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 74,
+      "scenario_id": "15ab08b57c56f1792c2d84eec541d71429e70a53e7c1e1d7ac0766a4409c7673",
+      "scenario_index": 67,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 75,
+      "scenario_id": "c1ecd39bd13147943c960019010e1eddd694d20340022fb7f62f43b214a16a61",
+      "scenario_index": 92,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 76,
+      "scenario_id": "a9057e9ed576f08e3be2cc2e412ff02945a689fec4190741adb0c0ecfe09d0a4",
+      "scenario_index": 24,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 77,
+      "scenario_id": "ae75533d98e3ab1870b8633bdb0cdae42ea5f5d8547583647787d7f3e810e25f",
+      "scenario_index": 90,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 78,
+      "scenario_id": "c0fa7dd90e5af98d1fe0be7883a8405feb3208c42a17b1ff749c41509979fa6d",
+      "scenario_index": 28,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 79,
+      "scenario_id": "dcfe1b4fe9c80830afc6904826d70a446636cd3b97197cbbd3d372c2ec77aaa1",
+      "scenario_index": 0,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 80,
+      "scenario_id": "2343bf07d915b172ad39791b9d625211de25b4a41376e942837fce2f63798c71",
+      "scenario_index": 12,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 81,
+      "scenario_id": "aab36073b45eff95371c44fb07b954086df214e68354d6aa469f6dd90b34f655",
+      "scenario_index": 73,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 82,
+      "scenario_id": "14791c3e4ae8e8c3f30bb2d3674c3ab24a16acbc49b85c53be72d59e3136b1cf",
+      "scenario_index": 41,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 83,
+      "scenario_id": "5a8d5c756c06833de2dd03f994cf89fae6d7fdb36ed204d9d9c514b7d4812956",
+      "scenario_index": 79,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 84,
+      "scenario_id": "abdba8e4a2a2196252e5b5b1d9a5833acfda15f7ccebd869c6887133442f0d74",
+      "scenario_index": 69,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 85,
+      "scenario_id": "c0e0064caf695711d1250c5a83648ce5a9bb349949981390d2d8623df5aa1e1f",
+      "scenario_index": 34,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 86,
+      "scenario_id": "2b59c90a2c230f51ed5ca5cda248578370463db4f21d1edf233888f30bcaf218",
+      "scenario_index": 75,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 87,
+      "scenario_id": "b5cb79827e4e7855afaae667f35b66922111921bd6c2b8b7aab31b2979eb01fa",
+      "scenario_index": 64,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 88,
+      "scenario_id": "3b8951a3ab16851eb0734a54ddc59b67dd8100247a4d5f4e763480213bbab08e",
+      "scenario_index": 7,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 89,
+      "scenario_id": "3bba50f4806fa5ee25de509d111fee70a64e839151d55ec49ff964e700c22702",
+      "scenario_index": 20,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 90,
+      "scenario_id": "1174dabd9cf8b2771aec8120aaa6d345dfa2366b61997ba928138d25dc80b461",
+      "scenario_index": 39,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": true
+    },
+    {
+      "episode_id": 91,
+      "scenario_id": "18d8a06a1db17d49d9b84c099f104b3fd9caac6fea17b249f6bf5429a308dafd",
+      "scenario_index": 53,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    },
+    {
+      "episode_id": 92,
+      "scenario_id": "79fba926e3e57d09c8b675f5d91fd8fc004d865bcbebb98e860a76ccbd792064",
+      "scenario_index": 15,
+      "repeat": 0,
+      "persona": "none",
+      "learner_agent_id": "buyer",
+      "opponent_agent_id": "seller",
+      "learner_goes_first": false
+    }
+  ]
+}
