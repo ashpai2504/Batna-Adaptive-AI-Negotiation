@@ -1,0 +1,16 @@
+{
+ "source_commit": "fe5c64097cd341efaaa7105dfffcbc0b45d18833",
+ "unique_scenarios": 50,
+ "rollout_repeats": 3,
+ "manifest_episodes": 150,
+ "markets": {
+  "vanilla": 10,
+  "deceptive": 10,
+  "negative": 10,
+  "monopoly": 10,
+  "installment": 10
+ },
+ "with_events": 39,
+ "notices": 78,
+ "llm_notices": 78
+}

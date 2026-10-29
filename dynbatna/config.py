@@ -5,6 +5,9 @@ import os
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RLVR_DATA = os.path.join(ROOT, "third_party", "rlvr-batna", "data")
+AGORA_ROOT = os.path.join(ROOT, "third_party", "Agorabench")
+AGORA_DATA = os.path.join(AGORA_ROOT, "datasets")
+AGORA_MANIFEST = os.path.join(ROOT, "data", "dynbatna", "agora.manifest.json")
 DYN_DATA = os.path.join(ROOT, "data", "dynbatna")
 RESULTS = os.path.join(ROOT, "results", "dynbatna")
 PORTWATCH_IMPACTS = os.path.join(ROOT, "data", "real", "measured_port_impacts.csv")
@@ -23,7 +26,7 @@ MANIFESTS = {
     panel: {ds: f"{RLVR_DATA}/evaluation_manifests/revision/{panel}/{ds}.json" for ds in DATA_PATHS}
     for panel in ("main", "baseline")
 }
-PRICE_DATASETS = ("amazon", "craigslist")
+PRICE_DATASETS = ("amazon", "craigslist", "agora")
 MULTI_DATASETS = ("casino", "dnd", "ji")
 
 MAX_TURNS = 12            # rlvr-batna evaluation turn limit

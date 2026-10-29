@@ -88,6 +88,10 @@ class DynEpisode:
     first_bid_ratio: float | None = None
     pareto_efficient: bool | None = None
     joint_surplus_norm: float | None = None
+    # AgoraBench/MERIT buyer-side metrics (deal episodes only)
+    negotiation_power: float | None = None
+    acquisition_ratio: float | None = None
+    agora_buyer_metric: float | None = None
     learner_format_ok: int = 0
     learner_total_turns: int = 0
     opponent_format_ok: int = 0
@@ -116,6 +120,7 @@ class DynEpisode:
     reward_dynamic_tau: float = 0.0
     learner_messages: list = field(default_factory=list)
     opponent_messages: list = field(default_factory=list)
+    market: str = ""                              # AgoraBench market regime, empty elsewhere
 
 
 def _u(env, deal, scenario, agent_id):
@@ -144,6 +149,7 @@ def run_dyn_episode(env: NegotiateEnv, dataset: str, learner_gen, opponent_gen, 
 
     ep = DynEpisode(entry["episode_id"], entry["scenario_id"], dataset, condition, learner_label, opponent_label,
                     persona, learner_id, opponent_id, learner_goes_first, r0=layer["r0"], r_final=layer["r0"])
+    ep.market = scenario.get("market", "")
     last_deal, last_by = None, None
     learner_turn_idx = 0
     best_securable = r          # max over time of max(r(t), u(standing acceptable offer))
@@ -298,6 +304,17 @@ def _score(ep, env, dataset, scenario, layer, max_pts, best_securable, first_eve
         ep.reward_static_tau = BATNA_PENALTY if (tau_applies and ep.bargained_ratio < TAU0) else br
         brd = max(-1.0, min(1.0, ep.bargained_ratio_dyn if ep.bargained_ratio_dyn is not None else br))
         ep.reward_dynamic_tau = BATNA_PENALTY if ep.deal_below_batna else brd
+        if dataset == "agora":
+            p = ep.deal["price"]
+            initial, cost = scenario["initial_price"], scenario["seller_cost"]
+            ep.negotiation_power = round((initial - p) / (initial - cost), 4) if initial > cost else None
+            ep.acquisition_ratio = 1.0
+            if ep.negotiation_power is not None:
+                # MERIT/AgoraBench's released buyer metric:
+                # 1.0139*consumer_surplus + .8812*negotiation_power + 1.1049*acquisition_ratio.
+                ep.agora_buyer_metric = round(
+                    1.0139 * ep.bargained_ratio + 0.8812 * ep.negotiation_power + 1.1049, 4
+                )
         ep.achieved_value = u
     else:
         ep.achieved_value = ep.r_final          # walking away yields the outside option

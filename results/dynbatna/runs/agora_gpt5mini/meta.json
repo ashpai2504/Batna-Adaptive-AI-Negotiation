@@ -1,0 +1,29 @@
+{
+ "name": "agora_gpt5mini",
+ "dataset": "AgoraBench",
+ "scope": "single-product regimes",
+ "source_repository": "https://github.com/ericoh929/Agorabench",
+ "source_commit": "fe5c64097cd341efaaa7105dfffcbc0b45d18833",
+ "source_scenarios": 50,
+ "repeats": 3,
+ "conditions": [
+  "none",
+  "static",
+  "dynamic"
+ ],
+ "learner": {
+  "model": "gpt-5-mini",
+  "max_tokens": 512,
+  "reasoning_effort": "minimal",
+  "sampling": "provider default (temperature=1) for reasoning models"
+ },
+ "opponent": {
+  "model": "gpt-5-mini",
+  "max_tokens": 512,
+  "reasoning_effort": "minimal",
+  "sampling": "provider default (temperature=1) for reasoning models"
+ },
+ "max_turns": 12,
+ "protocol": "rlvr-batna explicit-price-v3 + private event notices",
+ "note": "AgoraBench economic scenarios/prompts retained; native actions mapped to shared protocol"
+}

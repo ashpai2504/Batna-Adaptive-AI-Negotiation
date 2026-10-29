@@ -174,6 +174,7 @@ def generate_schedule(dataset, scenario, agent_id, rng: random.Random, shocks: S
 CONTEXT = {
     "amazon": "a buyer negotiating with a seller for a product; the buyer's outside option is buying the same item elsewhere",
     "craigslist": "a buyer negotiating with a seller for a used item on Craigslist; the buyer's outside option is buying a similar item from another listing",
+    "agora": "a buyer negotiating with a seller in an AgoraBench product market; the buyer's outside option is buying the same product elsewhere",
     "casino": "a camper negotiating with a neighbor over food, water and firewood packages; the camper's outside option is a supply bundle offered by the camp store, valued in the camper's private points",
     "dnd": "a collector negotiating with a partner over books, hats and balls; the collector's outside option is an offer from another collector, valued in private points",
     "ji": "a job applicant negotiating an offer with a recruiter; the applicant's outside option is a competing job offer, valued in the applicant's private points",
@@ -186,6 +187,7 @@ def template_notice(dataset, ev, kind):
     pts = "" if kind == "price" else " points"
     after = f"{u}{ev['display_after']}{pts}"
     what = {"amazon": "the same item from another seller", "craigslist": "a comparable item from another listing",
+            "agora": "the same product from another seller",
             "casino": "your fallback supply bundle (from the camp store)", "dnd": "your fallback offer (from another collector)",
             "ji": "your competing job offer"}[dataset]
     s = ev["source"]

@@ -98,7 +98,8 @@ def run(args):
 # ---------------------------------------------------------------------------------------------- analysis
 METRICS = ["deal_rate", "bargained_ratio", "bargained_ratio_dyn", "reward_surplus", "reward_static_tau",
            "reward_dynamic_tau", "deal_below_batna", "decision_accuracy", "regret", "first_bid_ratio",
-           "pareto_efficient", "joint_surplus_norm", "adaptation_latency", "learner_format_rate", "turns"]
+           "pareto_efficient", "joint_surplus_norm", "negotiation_power", "acquisition_ratio",
+           "agora_buyer_metric", "adaptation_latency", "learner_format_rate", "turns"]
 
 
 def _boot(x, B=4000, seed=0):
@@ -133,6 +134,8 @@ def frame(run_dir):
     for c in METRICS:
         if c in df:
             df[c] = pd.to_numeric(df[c], errors="coerce")
+        else:
+            df[c] = np.nan
     # rlvr-batna clips bargained ratios to [-1, 1] when averaging; regret is capped at one span.
     for c in ("bargained_ratio", "bargained_ratio_dyn"):
         df[c] = df[c].clip(-1, 1)
@@ -216,7 +219,10 @@ def analyze(run_dir):
                 "reward_dynamic_tau", "deal_below_batna", "decision_accuracy", "regret", "first_bid_ratio",
                 "learner_format_rate"]].to_string(index=False))
     print("\n== Event episodes only ==")
-    print(ev_summ[["dataset", "condition", "n"] + ev_metrics].to_string(index=False))
+    if ev_summ.empty:
+        print("(no event episodes in this run subset)")
+    else:
+        print(ev_summ[["dataset", "condition", "n"] + ev_metrics].to_string(index=False))
     print("\n== Paired tests, event episodes (ALL) ==")
     if ev_tests:
         print(pd.DataFrame(ev_tests).query("dataset == 'ALL'").to_string(index=False))

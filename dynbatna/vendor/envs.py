@@ -12,7 +12,9 @@ from .prompts import (
     CASINO_SYSTEM_PROMPT,
     DND_SYSTEM_PROMPT,
     JI_SYSTEM_PROMPT,
+    RESPONSE_RULES,
     SELLER_SYSTEM_PROMPT,
+    TERMINAL_EXAMPLES,
 )
 
 
@@ -480,6 +482,85 @@ class _PriceEnv(NegotiateEnv):
         )
 
 
+_AGORA_MARKETS = ("vanilla", "negative", "monopoly", "installment", "deceptive")
+_AGORA_BUDGET_RE = re.compile(r"budget is \$([\d,]+)", re.IGNORECASE)
+_AGORA_COST_RE = re.compile(r"cost is \$([\d,]+)", re.IGNORECASE)
+_AGORA_PRICE_RE = re.compile(r"price is \$([\d,]+)", re.IGNORECASE)
+_AGORA_ACTIONS = """\
+
+Reply format (choose one action from the alternatives):
+
+Thought: one short sentence of strategic reasoning (private)
+Talk: what you say to the other party
+Action: [SUBMIT_DEAL] price:P | [ACCEPT_DEAL] | [REJECT_DEAL] | [WALK_AWAY]
+
+[SUBMIT_DEAL] = propose or counter-propose a whole-dollar price.
+[ACCEPT_DEAL] = accept only the other party's active [SUBMIT_DEAL].
+[REJECT_DEAL] = reject without proposing a new price.
+""" + TERMINAL_EXAMPLES
+
+
+class AgoraPriceEnv(_PriceEnv):
+    """AgoraBench's five single-product buyer/seller market regimes.
+
+    The economic scenario and market-regime instructions are read verbatim
+    from AgoraBench. Only its native action syntax is replaced by the shared
+    rlvr-batna protocol so results can be scored alongside the main panel.
+    """
+
+    def load_scenarios(self, data_path: str) -> list[dict]:
+        root = Path(data_path)
+        scenarios = []
+        for market in _AGORA_MARKETS:
+            path = root / f"category_{market}.json"
+            raw = json.loads(path.read_text(encoding="utf-8"))
+            for row in raw["scenarios"]:
+                bp = row["buyer"]["system_prompt"]
+                sp = row["seller"]["system_prompt"]
+                bm, cm, pm = (
+                    _AGORA_BUDGET_RE.search(bp),
+                    _AGORA_COST_RE.search(sp),
+                    _AGORA_PRICE_RE.search(sp),
+                )
+                if not (bm and cm and pm):
+                    raise ValueError(f"Could not recover AgoraBench economics from {market}/{row['product']}")
+                scenarios.append(
+                    {
+                        "product": row["product"],
+                        "market": market,
+                        "buyer": row["buyer"],
+                        "seller": row["seller"],
+                        "buyer_budget": int(bm.group(1).replace(",", "")),
+                        "seller_cost": int(cm.group(1).replace(",", "")),
+                        "listing_price": int(pm.group(1).replace(",", "")),
+                        "initial_price": int(pm.group(1).replace(",", "")),
+                        "title": row["product"],
+                        "category": f"AgoraBench/{market}",
+                        "description": f"AgoraBench {market} market scenario.",
+                        "agent_ids": ["buyer", "seller"],
+                    }
+                )
+        return scenarios
+
+    def build_system_prompt(self, scenario: dict, agent_id: str) -> str:
+        # Preserve the benchmark's role and market-regime manipulation, but
+        # remove its incompatible [BUY]/[SELL]/[DEAL]/[QUIT] action section.
+        raw = scenario[agent_id]["system_prompt"]
+        prefix = raw.split("Your Reply should include 3 parts:", 1)[0].strip()
+        return (
+            prefix
+            + "\n\nUse the shared evaluation protocol below instead of the source "
+              "scenario's native action names.\n\n"
+            + RESPONSE_RULES
+            + _AGORA_ACTIONS
+        )
+
+    def opening_prompt(self, agent_id: str) -> str:
+        if agent_id == "seller":
+            return "A buyer is interested in your product. Make your opening price offer."
+        return "You are interested in this product. Make your opening price offer."
+
+
 class AmazonPriceEnv(_PriceEnv):
     """AmazonHistoryPrice: buyer/seller negotiate a single product price.
 
@@ -785,6 +866,7 @@ ENVS: dict[str, type[NegotiateEnv]] = {
     "dnd": DNDEnv,
     "amazon": AmazonPriceEnv,
     "craigslist": CraigslistEnv,
+    "agora": AgoraPriceEnv,
     "ji": JobInterviewEnv,
 }
 
